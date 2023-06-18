@@ -1,88 +1,87 @@
 Mods: {
 	StarlightRiver: {
 		Keybinds: {
-			Starsight.DisplayName: Starsight
-			"Forbidden Winds.DisplayName": Forbidden  Winds
-			Faeflame.DisplayName: Faeflame
+			"Forbidden Winds.DisplayName": Mods.StarlightRiver.Keybinds.Forbidden Winds.DisplayName
+			Faeflame.DisplayName: Mods.StarlightRiver.Keybinds.Faeflame.DisplayName
 		}
 
 		Items: {
 			TestWhip: {
-				DisplayName: "[PH]Test Whip"
+				DisplayName: "[PH]Тестовый Кнут"
 				Tooltip:
 					'''
-					[PH]Whip Infusion
-					No effect
+					[PH]Пропитка Кнута
+					Без эффекта
 					'''
 			}
 
 			TestWhipImprint: {
-				DisplayName: "[PH]Test Whip"
-				Tooltip: No effect
+				DisplayName: "[PH]Тестовый Кнут"
+				Tooltip: Без эффекта
 			}
 
 			Astral: {
-				DisplayName: Comet Rush I
+				DisplayName: Рывок Кометы I
 				Tooltip:
 					'''
-					Forbidden Winds Infusion
-					Dash farther and carry more speed
-					Increases starlight cost to 1.3
+					Насыщение Запретными Ветрами
+					Делайте рывок дальше и удерживайте бо́льшую скорость
+					Повышает затраты выносливости до 1.3
 					'''
 			}
 
 			Astral2: {
-				DisplayName: Comet Rush II
+				DisplayName: Рывок Кометы II
 				Tooltip:
 					'''
-					Forbidden Winds Infusion
-					Dash farther and carry even more speed
-					Increases starlight cost to 1.6
+					Насыщение Запретными Ветрами
+					Делайте рывок дальше и удерживайте еще бо́льшую скорость
+					Повышает затраты выносливости до 1.3
 					'''
 			}
 
 			Astral3: {
-				DisplayName: Comet Rush III
+				DisplayName: Рывок Кометы III
 				Tooltip:
 					'''
-					Forbidden Winds Infusion
-					Dash farther and carry the most speed
-					Increases starlight cost to 2
+					Насыщение Запретными Ветрами
+					Делайте рывок дальше и удерживайте наивысшую скорость
+					Повышает затраты выносливости до 2
 					'''
 			}
 
 			AstralImprint: {
-				DisplayName: Comet Rush
-				Tooltip: Dash farther and carry more speed
+				DisplayName: Рывок Кометы
+				Tooltip: Делайте рывок дальше и удерживайте бо́льшую скорость
 			}
 
 			Blink: {
-				DisplayName: Blink
+				DisplayName: Телепортация
 				Tooltip:
 					'''
-					Forbidden Winds Infusion
-					Instantly teleport a short distance ahead, avoiding enemies and their attacks
+					Насыщение Запретными Ветрами
+					Мгновенно телепортирует на небольшое расстояние вперед, избегая врагов и их атак
 					'''
 			}
 
 			BlinkImprint: {
-				DisplayName: Blink
-				Tooltip: Instantly teleport a short distance ahead, avoiding enemies and their attacks
+				DisplayName: Телепортация
+				Tooltip: Мгновенно телепортирует на небольшое расстояние вперед, избегая врагов и их атак
 			}
 
 			Pulse: {
-				DisplayName: Pulse
+				DisplayName: Импульс
 				Tooltip:
 					'''
-					Forbidden Winds Infusion
-					Dash is replaced by a short, frequent, and potent burst of speed
-					Decreases starlight cost by 0.25
+					Насыщение Запретными Ветрами
+					Рывок заменяется коротким, частым и мощным всплеском скорости
+					Снижает затраты выносливости на 0.25
 					'''
 			}
 
 			PulseImprint: {
-				DisplayName: Pulse
-				Tooltip: Dash is replaced by a short, frequent, and potent burst of speed
+				DisplayName: Импульс
+				Tooltip: Рывок заменяется коротким, частым и мощным всплеском скорости
 			}
 
 			BasicInfusion: {
