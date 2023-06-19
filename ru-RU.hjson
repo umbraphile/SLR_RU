@@ -97,7 +97,7 @@ Mods: {
 
 			CauldronItem: {
 				Tooltip: Places an Alchemic Cauldron
-				DisplayName: Cauldron Item
+				DisplayName: Котёл
 			}
 
 			MixingStick: {
@@ -1659,7 +1659,7 @@ Mods: {
 			}
 
 			SquidBossSpawn: {
-				DisplayName: Suspicious Looking Offering
+				DisplayName: Подозрительно выглядящее подношение
 				Tooltip: Drop in prismatic waters to summon the one the Squiddites worship
 			}
 
@@ -2056,12 +2056,12 @@ Mods: {
 			}
 
 			MagmaCore: {
-				DisplayName: Magmatic Core
+				DisplayName: Магматическое ядро
 				Tooltip: A sample of the hot stuff.
 			}
 
 			MagmiteBomb: {
-				DisplayName: Magmite Bomb
+				DisplayName: Магмит-бомба
 				Tooltip:
 					'''
 					A ball of cuteness turned into an instrument of destruction
@@ -2070,17 +2070,17 @@ Mods: {
 			}
 
 			MagmiteBottle: {
-				DisplayName: Magmite in a Bottle
+				DisplayName: Магмит в банке
 				Tooltip: Why would you do this to him?!
 			}
 
 			MagmiteVacpack: {
 				Tooltip: Blasts out Magmites that stick to enemies and increase summon tag damage
-				DisplayName: Magmite Vacpack
+				DisplayName: Магмитодув
 			}
 
 			Needler: {
-				DisplayName: Needler
+				DisplayName: Игольник
 				Tooltip:
 					'''
 					Stick spikes to enemies to build up heat 
@@ -2497,7 +2497,7 @@ Mods: {
 			}
 
 			AuroracleTrophyItem: {
-				DisplayName: Auroracle Trophy
+				DisplayName: Трофей Авроракула
 				Tooltip: ""
 			}
 
@@ -3411,7 +3411,7 @@ Mods: {
 			VitricBookProjectile.DisplayName: Vitric Book 1
 			VitricBookProjectiletileCheck.DisplayName: Vitric Book 2
 			VitricBookSpikeTrap.DisplayName: Vitric Spike Trap
-			VitricBulletCrystalExplosion.DisplayName: Explosion
+			VitricBulletCrystalExplosion.DisplayName: Взрыв
 			VitricBulletCrystalProjectile.DisplayName: Vitric Crystal
 			VitricBulletProjectile.DisplayName: Vitric Bullet
 			VitricSwordProjectile.DisplayName: Enchanted Glass
@@ -3420,7 +3420,7 @@ Mods: {
 			DreamprismSlam.DisplayName: Slam
 			SnoobelCollider.DisplayName: Snoobel
 			FirebugMagma.DisplayName: Molten glass
-			ConstructRing.DisplayName: Explosion
+			ConstructRing.DisplayName: Взрыв
 			PelterConstructArrow.DisplayName: Glass Arrow
 			PelterConstructArrowLarge.DisplayName: Glass Arrow
 			KettleMortar.DisplayName: Magma Shot
@@ -3550,7 +3550,7 @@ Mods: {
 		}
 
 		Tiles: {
-			CauldronTile.MapEntry: Alchemic Cauldron
+			CauldronTile.MapEntry: Алхимический котёл
 			SeaglassRingTile.MapEntry: ""
 			FaeflamePickupTile.MapEntry: ""
 			ForbiddenWindsPickupTile.MapEntry: ""
@@ -3780,20 +3780,20 @@ Mods: {
 		}
 
 		NPCs: {
-			Glassweaver.DisplayName: Glassweaver
+			Glassweaver.DisplayName: Стеклопряд
 
 			GlassweaverWaiting: {
-				DisplayName: Glassweaver
+				DisplayName: Стеклопряд
 
 				TownNPCMood: {
-					Content: I am content.
-					NoHome: I hate not having a home.
-					FarFromHome: I am too far from home.
-					LoveSpace: I love having so much space.
-					DislikeCrowded: I dislike how crowded I am.
-					HateCrowded: I hate how crowded I am.
-					LikeNPC_Princess: I like {NPCName}.
-					Princess_LovesNPC: I like {NPCName}.
+					Content: Я доволен.
+					NoHome: Ужасно, что у меня нет дома.
+					FarFromHome: Я далеко от дома.
+					LoveSpace: Мне нравится, как тут просторно.
+					DislikeCrowded: Мне не нравится, что тут людно.
+					HateCrowded: Я ненавижу, что тут людно.
+					LikeNPC_Princess: Мне нравится {NPCName}.
+					Princess_LovesNPC: Мне нравится {NPCName}.
 				}
 			}
 
@@ -3801,61 +3801,61 @@ Mods: {
 			GoldPlatform.DisplayName: ""
 			IcePlatform.DisplayName: ""
 			IcePlatformSmall.DisplayName: ""
-			SquidBoss.DisplayName: Auroracle
+			SquidBoss.DisplayName: Авроракул
 			ArenaBottom.DisplayName: ""
 			VitricBackdropLeft.DisplayName: ""
 			VitricBackdropRight.DisplayName: ""
-			VitricBoss.DisplayName: Ceiros
-			VitricBossCrystal.DisplayName: Resonant Crystal
+			VitricBoss.DisplayName: Кайрос
+			VitricBossCrystal.DisplayName: Резонансный кристалл
 			VitricBossPlatformDown.DisplayName: ""
 			VitricBossPlatformDownSmall.DisplayName: ""
 			VitricBossPlatformUp.DisplayName: ""
 			VitricBossPlatformUpSmall.DisplayName: ""
 			BossRushOrb.DisplayName: ???
-			CrescentCaster.DisplayName: Crescent Caster
-			Blover.DisplayName: Blover
-			TreeBat.DisplayName: Tree Bat
-			Warbanner.DisplayName: Haunted Warbanner
-			Fogbinder.DisplayName: Fogbinder
-			AngryCrescent.DisplayName: Angry Crescent
-			Dreamprism.DisplayName: Dreamprism
-			Crusher.DisplayName: Masher
-			Snoobel.DisplayName: Snoobel
-			SwordEnemy.DisplayName: Sky Splicer
+			CrescentCaster.DisplayName: Маг полумесяца
+			Blover.DisplayName: Сдуватель
+			TreeBat.DisplayName: Древесная летучая мышь
+			Warbanner.DisplayName: Одержимое боевое знамя
+			Fogbinder.DisplayName: Повелитель тумана
+			AngryCrescent.DisplayName: Злой полумесяц
+			Dreamprism.DisplayName: Призма грёз
+			Crusher.DisplayName: Давитель
+			Snoobel.DisplayName: Нюхач
+			SwordEnemy.DisplayName: Рассекающий небо
 			Crow.DisplayName: ???
-			BoomBug.DisplayName: Firebug
-			Coolmite.DisplayName: Coolmite
-			CrystalPopper.DisplayName: Sand Bat
-			CrystalSlime.DisplayName: Crystal Slime
-			DesertWisp.DisplayName: Desert Wisp
-			FlyingGruntConstruct.DisplayName: Flying Grunt Construct
-			FlyingPelterConstruct.DisplayName: Flying Pelter Construct
-			GruntConstruct.DisplayName: Grunt Construct
-			JuggernautConstruct.DisplayName: Juggernaut Construct
-			PelterConstruct.DisplayName: Pelter Construct
-			ShieldConstruct.DisplayName: Shield Construct
-			SupporterConstruct.DisplayName: Supporter Construct
-			KettleCreature.DisplayName: Magmortar
-			LesserFirebug.DisplayName: Lesser Firebug
-			MagmitePassive.DisplayName: Small Magmite
-			Snake.DisplayName: Sandviper
+			BoomBug.DisplayName: Огнежук
+			Coolmite.DisplayName: Кримит
+			CrystalPopper.DisplayName: Песчаная летучая мышь
+			CrystalSlime.DisplayName: Кристальный слизень
+			DesertWisp.DisplayName: Пустынный висп
+			FlyingGruntConstruct.DisplayName: Летающий конструкт-пехотинец
+			FlyingPelterConstruct.DisplayName: Летающий конструкт-лучник
+			GruntConstruct.DisplayName: Конструкт-пехотинец
+			JuggernautConstruct.DisplayName: Конструкт-джаггернаут
+			PelterConstruct.DisplayName: Конструкт-лучник
+			ShieldConstruct.DisplayName: Конструкт-защитник
+			SupporterConstruct.DisplayName: Конструкт-усилитель
+			KettleCreature.DisplayName: Магмортира
+			LesserFirebug.DisplayName: Огнемушка
+			MagmitePassive.DisplayName: Маленький магмит
+			Snake.DisplayName: Песчаный змей
 			FaeflamePickup.DisplayName: Faeflame
-			ForbiddenWindsPickup.DisplayName: Forbidden Winds
+			ForbiddenWindsPickup.DisplayName: Запретные ветра
 			InfusionSlotPickup.DisplayName: Unnerving Device
-			BerrySlime.DisplayName: Slimeberry
-			TouchstoneWisp.DisplayName: Aurora Spirit
+			BerrySlime.DisplayName: Слизнеягода
+			TouchstoneWisp.DisplayName: Дух авроры
 			ArenaBlocker.DisplayName: Arena Blocker
-			Auroraborn.DisplayName: Auroraborn
-			Auroraling.DisplayName: Auroraling
-			Tentacle.DisplayName: Tentacle
+			Auroraborn.DisplayName: Порождение севера
+			Auroraling.DisplayName: Аврорщик
+			Tentacle.DisplayName: Щупальце
 			TentacleHurtbox.DisplayName: Tentacle Hurtbox
 			StarlightWaterActor.DisplayName: Starlight Water Actor
 			GravityOrbTest.DisplayName: Gravity Orb Test
 			BossRushGoal.DisplayName: Boss Rush Goal
-			Dweller.DisplayName: Dweller
-			Stalker.DisplayName: Stalker
-			Dreambeast.DisplayName: Dreambeast
-			WaterCube.DisplayName: Water Cube
+			Dweller.DisplayName: Глубарь
+			Stalker.DisplayName: Преследователь
+			Dreambeast.DisplayName: Зверь грёз
+			WaterCube.DisplayName: Водный куб
 
 			EnchantNPC: {
 				DisplayName: Enchant N P C
