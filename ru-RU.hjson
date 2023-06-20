@@ -1,9 +1,9 @@
 Mods: {
 	StarlightRiver: {
 		Keybinds: {
-			Starsight.DisplayName: Starsight
-			"Forbidden Winds.DisplayName": Forbidden  Winds
-			Faeflame.DisplayName: Faeflame
+			Starsight.DisplayName: Звёздное Видение
+			"Forbidden Winds.DisplayName": Запретные Ветра
+			Faeflame.DisplayName: Волшебное Пламя
 		}
 
 		Items: {
@@ -4208,72 +4208,72 @@ Mods: {
 
 		Configs: {
 			AudioConfig: {
-				DisplayName: Audio Config
+				DisplayName: Звуки
 
 				InvSounds: {
-					Label: Custom Inventory Sounds
-					Tooltip: If custom inventory sounds should play for all Items, select few, or none.
+					Label: Пользовательские Звуки Инвентаря
+					Tooltip: Пользовательские звуки инвентаря должны воспроизводится для всех предметов, только выбранных или никаких.
 				}
 			}
 
 			CustomSounds: {
 				Tooltip: ""
-				All.Label: All
-				Specific.Label: Specific
-				None.Label: None
+				All.Label: Все
+				Specific.Label: Специфические
+				None.Label: Никакие
 			}
 
 			GraphicsConfig: {
-				DisplayName: Graphics Config
+				DisplayName: Графика
 
 				ScreenshakeMult: {
-					Label: Screenshake
-					Tooltip: Modifies the intensity of screen shake effects
+					Label: Тряска Экрана
+					Tooltip: Изменяет интенсивность эффектов тряски экрана.
 				}
 
 				LightingPollRate: {
-					Label: Lighting Buffer Poll Rate
+					Label: Частота Опроса Буфера Освещения
 					Tooltip:
 						'''
-						Changes how often the lighting buffer polls for data. 
-						Higher values increase performance but make lighting update slower on some objects. 
-						Lower values result in smoother moving light but may hurt performance.
+						Изменяет частоту опроса буфера освещения для получения данных.
+						Более высокие значения повышают производительность, но замедляют обновление освещения на некоторых объектах. 
+						Меньшие значения обеспечивают более плавное движение освещения, но могут снизить производительность.
 						'''
 				}
 
 				ScrollingLightingPoll: {
-					Label: Scrolling Lighting Buffer Building
+					Label: Построение Прокручиваемого Буфера Освещения
 					Tooltip:
 						'''
-						Causes the lighting buffer to be built over its poll rate instead of all at once. 
-						May help normalize lag spikes but cause strange lighting artifacts.
+						Причиняет построение буфера освещения с учетом его частоты опроса вместо полного построения одновременно.
+						Может помочь нормализовать скачки лагов, но вызвать странные артефакты освещения.
 						'''
 				}
 
 				ParticlesActive: {
-					Label: Extra Particles
+					Label: Дополнительные Частицы
 					Tooltip:
 						'''
-						Enables/Disables special particles. 
-						Disable this if you have performance issues.
+						Включает/Выключает специальные частицы.
+						Отключите, если у вас проблемы с производительностью.
 						'''
 				}
 
 				HighQualityLighting: {
-					Label: High quality lit textures
+					Label: Высококачественные Текстуры С Освещением
 					Tooltip:
 						'''
-						Enables/Disables fancy lighting on large textures. 
-						Disable this if you have performance issues.
+						Включает/Выключает сложное освещение на больших текстурах.
+						Отключите, если у вас проблемы с производительностью.
 						'''
 				}
 
 				ReflectionConfig: {
-					Label: Background Reflections
+					Label: Фоновые Отражения
 					Tooltip:
 						'''
-						Configures what is rendered for background reflections. 
-						Disable this if you have performance issues.
+						Настройка отображения фоновых отражений.
+						Отключите, если у вас проблемы с производительностью.
 						'''
 				}
 			}
@@ -4282,80 +4282,80 @@ Mods: {
 				Tooltip: ""
 
 				ReflectionsOn: {
-					Label: Background Reflections
+					Label: Фоновые Отражения
 					Tooltip:
 						'''
-						This will Enable/Disable the background reflections system entirely. 
-						If this is off, the other settings in this block are ignored. 
-						Disable this if you have performance issues.
+						Полностью Включает/Отключает систему фоновых отражений. 
+						Если отключено, остальные настройки в этом блоке игнорируются.
+						Отключите, если у вас проблемы с производительностью.
 						'''
 				}
 
 				PlayerReflectionsOn: {
-					Label: Reflect Players
+					Label: Отражения Игроков
 					Tooltip:
 						'''
-						This will Enable/Disable reflecting Players.
-						 low performance impact.
+						Включает/Отключает отражения Игроков.
+						 отключите для небольшого повышения производительности.
 						'''
 				}
 
 				NpcReflectionsOn: {
-					Label: Reflect NPCs
+					Label: Отражения НИПов
 					Tooltip:
 						'''
-						This will Enable/Disable reflecting NPCs.
-						 low performance impact.
+						Включает/Отключает отражения НИПов.
+						 отключите для небольшого повышения производительности.
 						'''
 				}
 
 				ProjReflectionsOn: {
-					Label: Reflect Projectiles
+					Label: Отражения Снарядов
 					Tooltip:
 						'''
-						This will Enable/Disable reflecting Projectiles.
-						 high performance impact.
+						Включает/Отключает отражения Снарядов.
+						 отключите для повышения производительности.
 						'''
 				}
 
 				DustReflectionsOn: {
-					Label: Reflect Particles
+					Label: Отражения Частиц
 					Tooltip:
 						'''
-						This will Enable/Disable reflecting Particles, gores and dusts.
-						 high performance impact.
+						Включает/Отключает отражения Частиц, крови и пыли.
+						 отключите для повышения производительности.
 						'''
 				}
 			}
 
 			GUIConfig: {
-				DisplayName: G U I Config
+				DisplayName: GUI Конфигурация
 
 				OverheadStaminaState: {
-					Label: Overhead Starlight Display
-					Tooltip: When/If the overhead starlight meter should display
+					Label: Индикатор Звездного Света Над Головой
+					Tooltip: Должен ли отображаться индикатор звездного света над головой
 				}
 
 				KeywordStyle: {
-					Label: Keyword Style
-					Tooltip: How keywords should be displayed in tooltips
+					Label: Стиль Ключевых Слов
+					Tooltip: Как ключевые слова должны отображаться в подсказках
 				}
 			}
 
 			OverlayState: {
 				Tooltip: ""
-				AlwaysOn.Label: Always On
-				WhileNotFull.Label: While Not Full
-				WhileUsing.Label: While Using
-				Never.Label: Never
+				AlwaysOn.Label: Всегда Включен
+				WhileNotFull.Label: Когда Не Полон
+				WhileUsing.Label: Когда Используется 
+				Never.Label: Никогда
 			}
 
 			KeywordStyle: {
 				Tooltip: ""
-				Colors.Label: Colors
-				Brackets.Label: Brackets
-				Both.Label: Both
-				Neither.Label: Neither
+				Colors.Label: Цвета
+				Brackets.Label: Скобы
+				Both.Label: Вместе
+				Neither.Label: Ничего
 			}
 		}
 	}
