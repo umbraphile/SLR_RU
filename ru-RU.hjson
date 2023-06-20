@@ -8,81 +8,81 @@ Mods: {
 
 		Items: {
 			TestWhip: {
-				DisplayName: "[PH]Test Whip"
+				DisplayName: "[PH]Тестовый Хлыст"
 				Tooltip:
 					'''
-					[PH]Whip Infusion
-					No effect
+					[PH]Насыщение Хлыста
+					Без эффекта
 					'''
 			}
 
 			TestWhipImprint: {
-				DisplayName: "[PH]Test Whip"
-				Tooltip: No effect
+				DisplayName: "[PH]Тестовый Хлыст"
+				Tooltip: Без эффекта
 			}
 
 			Astral: {
-				DisplayName: Comet Rush I
+				DisplayName: Рывок Кометы I
 				Tooltip:
 					'''
-					Forbidden Winds Infusion
-					Dash farther and carry more speed
-					Increases starlight cost to 1.3
+					Насыщение Запретных Ветров
+					Делайте рывок дальше, удерживая бóльшую скорость
+					Повышает затраты звездного света на 1.3
 					'''
 			}
 
 			Astral2: {
-				DisplayName: Comet Rush II
+				DisplayName: Рывок Кометы II
 				Tooltip:
 					'''
-					Forbidden Winds Infusion
-					Dash farther and carry even more speed
-					Increases starlight cost to 1.6
+					Насыщение Запретных Ветров
+					Делайте рывок дальше, удерживая еще бóльшую скорость
+					Повышает затраты звездного света на 1.6
 					'''
 			}
 
 			Astral3: {
-				DisplayName: Comet Rush III
+				DisplayName: Рывок Кометы III
 				Tooltip:
 					'''
-					Forbidden Winds Infusion
-					Dash farther and carry the most speed
-					Increases starlight cost to 2
+					Насыщение Запретных Ветров
+					Делайте рывок дальше, удерживая наибольшую скорость
+					Повышает затраты звездного света на 2
 					'''
 			}
 
 			AstralImprint: {
-				DisplayName: Comet Rush
-				Tooltip: Dash farther and carry more speed
+				DisplayName: Рывок Кометы
+				Tooltip: Делайте рывок дальше, удерживая бóльшую скорость
 			}
 
 			Blink: {
-				DisplayName: Blink
+				DisplayName: Телепорт
 				Tooltip:
 					'''
-					Forbidden Winds Infusion
-					Instantly teleport a short distance ahead, avoiding enemies and their attacks
+					Насыщение Запретных Ветров
+					Мгновенно телепортируйтесь на небольшое расстояние вперед, игнорируя врагов и их атаки
 					'''
 			}
 
 			BlinkImprint: {
-				DisplayName: Blink
-				Tooltip: Instantly teleport a short distance ahead, avoiding enemies and their attacks
+				DisplayName: Телепорт
+				Tooltip: Мгновенно телепортируйтесь на небольшое расстояние вперед, игнорируя врагов и их атаки
 			}
 
 			Pulse: {
-				DisplayName: Pulse
+				DisplayName: Импульс
 				Tooltip:
 					'''
-					Forbidden Winds Infusion
-					Dash is replaced by a short, frequent, and potent burst of speed
-					Decreases starlight cost by 0.25
+					Насыщение Запретных Ветров
+					Рывок заменен коротким, частым и мощным всплеском скорости
+					Понижает затраты звездного света на 0.25
 					'''
 			}
 
 			PulseImprint: {
-				DisplayName: Pulse
-				Tooltip: Dash is replaced by a short, frequent, and potent burst of speed
+				DisplayName: Импульс
+				Tooltip: Рывок заменен коротким, частым и мощным всплеском скорости
 			}
 
 			BasicInfusion: {
