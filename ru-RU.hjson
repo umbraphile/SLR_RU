@@ -86,108 +86,108 @@ Mods: {
 			}
 
 			BasicInfusion: {
-				DisplayName: Blank Slate
+				DisplayName: Пустой сланец
 				Tooltip:
 					'''
-					Can be imprinted with challenges at an infusion station
-					Complete challenges to transform into an infusion
-					New infusions become available as you progress
+					Может быть помечен испытаниями на станции насыщения
+					Выполняйте испытания, чтобы превратить в насыщение
+					По мере вашего прохождения, будут открываться новые насыщения
 					'''
 			}
 
 			CauldronItem: {
-				Tooltip: Places an Alchemic Cauldron
+				Tooltip: Устанавливает Алхимический Котёл
 				DisplayName: Котёл
 			}
 
 			MixingStick: {
 				Tooltip:
 					'''
-					Mixing Stick
-					Use this to finalize alchemy recipes to craft them.
+					Палка-мешалка
+					Используйте для завершения алхимических рецептов, чтобы скрафтить их
 					'''
-				DisplayName: Mixing Stick
+				DisplayName: Палка-мешалка
 			}
 
 			MoonstoneBarrierDye: {
-				DisplayName: Moonstone Tincture
+				DisplayName: Настойка из лунного камня
 				Tooltip:
 					'''
-					Causes barrier to reflect the light of the moon
-					Equipable
-					Vanity Item
+					Заставляет барьер отражать свет луны
+					Можно надеть
+					Предмет украшения
 					'''
 			}
 
 			VitricBossBarrierDye: {
-				DisplayName: Sentinel's Tincture
+				DisplayName: Настойка Стража
 				Tooltip:
 					'''
-					Causes barrier effect to mimic the shield of the Shattered Sentinel
-					Equipable
-					Vanity Item
+					Заставляет барьер имитировать щит Расколотого Стража
+					Можно надеть
+					Предмет украшения
 					'''
 			}
 
 			SeaglassRing: {
-				DisplayName: Seaglass Ring
+				DisplayName: Кольцо морского стекла
 				Tooltip:
 					'''
-					+10 barrier
-					Barrier recharge starts slightly faster
-					'The battering waves have not diminished its shine'
+					+10 барьера
+					Bосстановление барьера начинается немного раньше
+					'Избивающие волны не ослабили его сияние'
 					'''
 			}
 
 			BreachCannon: {
-				DisplayName: Breach Cannon
+				DisplayName: Нарушающая пушка
 				Tooltip:
 					'''
-					Summons a sentry that shoots a laser towards the cursor 
-					These lasers can combine
+					Призывает турель, стреляющую лазерами в сторону курсора 
+					Эти лазеры могут объединяться
 					'''
 			}
 
 			BreacherChest: {
-				DisplayName: Breacher Chestplate
-				Tooltip: 10% increased ranged damage
+				DisplayName: Нагрудник нарушителя
+				Tooltip: Увеличивает стрелковый урон на 10%
 			}
 
 			BreacherHead: {
-				DisplayName: Breacher Visor
-				Tooltip: 15% increased ranged critical strike damage
+				DisplayName: Визор нарушителя
+				Tooltip: Увеличивает стрелковый урон критического удара на 15%
 			}
 
 			BreacherLegs: {
-				DisplayName: Breacher Leggings
-				Tooltip: up to 20% ranged critical strike damage based on speed
+				DisplayName: Поножи нарушителя
+				Tooltip: Увеличивает стрелковый урон критического удара до 20%, в зависимости от вашей скорости передвижения
 			}
 
 			FlareBreacher: {
-				DisplayName: Flare Breacher
-				Tooltip: Fires explosive flares that embed in enemies, blasting shrapnel through and behind them
+				DisplayName: Сигнальная ракета нарушителя
+				Tooltip: Стреляет взрывающимися сигнальными ракетами, которые, вонзившись в цели, взрываются осколками сквозь них и за ними
 			}
 
 			ReactivePlating: {
-				DisplayName: Reactive Plating
+				DisplayName: Реактивное покрытие
 				Tooltip:
 					'''
-					Gain brief damage resistance after taking several hits
-					'The shielding activates, but only after... repeated triggers.'
+					Получите небольшое сопротивление урону после получения нескольких ударов
+					'Защита активируется, но только после... повторных раздражений.'
 					'''
 			}
 
 			ScrappodItem: {
-				DisplayName: Scrap Pod
-				Tooltip: Shatters into scrapnel after reaching the mouse cursor
+				DisplayName: Капсула с металлоломом
+				Tooltip: Разбивается на осколки, когда достигает курсора
 			}
 
 			Scrapshot: {
-				DisplayName: Scrapshot
+				DisplayName: Мусорострел
 				Tooltip:
 					'''
-					<right> to hook your enemies and pull closer
-					Fire while hooked to reduce spread and go flying
+					Нажмите <right>, чтобы притянуть врагов крюком
+					Стреляйте, пока враг на крюке, чтобы понизить разброс и отправиться в полёт
 					'''
 			}
 
