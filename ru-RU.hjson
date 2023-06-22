@@ -1,58 +1,58 @@
 Mods: {
 	StarlightRiver: {
 		Keybinds: {
-			Starsight.DisplayName: Звёздное Видение
-			"Forbidden Winds.DisplayName": Запретные Ветра
-			Faeflame.DisplayName: Волшебное Пламя
+			Starsight.DisplayName: Звёздное видение
+			"Forbidden Winds.DisplayName": Запретные ветра
+			Faeflame.DisplayName: Волшебное пламя
 		}
 
 		Items: {
 			TestWhip: {
-				DisplayName: "[PH]Тестовый Хлыст"
+				DisplayName: "[PH]Тестовый хлыст"
 				Tooltip:
 					'''
-					[PH]Насыщение Хлыста
+					[PH]Насыщение хлыста
 					Без эффекта
 					'''
 			}
 
 			TestWhipImprint: {
-				DisplayName: "[PH]Тестовый Хлыст"
+				DisplayName: "[PH]Тестовый хлыст"
 				Tooltip: Без эффекта
 			}
 
 			Astral: {
-				DisplayName: Рывок Кометы I
+				DisplayName: Рывок кометы I
 				Tooltip:
 					'''
-					Насыщение Запретных Ветров
+					Насыщение запретных ветров
 					Делайте рывок дальше, удерживая бóльшую скорость
 					Повышает затраты звездного света на 1.3
 					'''
 			}
 
 			Astral2: {
-				DisplayName: Рывок Кометы II
+				DisplayName: Рывок кометы II
 				Tooltip:
 					'''
-					Насыщение Запретных Ветров
+					Насыщение запретных ветров
 					Делайте рывок дальше, удерживая еще бóльшую скорость
 					Повышает затраты звездного света на 1.6
 					'''
 			}
 
 			Astral3: {
-				DisplayName: Рывок Кометы III
+				DisplayName: Рывок кометы III
 				Tooltip:
 					'''
-					Насыщение Запретных Ветров
+					Насыщение запретных ветров
 					Делайте рывок дальше, удерживая наибольшую скорость
 					Повышает затраты звездного света на 2
 					'''
 			}
 
 			AstralImprint: {
-				DisplayName: Рывок Кометы
+				DisplayName: Рывок кометы
 				Tooltip: Делайте рывок дальше, удерживая бóльшую скорость
 			}
 
@@ -60,7 +60,7 @@ Mods: {
 				DisplayName: Телепорт
 				Tooltip:
 					'''
-					Насыщение Запретных Ветров
+					Насыщение запретных ветров
 					Мгновенно телепортируйтесь на небольшое расстояние вперед, игнорируя врагов и их атаки
 					'''
 			}
@@ -74,7 +74,7 @@ Mods: {
 				DisplayName: Импульс
 				Tooltip:
 					'''
-					Насыщение Запретных Ветров
+					Насыщение запретных ветров
 					Рывок заменен коротким, частым и мощным всплеском скорости
 					Понижает затраты звездного света на 0.25
 					'''
@@ -96,17 +96,17 @@ Mods: {
 			}
 
 			CauldronItem: {
-				Tooltip: Устанавливает Алхимический Котёл
+				Tooltip: Устанавливает алхимический котёл
 				DisplayName: Котёл
 			}
 
 			MixingStick: {
 				Tooltip:
 					'''
-					Палка-мешалка
-					Используйте для завершения алхимических рецептов, чтобы скрафтить их
+					Палочка для перемешивания 
+					Используйте для завершения алхимических рецептов, чтобы создать их
 					'''
-				DisplayName: Палка-мешалка
+				DisplayName: Палочка для перемешивания 
 			}
 
 			MoonstoneBarrierDye: {
@@ -120,7 +120,7 @@ Mods: {
 			}
 
 			VitricBossBarrierDye: {
-				DisplayName: Настойка Стража
+				DisplayName: Настойка стража
 				Tooltip:
 					'''
 					Заставляет барьер имитировать щит Расколотого Стража
@@ -192,154 +192,154 @@ Mods: {
 			}
 
 			SupplyBeacon: {
-				DisplayName: Supply Beacon
+				DisplayName: Аварийный маячок
 				Tooltip:
 					'''
-					Taking over 50 damage summons a supply drop 
-					Stand near the supply drop to buff either damage, regeneration, or defense 
-					10 second cooldown
+					Получение более 50 единиц урона призывает ящик с припасами
+					Встаньте рядом с ящиком с припасами, чтобы усилить урон, регенерацию или защиту.
+					Перезарядка 10 секунд
 					'''
 			}
 
 			Ivy: {
-				DisplayName: Forest Ivy
-				Tooltip: A common, yet versatile herb
+				DisplayName: Лесной плющ
+				Tooltip: Обычная, но универсальная трава
 			}
 
 			IvySeeds: {
-				DisplayName: Forest Ivy Seeds
-				Tooltip: Can grow in hanging planters
+				DisplayName: Семена лесного плюща
+				Tooltip: Можно выращивать в подвесных горшках
 			}
 
 			PotionForest: {
-				DisplayName: Forest Tonic
-				Tooltip: Provides regeneration and immunity to poison
+				DisplayName: Лесной тоник
+				Tooltip: Обеспечивает регенерацию и иммунитет к яду
 			}
 
 			ArchaeologistsWhip: {
-				DisplayName: Archaeologist's Whip
+				DisplayName: Хлыст археолога
 				Tooltip:
 					'''
-					Strike enemies to make them drop treasure 
-					Collect treasure to empower your minions
+					Ударяйте врагов, чтобы из них выпадали сокровища
+					Собирайте сокровища, чтобы усилить своих миньонов
 					'''
 			}
 
 			AWhip_BlueGem: {
-				DisplayName: Treasure
-				Tooltip: You shouldn't see this
+				DisplayName: Сокровище
+				Tooltip: Вы не должны видеть это
 			}
 
 			AWhip_Cloud: {
-				DisplayName: Treasure
-				Tooltip: You shouldn't see this
+				DisplayName: Сокровище
+				Tooltip: Вы не должны видеть это
 			}
 
 			AWhip_Coin: {
-				DisplayName: Treasure
-				Tooltip: You shouldn't see this
+				DisplayName: Сокровище
+				Tooltip: Вы не должны видеть это
 			}
 
 			AWhip_GreenGem: {
-				DisplayName: Treasure
-				Tooltip: You shouldn't see this
+				DisplayName: Сокровище
+				Tooltip: Вы не должны видеть это
 			}
 
 			AWhip_Necklace: {
-				DisplayName: Treasure
-				Tooltip: You shouldn't see this
+				DisplayName: Сокровище
+				Tooltip: Вы не должны видеть это
 			}
 
 			AWhip_RedGem: {
-				DisplayName: Treasure
-				Tooltip: You shouldn't see this
+				DisplayName: Сокровище
+				Tooltip: Вы не должны видеть это
 			}
 
 			AztecDeathSaxophone: {
-				DisplayName: Death Saxophone
+				DisplayName: Саксофон смерти
 				Tooltip:
 					'''
-					Take damage and kill foes with other weapons to charge the saxophone
-					Once charged, use it to unleash a high-damage roar of primal death
+					Получайте урон и убивайте врагов другим оружием, чтобы зарядить саксофон
+					После зарядки используйте его, чтобы издать рев первобытной смерти, наносящий большой урон
 					'''
 			}
 
 			DesertArtifact1Item: {
-				DisplayName: Ancient Fossil
-				Tooltip: Would fetch a nice price!
+				DisplayName: Древнее ископаемое
+				Tooltip: Мог бы принести много денег!
 			}
 
 			DesertArtifact2Item: {
-				DisplayName: Ancient Fossil
-				Tooltip: Would fetch a nice price!
+				DisplayName: Древнее ископаемое
+				Tooltip: Мог бы принести много денег!
 			}
 
 			DesertArtifact3Item: {
-				DisplayName: Ancient Fossil
-				Tooltip: Would fetch a nice price!
+				DisplayName: Древнее ископаемое
+				Tooltip: Мог бы принести много денег!
 			}
 
 			DesertArtifact4Item: {
-				DisplayName: Ancient Fossil
-				Tooltip: Would fetch a nice price!
+				DisplayName: Древнее ископаемое
+				Tooltip: Мог бы принести много денег!
 			}
 
 			DesertArtifact5Item: {
-				DisplayName: Ancient Fossil
-				Tooltip: Would fetch a nice price!
+				DisplayName: Древнее ископаемое
+				Tooltip: Мог бы принести много денег!
 			}
 
 			DesertArtifact6Item: {
-				DisplayName: Ancient Fossil
-				Tooltip: Would fetch a nice price!
+				DisplayName: Древнее ископаемое
+				Tooltip: Мог бы принести много денег!
 			}
 
 			DesertArtifact7Item: {
-				DisplayName: Ancient Fossil
-				Tooltip: Would fetch a nice price!
+				DisplayName: Древнее ископаемое
+				Tooltip: Мог бы принести много денег!
 			}
 
 			ExoticGeodeArtifactItem: {
-				DisplayName: Exotic Geode
+				DisplayName: Экзотическая жеода
 				Tooltip:
 					'''
-					'Incredibly shiny'
-					An extractinator might be able to break it apart...
+					'Невероятно блестящая'
+					Экстрактор мог бы разбить ее на составные...
 					'''
 			}
 
 			PerfectlyGenericArtifactItem: {
-				DisplayName: Perfectly Generic Object
-				Tooltip: Summons a Perfectly Generic Pet
+				DisplayName: Идеально обобщенный объект
+				Tooltip: Призывает Идеально Обобщенного Питомца
 			}
 
 			PirateChestArtifactItem: {
-				DisplayName: Pirate Chest
+				DisplayName: Пиратский сундук
 				Tooltip:
 					'''
-					<right> to open
-					'Sought after for centuries'
+					<right> чтобы открыть
+					'Издавна искомый веками'
 					'''
 			}
 
 			RainTotemArtifactItem: {
-				DisplayName: Rain Totem
-				Tooltip: Summons or banishes a great storm
+				DisplayName: Тотем дождя
+				Tooltip: Призывает или изгоняет великий шторм
 			}
 
 			WindTotemArtifactItem: {
-				DisplayName: Wind Totem
-				Tooltip: Summons or banishes a great wind
+				DisplayName: Тотем ветра
+				Tooltip: Призывает или изгоняет великий ветер
 			}
 
 			DebugModerEnabler: {
-				DisplayName: Debug Mode
-				Tooltip: Enables debug mode
+				DisplayName: Режим отладки
+				Tooltip: Включает режим отладки
 			}
 
 			DebugStick: {
-				DisplayName: Debug Stick
-				Tooltip: Has whatever effects are needed
+				DisplayName: Отладочная палка
+				Tooltip: Имеет любые необходимые эффекты
 			}
 
 			DefiledAnkh: {
@@ -4211,7 +4211,7 @@ Mods: {
 				DisplayName: Звуки
 
 				InvSounds: {
-					Label: Пользовательские Звуки Инвентаря
+					Label: Пользовательские звуки инвентаря
 					Tooltip: Пользовательские звуки инвентаря должны воспроизводится для всех предметов, только выбранных или никаких.
 				}
 			}
@@ -4227,12 +4227,12 @@ Mods: {
 				DisplayName: Графика
 
 				ScreenshakeMult: {
-					Label: Тряска Экрана
+					Label: Тряска экрана
 					Tooltip: Изменяет интенсивность эффектов тряски экрана.
 				}
 
 				LightingPollRate: {
-					Label: Частота Опроса Буфера Освещения
+					Label: Частота опроса буфера освещения
 					Tooltip:
 						'''
 						Изменяет частоту опроса буфера освещения для получения данных.
@@ -4242,7 +4242,7 @@ Mods: {
 				}
 
 				ScrollingLightingPoll: {
-					Label: Построение Прокручиваемого Буфера Освещения
+					Label: Построение прокручиваемого буфера освещения
 					Tooltip:
 						'''
 						Причиняет построение буфера освещения с учетом его частоты опроса вместо полного построения одновременно.
@@ -4251,29 +4251,29 @@ Mods: {
 				}
 
 				ParticlesActive: {
-					Label: Дополнительные Частицы
+					Label: Дополнительные частицы
 					Tooltip:
 						'''
 						Включает/Выключает специальные частицы.
-						Отключите, если у вас проблемы с производительностью.
+						Отключите для повышения производительности.
 						'''
 				}
 
 				HighQualityLighting: {
-					Label: Высококачественные Текстуры С Освещением
+					Label: Высококачественные текстуры с освещением
 					Tooltip:
 						'''
 						Включает/Выключает сложное освещение на больших текстурах.
-						Отключите, если у вас проблемы с производительностью.
+						Отключите для повышения производительности.
 						'''
 				}
 
 				ReflectionConfig: {
-					Label: Фоновые Отражения
+					Label: Фоновые отражения
 					Tooltip:
 						'''
 						Настройка отображения фоновых отражений.
-						Отключите, если у вас проблемы с производительностью.
+						Отключите для повышения производительности.
 						'''
 				}
 			}
@@ -4282,21 +4282,21 @@ Mods: {
 				Tooltip: ""
 
 				ReflectionsOn: {
-					Label: Фоновые Отражения
+					Label: Фоновые отражения
 					Tooltip:
 						'''
-						Полностью Включает/Отключает систему фоновых отражений. 
-						Если отключено, остальные настройки в этом блоке игнорируются.
-						Отключите, если у вас проблемы с производительностью.
+						Полностью включает/отключает систему фоновых отражений. 
+						Если отключено, остальные настройки в этом отделе игнорируются.
+						Отключите для повышения производительности.
 						'''
 				}
 
 				PlayerReflectionsOn: {
-					Label: Отражения Игроков
+					Label: Отражения игроков
 					Tooltip:
 						'''
-						Включает/Отключает отражения Игроков.
-						 отключите для небольшого повышения производительности.
+						Включает/Отключает отражения игроков.
+						 Отключите для небольшого повышения производительности.
 						'''
 				}
 
@@ -4305,25 +4305,25 @@ Mods: {
 					Tooltip:
 						'''
 						Включает/Отключает отражения НИПов.
-						 отключите для небольшого повышения производительности.
+						 Отключите для небольшого повышения производительности.
 						'''
 				}
 
 				ProjReflectionsOn: {
-					Label: Отражения Снарядов
+					Label: Отражения снарядов
 					Tooltip:
 						'''
-						Включает/Отключает отражения Снарядов.
-						 отключите для повышения производительности.
+						Включает/Отключает отражения снарядов.
+						 Отключите для повышения производительности.
 						'''
 				}
 
 				DustReflectionsOn: {
-					Label: Отражения Частиц
+					Label: Отражения частиц
 					Tooltip:
 						'''
-						Включает/Отключает отражения Частиц, крови и пыли.
-						 отключите для повышения производительности.
+						Включает/Отключает отражения частиц, крови и пыли.
+						 Отключите для повышения производительности.
 						'''
 				}
 			}
@@ -4332,21 +4332,21 @@ Mods: {
 				DisplayName: GUI Конфигурация
 
 				OverheadStaminaState: {
-					Label: Индикатор Звездного Света Над Головой
+					Label: Индикатор звездного света над головой
 					Tooltip: Должен ли отображаться индикатор звездного света над головой
 				}
 
 				KeywordStyle: {
-					Label: Стиль Ключевых Слов
+					Label: Стиль ключевых слов
 					Tooltip: Как ключевые слова должны отображаться в подсказках
 				}
 			}
 
 			OverlayState: {
 				Tooltip: ""
-				AlwaysOn.Label: Всегда Включен
-				WhileNotFull.Label: Когда Не Полон
-				WhileUsing.Label: Когда Используется 
+				AlwaysOn.Label: Всегда включен
+				WhileNotFull.Label: Когда не полон
+				WhileUsing.Label: Когда используется 
 				Never.Label: Никогда
 			}
 
