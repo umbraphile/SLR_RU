@@ -324,12 +324,12 @@ Mods: {
 
 			RainTotemArtifactItem: {
 				DisplayName: Тотем дождя
-				Tooltip: Призывает или изгоняет великий шторм
+				Tooltip: Призывает или прекращает великий шторм
 			}
 
 			WindTotemArtifactItem: {
 				DisplayName: Тотем ветра
-				Tooltip: Призывает или изгоняет великий ветер
+				Tooltip: Призывает или прекращает великий ветер
 			}
 
 			DebugModerEnabler: {
@@ -345,29 +345,29 @@ Mods: {
 			DefiledAnkh: {
 				Tooltip:
 					'''
-					Cursed : Your Barrier protects against twenty-five percent less damage
-					You cannot gain any debuff besides Potion, Barrier and Mana Sickness while Barrier is active
-					+40 max Barrier
+					Проклятие: барьер поглощает на 25% меньше урона
+					Вы не можете получить никаких дебаффов, кроме послезельевой болезни, болезней маны и барьера, пока барьер активен
+					+40 максимального барьера
 					'''
-				DisplayName: Defiled Ankh
+				DisplayName: Осквернённый Анкх
 			}
 
 			Sandscript: {
-				DisplayName: Sandscript
+				DisplayName: Песчаная таблица
 				Tooltip:
 					'''
-					Manifests a blade of sand
-					`This lost tablet contains a fragment of the Epic of Yeremy
-					...The writing is sorta amateurish for an ancient relic`
+					Проявляет лезвие песка
+					`Эта утерянная табличка содержит фрагмент эпоса о Еремии
+					...Надпись немного дилетантская для древней реликвии`
 					'''
 			}
 
 			AquaSapphire: {
-				DisplayName: Aqua Sapphire
+				DisplayName: Водяной сапфир
 				Tooltip:
 					'''
-					Barrier negates 5% more damage 
-					+10 Barrier
+					Барьер поглощает на 5% больше урона
+					+10 барьера
 					'''
 			}
 
