@@ -372,12 +372,12 @@ Mods: {
 			}
 
 			Cloudstrike: {
-				DisplayName: Cloudstrike
+				DisplayName: Небесный удар
 				Tooltip:
 					'''
-					Accumulate electrical charge while not firing
-					Damage and range of your next shot increases with charge
-					'Meet this storm of sound and fury, till thunder-clashes fade to silence'
+					Аккумулирует электрический заряд, если вы не стреляете 
+					Урон и дальность вашего следующего выстрела растут с увеличением заряда
+					'Выйди навстречу этому шторму и сражайся, пока звуки ярости не сменятся тишиной'
 					'''
 			}
 
