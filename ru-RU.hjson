@@ -3861,14 +3861,14 @@ Mods: {
 				DisplayName: Enchant N P C
 
 				TownNPCMood: {
-					Content: I am content.
-					NoHome: I hate not having a home.
-					FarFromHome: I am too far from home.
-					LoveSpace: I love having so much space.
-					DislikeCrowded: I dislike how crowded I am.
-					HateCrowded: I hate how crowded I am.
-					LikeNPC_Princess: I like {NPCName}.
-					Princess_LovesNPC: I like {NPCName}.
+					Content: Я доволен.
+					NoHome: Ужасно, что у меня нет дома.
+					FarFromHome: Я далеко от дома.
+					LoveSpace: Мне нравится, как тут просторно.
+					DislikeCrowded: Мне не нравится, что тут людно.
+					HateCrowded: Я ненавижу, что тут людно.
+					LikeNPC_Princess: Мне нравится {NPCName}.
+					Princess_LovesNPC: Мне нравится {NPCName}.
 				}
 			}
 
@@ -3876,14 +3876,14 @@ Mods: {
 				DisplayName: Voidsmith
 
 				TownNPCMood: {
-					Content: I am content.
-					NoHome: I hate not having a home.
-					FarFromHome: I am too far from home.
-					LoveSpace: I love having so much space.
-					DislikeCrowded: I dislike how crowded I am.
-					HateCrowded: I hate how crowded I am.
-					LikeNPC_Princess: I like {NPCName}.
-					Princess_LovesNPC: I like {NPCName}.
+					Content: Я доволен.
+					NoHome: Ужасно, что у меня нет дома.
+					FarFromHome: Я далеко от дома.
+					LoveSpace: Мне нравится, как тут просторно.
+					DislikeCrowded: Мне не нравится, что тут людно.
+					HateCrowded: Я ненавижу, что тут людно.
+					LikeNPC_Princess: Мне нравится {NPCName}.
+					Princess_LovesNPC: Мне нравится {NPCName}.
 				}
 			}
 
@@ -3893,18 +3893,18 @@ Mods: {
 
 		Buffs: {
 			GlassweaverDot: {
-				DisplayName: Incineration
-				Description: Burning incredibly fast!
+				DisplayName: Сожжение
+				Description: Очень быстро сгораете!
 			}
 
 			Claustrophobia: {
-				DisplayName: Claustrophobia
-				Description: Stuck in wisp form!
+				DisplayName: Клаустрафобия
+				Description: Сплющило в трубочку!
 			}
 
 			CoughDropsBuff: {
-				DisplayName: Cough Drops
-				Description: Your speed and damage are boosted
+				DisplayName: Пилюли от кашля
+				Description: Ваша скорость и урон увеличены
 			}
 
 			FerrofluidDraftBuff: {
@@ -3922,17 +3922,17 @@ Mods: {
 			}
 
 			ForestTonic: {
-				DisplayName: Forest Tonic
+				DisplayName: Лесной тоник
 				Description:
 					'''
-					Immunity to poison
-					Slowly regenerate life
+					Иммунитет к яду
+					Медленно регенерирует жизнь
 					'''
 			}
 
 			Full: {
-				DisplayName: Stuffed
-				Description: Cannot consume any more rich food
+				DisplayName: Перенасыщение
+				Description: Нельзя употребить больше сытной пищи
 			}
 
 			HotspringHeal: {
@@ -3941,18 +3941,18 @@ Mods: {
 			}
 
 			Illuminant: {
-				DisplayName: Illuminant
-				Description: Glowing brightly!
+				DisplayName: Источник света
+				Description: Светитесь ярко!
 			}
 
 			MossRegen: {
-				DisplayName: Mending Moss
-				Description: Regenerating life quickly!
+				DisplayName: Исцеляющий мох
+				Description: Быстрое восстановление жизни!
 			}
 
 			Overcharge: {
-				DisplayName: Dreamwarp
-				Description: Greatly reduced armor
+				DisplayName: Искажение снов
+				Description: Значительно уменьшена броня
 			}
 
 			PrismaticDrown: {
