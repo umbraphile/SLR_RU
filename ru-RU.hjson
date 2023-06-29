@@ -382,26 +382,26 @@ Mods: {
 			}
 
 			InertStaff: {
-				DisplayName: Inert Crescent Staff
-				Tooltip: ‘Still holds some latent astral energy...’
+				DisplayName: Неактивный посох полумесяца
+				Tooltip: ‘Всё ещё содержит немного потенциальную астральную энергию...’
 			}
 
 			SkullBuster: {
-				DisplayName: Skullbuster
+				DisplayName: Разрушитель черепов
 				Tooltip:
 					'''
-					<right> to throw 4 skullbombs 
-					Release <right> to shoot them all in quick succession
+					Зажмите <right>, чтобы метнуть 4 черепных бомбы
+					Отпустите <right>, чтобы быстро выстрелить ими всеми подряд
 					'''
 			}
 
 			StarlightPendant: {
-				DisplayName: Starlight Pendant
+				DisplayName: Кулон звёздного света
 				Tooltip:
 					'''
-					Boosts mana regen based on your current barrier
-					Consuming mana boosts barrier regen
-					-10 barrier
+					Увеличивает восстановление маны в зависимости от вашего текущего барьера
+					Потребление маны усиливает восстановление барьера
+					-10 барьера
 					'''
 			}
 
