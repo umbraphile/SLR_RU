@@ -408,29 +408,29 @@ Mods: {
 			ThousandthDegree: {
 				Tooltip:
 					'''
-					Melts through enemies to build up heat
-					Releasing launches the blazing wheel
-					'Rip and tear'
+					Раскручиваясь накапливает плазму 
+					Высвобождение запускает пылающее колесо
+					'Запустите и разорвите'
 					'''
-				DisplayName: Thousandth Degree
+				DisplayName: Плазменный резак
 			}
 
 			TwistSword: {
-				DisplayName: Twisted Greatsword
+				DisplayName: Мечь вихря
 				Tooltip:
 					'''
-					Hold to unleash a whirling slash
-					Hold jump while slashing to accelerate upward
+					Удерживайте, чтобы выпустить вихревой удар.
+					Удерживайте прыжок во время удара, чтобы ускориться вверх
 					'''
 			}
 
 			WardedMail: {
-				DisplayName: Warded Mail
+				DisplayName: Охранная кольчуга
 				Tooltip:
 					'''
-					Barrier damage is applied to attackers as thorns 
-					+Barrier negates 10% more damage 
-					+40 barrier
+					Барьер наносит атакующим урон шипами 
+					+Барьер отрицает на 10% больше урона 
+					+40 барьер
 					'''
 			}
 
@@ -438,74 +438,74 @@ Mods: {
 				DisplayName: Replicant Cells
 				Tooltip:
 					'''
-					+15% Inoculation
-					Health regeneration starts slightly faster
+					+15% иммунитета
+					Регенерация здоровья начинается немного быстрее
 					'''
 			}
 
 			BlackPepper: {
 				Tooltip: "\n\n"
-				DisplayName: Black Pepper
+				DisplayName: Черный перец
 			}
 
 			BrusselSprouts: {
 				Tooltip: "\n\n"
-				DisplayName: Brussel Sprouts
+				DisplayName: Брюссельская капуста
 			}
 
 			Butter: {
 				Tooltip: "\n\n"
-				DisplayName: Butter
+				DisplayName: Кусок сливоча
 			}
 
 			Cabbage: {
 				Tooltip: "\n\n"
-				DisplayName: Cabbage
+				DisplayName: Качан капусты
 			}
 
 			Carrot: {
 				Tooltip: "\n\n"
-				DisplayName: Carrot
+				DisplayName: Морковь
 			}
 
 			Cashews: {
 				Tooltip: "\n\n"
-				DisplayName: Cashews
+				DisplayName: Орех кешью
 			}
 
 			Cherry: {
 				Tooltip: "\n\n"
-				DisplayName: Cherry
+				DisplayName: Спелая вишня
 			}
 
 			ChocolateGlaze: {
 				Tooltip: "\n\n"
-				DisplayName: Chocolate Glaze
+				DisplayName: Шоколадная глазурь
 			}
 
 			CoffeeBeans: {
 				Tooltip: "\n\n"
-				DisplayName: Coffee Beans
+				DisplayName: Кофейные зерна
 			}
 
 			CrimsonSteak: {
 				Tooltip: "\n\n"
-				DisplayName: Crimson Steak
+				DisplayName: Багровый стейк
 			}
 
 			DicedMushrooms: {
 				Tooltip: "\n\n"
-				DisplayName: Diced Mushrooms
+				DisplayName: Нарезанные грибы
 			}
 
 			Dough: {
 				Tooltip: "\n\n"
-				DisplayName: Dough
+				DisplayName: Тесто
 			}
 
 			Dressing: {
 				Tooltip: "\n\n"
-				DisplayName: Dressing
+				DisplayName: Соус
 			}
 
 			EaterSteak: {
@@ -515,12 +515,12 @@ Mods: {
 
 			Entrails: {
 				Tooltip: "\n\n"
-				DisplayName: Entrails
+				DisplayName: Внутренности
 			}
 
 			Eye: {
 				Tooltip: "\n\n"
-				DisplayName: Eye
+				DisplayName: Глаз
 			}
 
 			FaceSteak: {
@@ -530,47 +530,47 @@ Mods: {
 
 			Flour: {
 				Tooltip: "\n\n"
-				DisplayName: Flour
+				DisplayName: Мешок муки
 			}
 
 			Gelatine: {
 				Tooltip: "\n\n"
-				DisplayName: Gelatine
+				DisplayName: Желатин
 			}
 
 			GelBerry: {
 				Tooltip: "\n\n"
-				DisplayName: Gel Berry
+				DisplayName: Гель-ягода
 			}
 
 			GiantMushroom: {
 				Tooltip: "\n\n"
-				DisplayName: Giant Mushroom
+				DisplayName: Большой гриб
 			}
 
 			HealthExtract: {
 				Tooltip: "\n\n"
-				DisplayName: Health Extract
+				DisplayName: Экстракт здоровья
 			}
 
 			HoneySyrup: {
 				Tooltip: "\n\n"
-				DisplayName: Honey Syrup
+				DisplayName: Медовый сироп
 			}
 
 			IvySalad: {
 				Tooltip: "\n\n"
-				DisplayName: Ivy Salad
+				DisplayName: Салат из плюща
 			}
 
 			JumboShrimp: {
 				Tooltip: "\n\n"
-				DisplayName: Jumbo Shrimp
+				DisplayName: Креветки "Джамбо"
 			}
 
 			Lettuce: {
 				Tooltip: "\n\n"
-				DisplayName: Lettuce
+				DisplayName: Салат-латук
 			}
 
 			MahoganyRoot: {
@@ -580,37 +580,37 @@ Mods: {
 
 			ManaExtract: {
 				Tooltip: "\n\n"
-				DisplayName: Mana Extract
+				DisplayName: Экстракт маны
 			}
 
 			Meal: {
-				DisplayName: Meal
-				Tooltip: Rich food that provides these buffs:
+				DisplayName: Пища
+				Tooltip: Богатая пища, обеспечивающая эти баффы:
 			}
 
 			Milk: {
 				Tooltip: "\n\n"
-				DisplayName: Milk
+				DisplayName: Пакет молока
 			}
 
 			Rabbit: {
 				Tooltip: "\n\n"
-				DisplayName: Rabbit
+				DisplayName: Крольчатина
 			}
 
 			RocketFuel: {
 				Tooltip: "\n\n"
-				DisplayName: Rocket Fuel
+			DisplayName: Ракетное топливо
 			}
 
 			SeaSalt: {
 				Tooltip: "\n\n"
-				DisplayName: Sea Salt
+				DisplayName: Морская соль
 			}
 
 			SkySprinkles: {
 				Tooltip: "\n\n"
-				DisplayName: Sky Sprinkles
+				DisplayName: Небесные осколки
 			}
 
 			BlastoffShake: {
@@ -690,7 +690,7 @@ Mods: {
 
 			Toast: {
 				Tooltip: "\n\n"
-				DisplayName: Toast
+				DisplayName: Горячий тост
 			}
 
 			VertebrateNuggets: {
