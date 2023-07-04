@@ -387,7 +387,7 @@ Mods: {
 			}
 
 			SkullBuster: {
-				DisplayName: Разрушитель черепов
+				DisplayName: Череполом
 				Tooltip:
 					'''
 					Зажмите <right>, чтобы метнуть 4 черепных бомбы
@@ -4190,18 +4190,18 @@ Mods: {
 		Compat: {
 			BossChecklist: {
 				Auroracle: {
-					SpawnInfo: Drop a Suspicious Looking Offering into the prismatic waters of the Permafrost Shrine, accessed only through the coldest caves.
-					Despawn: The frozen cathedral falls silent.
+					SpawnInfo: Бросьте подозрительно выглядящее подношение в призматические воды Святилища Вечной Мерзлоты, попасть в которое можно только через самые холодные пещеры.
+					Despawn: Замерзший собор замолкает.
 				}
 
 				Glassweaver: {
-					SpawnInfo: Challenge the glassweaver in his forge, near the edge of the Vitric Desert.
-					Despawn: The Glassweaver claims victory.
+					SpawnInfo: Бросьте вызов стеклоткачу в его кузнице на краю стеклянной пустыни.
+					Despawn: Стеклоткач объявляет о своей победе.
 				}
 
 				Ceiros: {
-					SpawnInfo: Use a Glass Idol at the altar atop the Vitric Temple, after breaking the crystal covering it using Forbidden Winds.
-					Despawn: The Vitric Forge falls silent. The Glassweaver is dissapointed.
+					SpawnInfo: Используйте стеклянного идола на алтаре на вершине стеклянного храма, предварительно разбив кристалл, покрывающий его, с помощью запретных ветров.
+					Despawn: Стеклянная кузня замолкает. Стеклоткач разочарован.
 				}
 			}
 		}
