@@ -419,7 +419,7 @@ Mods: {
 				DisplayName: Мечь вихря
 				Tooltip:
 					'''
-					Удерживайте, чтобы выпустить вихревой удар.
+					Удерживайте, чтобы выпустить вихревой удар
 					Удерживайте прыжок во время удара, чтобы ускориться вверх
 					'''
 			}
@@ -625,7 +625,7 @@ Mods: {
 
 			ButterPancakes: {
 				Tooltip: "\n\n"
-				DisplayName: Butter Pancakes
+				DisplayName: Блинчики с маслом
 			}
 
 			CherryBrownie: {
@@ -680,7 +680,7 @@ Mods: {
 
 			Sugar: {
 				Tooltip: "\n\n"
-				DisplayName: Sugar
+				DisplayName: Сахар
 			}
 
 			TableSalt: {
@@ -700,7 +700,7 @@ Mods: {
 
 			Vinegar: {
 				Tooltip: "\n\n"
-				DisplayName: Vinegar
+				DisplayName: Уксус
 			}
 
 			WhippedCream: {
@@ -723,18 +723,18 @@ Mods: {
 			}
 
 			DustyAmulet: {
-				DisplayName: Dusty Amulet
+				DisplayName: Запыленный талисман
 				Tooltip:
 					'''
-					+20 maximum life
-					+20 maximum mana
-					0.8x critical strike chance
-					'An old heirloom with an inscription lost to time'
+					+20 к максимуму здоровья
+					+20 к максимуму маны
+					0.8x шанс критического удара
+					'Древний артефакт с загадочной надписью, утерянной в ходе времени.'
 					'''
 			}
 
 			FeralWolfMountItem: {
-				DisplayName: Juicy Steak
+				DisplayName: Пикантный стейк
 				Tooltip:
 					'''
 					Combat Mount: Summons a Feral Wolf 
@@ -747,8 +747,8 @@ Mods: {
 				DisplayName: Old Whetstone
 				Tooltip:
 					'''
-					+1 to all damage
-					'Why in tarnation are you sharpening your wand?!'
+					Увеличение урона на +1 для всех типов атак
+					'Зачем, чёрт возьми, ты наточил свою волшебную палочку?!'
 					'''
 			}
 
