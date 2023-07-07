@@ -408,38 +408,38 @@ Mods: {
 			ThousandthDegree: {
 				Tooltip:
 					'''
-					Melts through enemies to build up heat
-					Releasing launches the blazing wheel
-					'Rip and tear'
+					Расплавляйте врагов, чтобы накопить тепло
+					Выпускает горящее колесо
+					'Рвать и раздирать'
 					'''
-				DisplayName: Thousandth Degree
+				DisplayName: Тысячеградусный
 			}
 
 			TwistSword: {
-				DisplayName: Twisted Greatsword
+				DisplayName: Крученый великий меч
 				Tooltip:
 					'''
-					Hold to unleash a whirling slash
-					Hold jump while slashing to accelerate upward
+					Зажмите, чтобы нанести крутящийся удар
+					Зажмите прыжок во время удара, чтобы ускориться
 					'''
 			}
 
 			WardedMail: {
-				DisplayName: Warded Mail
+				DisplayName: Отражающая кольчуга
 				Tooltip:
 					'''
-					Barrier damage is applied to attackers as thorns 
-					+Barrier negates 10% more damage 
-					+40 barrier
+					Урон по барьеру применяется на врагов как шипы 
+					+Барьер отражает на 10% больше урона 
+					+40 барьера
 					'''
 			}
 
 			ReplicantCells: {
-				DisplayName: Replicant Cells
+				DisplayName: Клетки репликанта
 				Tooltip:
 					'''
-					+15% Inoculation
-					Health regeneration starts slightly faster
+					+15% Инокуляции
+					Регенерация жизни начинается немного быстрее
 					'''
 			}
 
