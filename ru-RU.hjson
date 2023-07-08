@@ -445,107 +445,107 @@ Mods: {
 
 			BlackPepper: {
 				Tooltip: "\n\n"
-				DisplayName: Black Pepper
+				DisplayName: Черный перец
 			}
 
 			BrusselSprouts: {
 				Tooltip: "\n\n"
-				DisplayName: Brussel Sprouts
+				DisplayName: Брюссельская капуста
 			}
 
 			Butter: {
 				Tooltip: "\n\n"
-				DisplayName: Butter
+				DisplayName: Масло
 			}
 
 			Cabbage: {
 				Tooltip: "\n\n"
-				DisplayName: Cabbage
+				DisplayName: Капуста
 			}
 
 			Carrot: {
 				Tooltip: "\n\n"
-				DisplayName: Carrot
+				DisplayName: Морковь
 			}
 
 			Cashews: {
 				Tooltip: "\n\n"
-				DisplayName: Cashews
+				DisplayName: Кешью
 			}
 
 			Cherry: {
 				Tooltip: "\n\n"
-				DisplayName: Cherry
+				DisplayName: Вишня
 			}
 
 			ChocolateGlaze: {
 				Tooltip: "\n\n"
-				DisplayName: Chocolate Glaze
+				DisplayName: Шоколадная глазурь
 			}
 
 			CoffeeBeans: {
 				Tooltip: "\n\n"
-				DisplayName: Coffee Beans
+				DisplayName: Кофейные зерна
 			}
 
 			CrimsonSteak: {
 				Tooltip: "\n\n"
-				DisplayName: Crimson Steak
+				DisplayName: Багряный стейк
 			}
 
 			DicedMushrooms: {
 				Tooltip: "\n\n"
-				DisplayName: Diced Mushrooms
+				DisplayName: Грибная нарезка
 			}
 
 			Dough: {
 				Tooltip: "\n\n"
-				DisplayName: Dough
+				DisplayName: Тесто
 			}
 
 			Dressing: {
 				Tooltip: "\n\n"
-				DisplayName: Dressing
+				DisplayName: Соус
 			}
 
 			EaterSteak: {
 				Tooltip: "\n\n"
-				DisplayName: Eater Steak
+				DisplayName: Стейк пожирателя
 			}
 
 			Entrails: {
 				Tooltip: "\n\n"
-				DisplayName: Entrails
+				DisplayName: Потроха
 			}
 
 			Eye: {
 				Tooltip: "\n\n"
-				DisplayName: Eye
+				DisplayName: Глаз
 			}
 
 			FaceSteak: {
 				Tooltip: "\n\n"
-				DisplayName: Face Steak
+				DisplayName: Стейк из лица
 			}
 
 			Flour: {
 				Tooltip: "\n\n"
-				DisplayName: Flour
+				DisplayName: Мука
 			}
 
 			Gelatine: {
 				Tooltip: "\n\n"
-				DisplayName: Gelatine
+				DisplayName: Желатин
 			}
 
 			GelBerry: {
 				Tooltip: "\n\n"
-				DisplayName: Gel Berry
+				DisplayName: Желейная ягода
 			}
 
 			GiantMushroom: {
 				Tooltip: "\n\n"
-				DisplayName: Giant Mushroom
+				DisplayName: Гиганский гриб
 			}
 
 			HealthExtract: {
