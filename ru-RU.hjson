@@ -550,67 +550,67 @@ Mods: {
 
 			HealthExtract: {
 				Tooltip: "\n\n"
-				DisplayName: Health Extract
+				DisplayName: Экстракт жизни
 			}
 
 			HoneySyrup: {
 				Tooltip: "\n\n"
-				DisplayName: Honey Syrup
+				DisplayName: Медовый сироп
 			}
 
 			IvySalad: {
 				Tooltip: "\n\n"
-				DisplayName: Ivy Salad
+				DisplayName: Салат из плюща
 			}
 
 			JumboShrimp: {
 				Tooltip: "\n\n"
-				DisplayName: Jumbo Shrimp
+				DisplayName: Крупная креветка
 			}
 
 			Lettuce: {
 				Tooltip: "\n\n"
-				DisplayName: Lettuce
+				DisplayName: Салат
 			}
 
 			MahoganyRoot: {
 				Tooltip: "\n\n"
-				DisplayName: Mahogany Root
+				DisplayName: Корень махагони 
 			}
 
 			ManaExtract: {
 				Tooltip: "\n\n"
-				DisplayName: Mana Extract
+				DisplayName: Экстракт маны
 			}
 
 			Meal: {
-				DisplayName: Meal
-				Tooltip: Rich food that provides these buffs:
+				DisplayName: Еда
+				Tooltip: Богатая пища, которая обеспечивает эти усиления:
 			}
 
 			Milk: {
 				Tooltip: "\n\n"
-				DisplayName: Milk
+				DisplayName: Молоко
 			}
 
 			Rabbit: {
 				Tooltip: "\n\n"
-				DisplayName: Rabbit
+				DisplayName: Крольчатина
 			}
 
 			RocketFuel: {
 				Tooltip: "\n\n"
-				DisplayName: Rocket Fuel
+				DisplayName: Ракетное топливо
 			}
 
 			SeaSalt: {
 				Tooltip: "\n\n"
-				DisplayName: Sea Salt
+				DisplayName: Морская соль
 			}
 
 			SkySprinkles: {
 				Tooltip: "\n\n"
-				DisplayName: Sky Sprinkles
+				DisplayName: Небесная посыпка
 			}
 
 			BlastoffShake: {
@@ -4196,12 +4196,12 @@ Mods: {
 
 				Glassweaver: {
 					SpawnInfo: Бросьте вызов стеклодуву в его кузнице на краю стеклянной пустыни.
-					Despawn: Стеклоткач объявляет о своей победе.
+					Despawn: Стеклодув объявляет о своей победе.
 				}
 
 				Ceiros: {
 					SpawnInfo: Используйте стеклянного идола на алтаре на вершине стеклянного храма, предварительно разбив кристалл, покрывающий его, с помощью запретных ветров.
-					Despawn: Стеклянная кузня замолкает. Стеклоткач разочарован.
+					Despawn: Стеклянная кузня замолкает. Стеклодув разочарован.
 				}
 			}
 		}
