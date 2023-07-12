@@ -615,12 +615,12 @@ Mods: {
 
 			BlastoffShake: {
 				Tooltip: "\n\n"
-				DisplayName: Blastoff Shake
+				DisplayName: Шейк "Энергия взрыва"
 			}
 
 			BrandedCoffee: {
 				Tooltip: "\n\n"
-				DisplayName: Branded Coffee
+				DisplayName: Фирменный кофе
 			}
 
 			ButterPancakes: {
@@ -630,52 +630,52 @@ Mods: {
 
 			CherryBrownie: {
 				Tooltip: "\n\n"
-				DisplayName: Cherry Brownie
+				DisplayName: Брауни с вишней
 			}
 
 			CreamySoup: {
 				Tooltip: "\n\n"
-				DisplayName: Creamy Soup
+				DisplayName: Сливочный суп
 			}
 
 			CrimsonKebab: {
 				Tooltip: "\n\n"
-				DisplayName: Crimson Kebab
+				DisplayName: Багровый шашлык
 			}
 
 			JungleSalad: {
 				Tooltip: "\n\n"
-				DisplayName: Jungle Salad
+				DisplayName: Салат джунглей
 			}
 
 			MushroomSteak: {
 				Tooltip: "\n\n"
-				DisplayName: Mushroom Steak
+				DisplayName: Грибной стейк
 			}
 
 			Salad: {
 				Tooltip: "\n\n"
-				DisplayName: Salad
+				DisplayName: Салат
 			}
 
 			ShrimpSandwich: {
 				Tooltip: "\n\n"
-				DisplayName: Shrimp Sandwich
+				DisplayName: Бутерброд с креветками
 			}
 
 			Slimejelly: {
 				Tooltip: "\n\n"
-				DisplayName: Slimejelly
+				DisplayName: Гель-желе
 			}
 
 			SupportCookies: {
 				Tooltip: "\n\n"
-				DisplayName: Support Cookies
+				DisplayName: Основа для печенья
 			}
 
 			StarlightWater: {
 				Tooltip: "\n\n"
-				DisplayName: Starlight Water
+				DisplayName: Звездная вода
 			}
 
 			Sugar: {
@@ -685,7 +685,7 @@ Mods: {
 
 			TableSalt: {
 				Tooltip: "\n\n"
-				DisplayName: Table Salt
+				DisplayName: Солонка
 			}
 
 			Toast: {
@@ -695,7 +695,7 @@ Mods: {
 
 			VertebrateNuggets: {
 				Tooltip: "\n\n"
-				DisplayName: Vertebrate Nuggets
+				DisplayName: Позвоночные наггетсы
 			}
 
 			Vinegar: {
@@ -705,20 +705,20 @@ Mods: {
 
 			WhippedCream: {
 				Tooltip: "\n\n"
-				DisplayName: Whipped Cream
+				DisplayName: Взбитые сливки
 			}
 
 			AcornSprout: {
-				DisplayName: Acorn Sprout
-				Tooltip: Killing summon tagged enemies summons acorns to fall on nearby enemies
+				DisplayName: Росток желудя
+				Tooltip: Убийство призванных врагов приводит к появлению желудей, которые падают на ближайших врагов
 			}
 
 			BricklayersMallet: {
-				DisplayName: Bricklayer's Mallet
+				DisplayName: Молот для строительных работ
 				Tooltip:
 					'''
-					Doubles block placement and tool range
-					Decreases mining speed by 33% for blocks outside your original range
+					Увеличение радиуса размещения блоков в 2 раза
+					Скорость добычи блоков за пределами стандартного радиуса снижена на 33%
 					'''
 			}
 
@@ -737,9 +737,9 @@ Mods: {
 				DisplayName: Пикантный стейк
 				Tooltip:
 					'''
-					Combat Mount: Summons a Feral Wolf 
-					Inflicts bleeding with powerful bites
-					<right> to howl and boost the speed of minions
+					Combat Mount: Призывает дикого волка
+					Пронзает кожу мощными укусами, вызывая кровотечение
+					<right> издает вой, повышая скорость миньонов
 					'''
 			}
 
