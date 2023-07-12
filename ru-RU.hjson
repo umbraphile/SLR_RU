@@ -485,7 +485,7 @@ Mods: {
 
 			CoffeeBeans: {
 				Tooltip: "\n\n"
-				DisplayName: Кофейные зерна
+				DisplayName: Кофейные зёрна
 			}
 
 			CrimsonSteak: {
@@ -510,7 +510,7 @@ Mods: {
 
 			EaterSteak: {
 				Tooltip: "\n\n"
-				DisplayName: Стейк пожирателя
+				DisplayName: Стейк из пожирателя
 			}
 
 			Entrails: {
@@ -615,97 +615,97 @@ Mods: {
 
 			BlastoffShake: {
 				Tooltip: "\n\n"
-				DisplayName: Blastoff Shake
+				DisplayName: Запуск колебания 
 			}
 
 			BrandedCoffee: {
 				Tooltip: "\n\n"
-				DisplayName: Branded Coffee
+				DisplayName: Фирменный кофе
 			}
 
 			ButterPancakes: {
 				Tooltip: "\n\n"
-				DisplayName: Butter Pancakes
+				DisplayName: Маслянные блины
 			}
 
 			CherryBrownie: {
 				Tooltip: "\n\n"
-				DisplayName: Cherry Brownie
+				DisplayName: Вишнёвый брауни 
 			}
 
 			CreamySoup: {
 				Tooltip: "\n\n"
-				DisplayName: Creamy Soup
+				DisplayName: Сливочный суп
 			}
 
 			CrimsonKebab: {
 				Tooltip: "\n\n"
-				DisplayName: Crimson Kebab
+				DisplayName: Багряный кебаб
 			}
 
 			JungleSalad: {
 				Tooltip: "\n\n"
-				DisplayName: Jungle Salad
+				DisplayName: Джунглевый салат
 			}
 
 			MushroomSteak: {
 				Tooltip: "\n\n"
-				DisplayName: Mushroom Steak
+				DisplayName: Грибной стейк
 			}
 
 			Salad: {
 				Tooltip: "\n\n"
-				DisplayName: Salad
+				DisplayName: Салат
 			}
 
 			ShrimpSandwich: {
 				Tooltip: "\n\n"
-				DisplayName: Shrimp Sandwich
+				DisplayName: Креветочный бутерброд
 			}
 
 			Slimejelly: {
 				Tooltip: "\n\n"
-				DisplayName: Slimejelly
+				DisplayName: Слизневое желе
 			}
 
 			SupportCookies: {
 				Tooltip: "\n\n"
-				DisplayName: Support Cookies
+				DisplayName: Печенье помощи
 			}
 
 			StarlightWater: {
 				Tooltip: "\n\n"
-				DisplayName: Starlight Water
+				DisplayName: Вода звёздного света
 			}
 
 			Sugar: {
 				Tooltip: "\n\n"
-				DisplayName: Sugar
+				DisplayName: Сахар
 			}
 
 			TableSalt: {
 				Tooltip: "\n\n"
-				DisplayName: Table Salt
+				DisplayName: Столовая соль
 			}
 
 			Toast: {
 				Tooltip: "\n\n"
-				DisplayName: Toast
+				DisplayName: Гренка
 			}
 
 			VertebrateNuggets: {
 				Tooltip: "\n\n"
-				DisplayName: Vertebrate Nuggets
+				DisplayName: Позвоночные наггетсы 
 			}
 
 			Vinegar: {
 				Tooltip: "\n\n"
-				DisplayName: Vinegar
+				DisplayName: Уксус
 			}
 
 			WhippedCream: {
 				Tooltip: "\n\n"
-				DisplayName: Whipped Cream
+				DisplayName: Взбитые сливки
 			}
 
 			AcornSprout: {
