@@ -585,7 +585,7 @@ Mods: {
 
 			Meal: {
 				DisplayName: Еда
-				Tooltip: Богатая пища, которая обеспечивает эти усиления:
+				Tooltip: Питательная пища, предоставляющая такие усиления:
 			}
 
 			Milk: {
@@ -615,7 +615,7 @@ Mods: {
 
 			BlastoffShake: {
 				Tooltip: "\n\n"
-				DisplayName: Запуск колебания 
+				DisplayName: Взрывной коктейль
 			}
 
 			BrandedCoffee: {
@@ -709,46 +709,46 @@ Mods: {
 			}
 
 			AcornSprout: {
-				DisplayName: Acorn Sprout
-				Tooltip: Killing summon tagged enemies summons acorns to fall on nearby enemies
+				DisplayName: Проросток жёлудя
+				Tooltip: Убийство помеченных призванными существами врагов призывает жёлуди, падающие на ближайших врагов
 			}
 
 			BricklayersMallet: {
-				DisplayName: Bricklayer's Mallet
+				DisplayName: Молоток каменщика 
 				Tooltip:
 					'''
-					Doubles block placement and tool range
-					Decreases mining speed by 33% for blocks outside your original range
+					Удваивает дальность размещения блоков и использования инструментов
+					Снижает скорость добычи на 33% для блоков вне вашей изначальной дальности
 					'''
 			}
 
 			DustyAmulet: {
-				DisplayName: Dusty Amulet
+				DisplayName: Пыльный амулет
 				Tooltip:
 					'''
-					+20 maximum life
-					+20 maximum mana
-					0.8x critical strike chance
-					'An old heirloom with an inscription lost to time'
+					+20 максимального здоровья 
+					+20 максимальной маны
+					0.8x шанс критического удара
+					'Старинная реликвия с надписью, потерянной во времени'
 					'''
 			}
 
 			FeralWolfMountItem: {
-				DisplayName: Juicy Steak
+				DisplayName: Сочный стейк
 				Tooltip:
 					'''
-					Combat Mount: Summons a Feral Wolf 
-					Inflicts bleeding with powerful bites
-					<right> to howl and boost the speed of minions
+					Боевой ездовой питомец: призывает дикого волка
+					Наносит кровотечение с помощью мощных укусов.
+					<right> чтобы завывать и увеличивать скорость призванных существ
 					'''
 			}
 
 			OldWhetstone: {
-				DisplayName: Old Whetstone
+				DisplayName: Старый точильный камень
 				Tooltip:
 					'''
-					+1 to all damage
-					'Why in tarnation are you sharpening your wand?!'
+					+1 ко всему урону
+					'Почему ты точишь свою палочку?!'
 					'''
 			}
 
