@@ -753,94 +753,94 @@ Mods: {
 			}
 
 			Trowel: {
-				DisplayName: Bricklayer's Trowel
+				DisplayName: Мастерок каменщика
 				Tooltip:
 					'''
-					Extends blocks in a straight line
-					Direction is based on your position
-					Hold SHIFT for reverse direction
-					30 block range
+					Устанавливает блоки в прямую линию
+					Направление зависит от вашего положения
+					Удерживайте SHIFT для обратного направления
+					Дистанция 30 блоков
 					'''
 			}
 
 			Trowel2: {
-				DisplayName: Autotrowel 9000
+				DisplayName: Автомастерок 9000
 				Tooltip:
 					'''
-					Extends blocks in a straight line extremely quickly
-					Direction is based on your position
-					Hold SHIFT for reverse direction
-					40 block range
-					'The perfect tool for every esteemed bridgebuilder!'
+					Устанавливает блоки в прямую линию невероятно быстро
+					Направление зависит от вашего положения
+					Удерживайте SHIFT для обратного направления
+					Дистанция 30 блоков
+					'Идеальный инструмент для каждого уважаемого мостостроителя!'
 					'''
 			}
 
 			EmeraldHeart: {
-				DisplayName: Emerald Heart
-				Tooltip: You shouldn't see this
+				DisplayName: Изумрудное сердце
+				Tooltip: Вы не должны видеть это
 			}
 
 			GeoAmethyst: {
-				DisplayName: Amethyst
-				Tooltip: You shouldn't see this
+				DisplayName: Аметист
+				Tooltip: Вы не должны видеть это
 			}
 
 			GeoDiamond: {
-				DisplayName: Diamond
-				Tooltip: You shouldn't see this
+				DisplayName: Алмаз
+				Tooltip: Вы не должны видеть это
 			}
 
 			GeoEmerald: {
-				DisplayName: Emerald
-				Tooltip: You shouldn't see this
+				DisplayName: Изумруд
+				Tooltip: Вы не должны видеть это
 			}
 
 			GeomancerHood: {
-				DisplayName: Geomancer's Hood
+				DisplayName: Капюшон геоманта
 				Tooltip: ""
 			}
 
 			GeomancerItemDummy: {
-				DisplayName: Effects of different gems:
+				DisplayName: Эффекты различных драгоценных камней:
 				Tooltip:
 					'''
-					[i/s1:5664]: Critical strikes partially ignore armor, with increased chance for missing enemy HP 
-					[i/s1:5672]: +100 barrier. Gain a shield that points to your cursor and blocks attacks, consuming barrier 
-					[i/s1:5665]: Immediately heal 20 hp. Hits have a chance to create a 5 HP life heart 
-					[i/s1:5671]: Immediately refill mana. Hits have a chance to create 1 to 3 mana stars 
-					[i/s1:5663]: All strikes inflict Toxic Amethyst, a stacking poison debuff 
-					[i/s1:5670]: Hits have a chance to summon a Ruby Dagger to seek the struck enemy for 20% of the hit's damage
+					[i/s1:5664]: Критические удары частично игнорируют броню, но больше шанс не нанести урон по здоровью
+					[i/s1:5672]: +100 барьера. Получите щит, который указывает на ваш указатель мыши и блокирует атаки, расходуя барьер
+					[i/s1:5665]: Мгновенно восстанавливает 20 единиц здоровья. Удары имеют шанс создать сердце, восполняющее 5 единиц здоровья
+					[i/s1:5671]: Мгновенно восстанавливает ману. Удары имеют шанс создать от 1 до 3 звёзд маны
+					[i/s1:5663]: Все удары наносят Токсический аметист - накапливающийся дебафф яда
+					[i/s1:5670]: Удары имеют шанс призвать рубиновый кинжал, который преследует пораженного врага и наносит урон, равный 20% от урона удара
 					'''
 			}
 
 			GeomancerPants: {
-				DisplayName: Geomancer's Greaves
+				DisplayName: Поножи геоманта
 				Tooltip: ""
 			}
 
 			GeomancerRobe: {
-				DisplayName: Geomancer's Cowl
+				DisplayName: Мантия геоманта
 				Tooltip: ""
 			}
 
 			GeoRuby: {
-				DisplayName: Ruby
-				Tooltip: You shouldn't see this
+				DisplayName: Рубин
+				Tooltip: Вы не должны видеть это
 			}
 
 			GeoSapphire: {
-				DisplayName: Sapphire
-				Tooltip: You shouldn't see this
+				DisplayName: Сапфир
+				Tooltip: Вы не должны видеть это
 			}
 
 			GeoTopaz: {
-				DisplayName: Topaz
-				Tooltip: You shouldn't see this
+				DisplayName: Топаз
+				Tooltip: Вы не должны видеть это
 			}
 
 			SapphireStar: {
-				DisplayName: Sapphire Star
-				Tooltip: You shouldn't see this
+				DisplayName: Сапфировая звезда
+				Tooltip: Вы не должны видеть это
 			}
 
 			SparklingBullet: {
