@@ -844,16 +844,16 @@ Mods: {
 			}
 
 			SparklingBullet: {
-				DisplayName: Sparkling Bullet
-				Tooltip: Restored on a successful hit
+				DisplayName: Блестящая пуля
+				Tooltip: Не тратится при успешном попадании
 			}
 
 			BloodAmulet: {
-				DisplayName: Blood Amulet
+				DisplayName: Кровавый амулет
 				Tooltip:
 					'''
-					Every 25 damage taken releases a homing bloodbolt 
-					These bolts damage enemies and guarantee they drop life hearts on death
+					За каждые 25 единиц полученного урона выпускается самонаводящийся кровавую стрелу
+					Эти стрелы наносят урон врагам и гарантировано они оставляют сердца при смерти
 					'''
 			}
 
@@ -867,16 +867,16 @@ Mods: {
 			}
 
 			Gluttony: {
-				DisplayName: Gluttony
-				Tooltip: Sucks the souls out of your enemies, turning them against their former brethren
+				DisplayName: Чревоугодие
+				Tooltip: Высасывает души из ваших врагов, обращая их против их бывших соратников
 			}
 
 			GravediggerItem: {
-				DisplayName: Tombsmasher
+				DisplayName: Разрушитель могил 
 				Tooltip:
 					'''
-					Strikes enemies up into the air when holding W and slams them down with S 
-					Hit enemies in the air for more damage
+					Откидывает врагов в воздух при удерживании клавиши W и бросает их вниз при нажатии клавиши S
+					Наносит врагам в воздухе больше урона
 					'''
 			}
 
