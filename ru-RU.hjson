@@ -852,17 +852,17 @@ Mods: {
 				DisplayName: Кровавый амулет
 				Tooltip:
 					'''
-					За каждые 25 единиц полученного урона выпускается самонаводящийся кровавую стрелу
-					Эти стрелы наносят урон врагам и гарантировано они оставляют сердца при смерти
+					За каждые 25 единиц полученного урона выпускается самонаводящийся кровавый выстрел
+					Эти выстрелы наносят урон врагам и гарантировано оставляют сердца при смерти
 					'''
 			}
 
 			BloodBolter: {
-				DisplayName: Bloodbolter
+				DisplayName: Кровавый снарядник
 				Tooltip:
 					'''
-					Converts wooden arrows into bloodbolts 
-					Bloodbolts impale dead fleshy enemies, exploding them on surfaces
+					Превращает деревянные стрелы в кровавые болты 
+					Кровавые болты пронзают мёртвых мясистых врагов, взрывая их на поверхностях
 					'''
 			}
 
@@ -881,27 +881,27 @@ Mods: {
 			}
 
 			LivingBlood: {
-				DisplayName: Living Blood
-				Tooltip: "'Unnaturally pulses with the light of the Blood Moon'"
+				DisplayName: Живая кровь
+				Tooltip: "'Неестественно пульсирует светом Кровавой Луны'"
 			}
 
 			PoltergeistChest: {
-				DisplayName: Haunting Breastplate
+				DisplayName: Призрачный нагрудник
 				Tooltip:
 					'''
-					5% increased magic damage
+					5% увеличение магического урона
 					+15% Inoculation
 					'''
 			}
 
 			PoltergeistHead: {
-				DisplayName: Haunting Hood
-				Tooltip: 15% increased magic critical strike damage
+				DisplayName: Призрачный капюшон
+				Tooltip: 15% увеличение шанса магического критического удара
 			}
 
 			PoltergeistLegs: {
-				DisplayName: Haunting Robes
-				Tooltip: +40 maximum mana
+				DisplayName: Призрачные мантии
+				Tooltip: +40 максимальной маны 
 			}
 
 			RadculasRapier: {
