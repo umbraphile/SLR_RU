@@ -890,7 +890,7 @@ Mods: {
 				Tooltip:
 					'''
 					5% увеличение магического урона
-					+15% Inoculation
+					+15% инокуляции
 					'''
 			}
 
@@ -905,12 +905,12 @@ Mods: {
 			}
 
 			RadculasRapier: {
-				DisplayName: Radcula's Rapier
+				DisplayName: Рапира Радкулы
 				Tooltip:
 					'''
-					Rapidly stabs enemies, inflicting a stacking bleed
-					Press <right> to teleport to the cursor, Reaping bleed stacks of enemies in the way for high damage and lifesteal
-					Striking multiple enemies with the teleport lowers its cooldown
+					Быстро колит врагов, нанося накапливающееся кровотечение
+					Нажмите <right> чтобы телепортироваться к указателю мыши, пожиная накопленные кровотечения врагов на пути, чтобы получить высокий урон и восстановление жизни
+					Удар телепортом по нескольким противникам уменьшает его время восстановления
 					'''
 			}
 
