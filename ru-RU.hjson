@@ -915,88 +915,88 @@ Mods: {
 			}
 
 			StaffOfSelfDisassembly: {
-				DisplayName: Staff of Self-Disassembly
+				DisplayName: Посох саморазложения
 				Tooltip:
 					'''
-					Reserve 40 life to summon a Flesh Horror
-					Horrors grant increased life regeneration
-					Life regeneration boost is increased when Horrors strike an enemy
+					Пожертвуйте 40 единиц максимального здоровья, чтобы призвать ужас из плоти
+					Ужасы увеличивают регенерацию здоровья
+					Увеличение регенерации здоровья усиливается, когда ужасы наносят удар по врагу
 					'''
 			}
 
 			CharonsObol: {
-				DisplayName: Charon's Obol
+				DisplayName: Обол Харона
 				Tooltip:
 					'''
-					Converts all dropped money to ancient coins, which ricochet projectiles off themselves
-					Coins lose their power when they contact any surface
-					'Soon, may the Ferryman come...'
+					Преобразует все выпавшие деньги в древние монеты, которые отражают от себя снаряды
+					Монеты теряют свою силу, когда они касаются любой поверхности
+					"Скоро придет паромщик..."
 					'''
 			}
 
 			Corpseflower: {
 				Tooltip:
 					'''
-					All damage dealt is converted into damage over time
-					Damage is initially decreased, but can interact with DoT-related accessories
-					You are unable to critically strike
+					Весь нанесенный урон преобразуется в урон в течении времени
+					Урон изначально снижается, но может взаимодействовать с аксессуарами, связанными с УвТВ
+					Вы не можете нанести критический удар
 					'''
-				DisplayName: Corpseflower
+				DisplayName: Трупный цветок
 			}
 
 			Slitherring: {
-				DisplayName: Slitherring
-				Tooltip: A small snake occasionally attacks with you when you use a whip
+				DisplayName: Слизеринг
+				Tooltip: Маленькая змея время от времени атакует вместе с вами, когда вы используете хлыст
 			}
 
 			ChargedMagnet: {
-				DisplayName: Charged Magnet
-				Tooltip: "'Pulsing with magnetic power'"
+				DisplayName: Заряженный магнит
+				Tooltip: "'Пульсирует магнитной энергией'"
 			}
 
 			GrayGoo: {
-				DisplayName: Gray Goo
+				DisplayName: Серая жижа
 				Tooltip:
 					'''
-					Summons a swarm of nanomachines to devour your enemies
-					'Say the line, Armstrong!'
+					Призывает рой наномашин, чтобы пожрать ваших врагов
+					'Скажи фразу, Армстронг!'
 					'''
 			}
 
 			ThunderBeads: {
-				DisplayName: Magnet Beads
+				DisplayName: Магнитные бусины
 				Tooltip:
 					'''
-					Whip enemies to stick the beads to them 
-					Repeatedly click to shock affected enemies
+					Бейте врагов хлыстом, чтобы прикрепить бусины к ним
+					Повторно клацайте, чтобы ударить пораженных врагов электрическим разрядом
 					'''
 			}
 
 			Thunderbuss: {
-				DisplayName: Thunderbuss
+				DisplayName: Грозовой мушкет
 				Tooltip:
 					'''
-					Fires powerful lightning at enemies in a cone
-					<right> to fire an explosive lightning orb, attracting and boosting your lightning
-					'Crush the path of most resistance'
+					Выстреливает мощной молнией по врагам в конусе
+					Нажмите <right>, чтобы выстрелить взрывной шаровой молнией, привлекая и усиливая вашу молнию
+					'Сокрушите путь наибольшего сопротивления'
 					'''
 			}
 
 			UnchargedMagnet: {
-				DisplayName: Uncharged Magnet
+				DisplayName: Незаряженный магнит
 				Tooltip:
 					'''
-					Charged enemies are attracted with this in your inventory
-					Charged enemies are stronger than normal, but charge this item on death
+					Заряженные враги привлекаются, когда это в вашем инвентаре
+					Заряженные враги сильнее обычных, но заряжают этот предмет при смерти
 					'''
 			}
 
 			AlchemistShackles: {
-				DisplayName: Alchemist's Shackles
+				DisplayName: Оковы алхимика
 				Tooltip:
 					'''
-					Resource potions are more effective when their respective resource is lower 
-					Cursed : Potion sickness effects last 15 seconds longer
+					Зелья для ресурсов более эффективны, когда их соответствующий ресурс ниже
+					Проклят: эффекты послезельевой болезни длятся 15 секунд дольше
 					'''
 			}
 
