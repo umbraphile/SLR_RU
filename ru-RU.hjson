@@ -1001,75 +1001,75 @@ Mods: {
 			}
 
 			ArchaeologistsMap: {
-				DisplayName: Archaeologist's Map
-				Tooltip: Reveals the location of a nearby Artifact
+				DisplayName: Карта археолога
+				Tooltip: Раскрывает местоположение ближайшего артефакта
 			}
 
 			AxeBook: {
-				DisplayName: Tiger Technique
+				DisplayName: Техника тигра
 				Tooltip:
 					'''
-					Teaches you the Art of Axes, granting all axe weapons a new combo attack
-					The final strike will rend enemies' armor
-					<right> to throw your axe
+					Обучает вас искусству топоров, предоставляя всем оружиям-топорам новую комбинированную атаку
+					Последний удар разрушит броню врагов
+					<right> чтобы метнуть ваш топор
 					'''
 			}
 
 			BalloonGun: {
-				DisplayName: Balloon Gun
-				Tooltip: Attach balloons to enemies to make them float away
+				DisplayName: Шаровая пушка
+				Tooltip: Привяжите воздушные шарики к врагам, чтобы они начали подниматься в воздух
 			}
 
 			BalloonInABalloon: {
-				DisplayName: Balloon In A Balloon
+				DisplayName: Шар в шаре
 				Tooltip:
 					'''
-					Increases jump height 
-					Increases mid-air maneuverability
-					Hold UP to fall slower
+					Увеличивает высоту прыжка
+					Увеличивает манёвренность в воздухе
+					Удерживайте ВВЕРХ, чтобы падать медленнее
 					'''
 			}
 
 			BarbedKnife: {
-				DisplayName: Barbed Knife
-				Tooltip: Critical strikes apply a bleeding debuff that stacks up to five times
+				DisplayName: Колючий нож
+				Tooltip: Критические удары накладывают дебафф кровотечения, который накапливается до пяти раз
 			}
 
 			BizarrePotion: {
-				DisplayName: Bizarre Potion
-				Tooltip: Throws a random volatile potion with random - usually explosive - effects
+				DisplayName: Странное зелье
+				Tooltip: Бросает случайное нестабильное зелье со случайными - обычно взрывными - эффектами
 			}
 
 			Bladesaw: {
-				DisplayName: Bladesaw
+				DisplayName: Лезвие-пила
 				Tooltip:
 					'''
-					Shreds through enemies 
-					Repeated hits overheat the saw, increasing damage 
-					<right> to use as a tool
+					Разрывает врагов
+					Повторные удары перегревают пилу, увеличивая урон
+					<right> для использования в качестве инструмента
 					'''
 			}
 
 			BloodlessAmulet: {
-				DisplayName: Amulet of the Bloodless Warrior
+				DisplayName: Амулет безкровного воина
 				Tooltip:
 					'''
-					+100 Maximum Barrier
-					Barrier absorbs ALL damage, but recharges slower
-					You are unaffected by damage over time
-					Cursed : You have 0 HP. Healing grants a decaying damage boost instead of life
-					'Leave your flesh behind, for your rage is all you need'
+					+100 максимального барьера
+					Барьер поглощает ВЕСЬ урон, но заряжается медленнее
+					Вы не подвержены урону в течении времени
+					Проклят: У вас 0 здоровья. Лечение предоставляет убывающий бонус к урону вместо жизни
+					'Оставь свою плоть позади, ибо твоя ярость - всё, что тебе нужно'
 					'''
 			}
 
 			BrokenGlasses: {
-				DisplayName: Broken Glasses
-				Tooltip: Damage over time effects are able to critically strike
+				DisplayName: Сломанные очки
+				Tooltip: Эффекты урона в течении времени могут нанести критический удар
 			}
 
 			BuffChalice: {
-				DisplayName: Plexus Chalice
-				Tooltip: Inflicting debuffs temporarily increases your Inoculation
+				DisplayName: Чаша сплетения
+				Tooltip: Нанесение дебаффов временно увеличивает вашу инокуляцию
 			}
 
 			CasualMirror: {
