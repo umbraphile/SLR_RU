@@ -1041,7 +1041,7 @@ Mods: {
 			}
 
 			Bladesaw: {
-				DisplayName: Лезвие-пила
+				DisplayName: Цепной клинок
 				Tooltip:
 					'''
 					Разрывает врагов
