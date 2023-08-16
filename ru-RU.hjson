@@ -1073,29 +1073,29 @@ Mods: {
 			}
 
 			CasualMirror: {
-				DisplayName: Causal Mirror
+				DisplayName: Приводящее к последствиям зеркало
 				Tooltip:
 					'''
-					Cursed : Your DoT and regeneration effects are inverted.
-					Regenerate life when you would take damage-over-time.
-					Take damage-over-time when you would regenerate life.
-					This includes natural regeneration!
+					Проклят: ваши эффекты УвТВ и регенерации инвертированы.
+					Регенерация здоровья вместо получения урона-в-течении-времени.
+					Получение урона-в-течении-времени вместо регенерации здоровья.
+					Это включает в себя естественное восстановление!
 					'''
 			}
 
 			Cheapskates: {
-				DisplayName: Cheapskates
+				DisplayName: Дешёвые скейтборды
 				Tooltip:
 					'''
-					Maximum movement speed is doubled
-					Take up to 25% more damage while moving over your previous max speed
-					Acceleration is reduced by 75% when over your previous max speed
+					Максимальная скорость передвижения удвоена
+					Получайте до 25% больше урона при движении со скоростью выше вашей предыдущей максимальной скорости.
+					Ускорение уменьшается на 75%, когда превышена ваша предыдущая максимальная скорость.
 					'''
 			}
 
 			CoachGun: {
 				DisplayName: Coach Gun
-				Tooltip:
+				Tooltip: 
 					'''
 					<right> to throw out an exploding bundle of dynamite
 					Shoot it to detonate it early
