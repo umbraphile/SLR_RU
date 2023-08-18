@@ -309,15 +309,15 @@ Mods: {
 			}
 
 			PerfectlyGenericArtifactItem: {
-				DisplayName: Идеально обобщённый объект
-				Tooltip: Призывает Идеально Обобщенного Питомца
+				DisplayName: Совершенно универсальный объект
+				Tooltip: Призывает совершенно универсального питомца
 			}
 
 			PirateChestArtifactItem: {
 				DisplayName: Пиратский сундук
 				Tooltip:
 					'''
-					<right> чтобы открыть
+					Нажмите <right>, чтобы открыть
 					'Издавна искомый веками'
 					'''
 			}
@@ -338,7 +338,7 @@ Mods: {
 			}
 
 			DebugStick: {
-				DisplayName: Отладочная палка
+				DisplayName: Отладочная палочка
 				Tooltip: Имеет любые необходимые эффекты
 			}
 
@@ -872,7 +872,7 @@ Mods: {
 			}
 
 			GravediggerItem: {
-				DisplayName: Разрушитель могил 
+				DisplayName: Копатель могил 
 				Tooltip:
 					'''
 					Откидывает врагов в воздух при удерживании клавиши W и бросает их вниз при нажатии клавиши S
@@ -996,7 +996,7 @@ Mods: {
 				Tooltip:
 					'''
 					Зелья здоровья/маны более эффективны, когда у вас меньше здоровья/маны
-					Проклят: эффекты послезельевой болезни длятся 15 секунд дольше
+					Проклятие: эффекты послезельевой болезни длятся 15 секунд дольше
 					'''
 			}
 
@@ -1011,7 +1011,7 @@ Mods: {
 					'''
 					Обучает вас искусству топоров, предоставляя всем оружиям-топорам новую комбинированную атаку
 					Последний удар разрушит броню врагов
-					<right> чтобы метнуть ваш топор
+					Нажмите <right>, чтобы метнуть ваш топор
 					'''
 			}
 
@@ -1076,7 +1076,7 @@ Mods: {
 				DisplayName: Воздействующее зеркало
 				Tooltip:
 					'''
-					Проклят: ваши эффекты УвТВ и регенерации инвертированы.
+					Проклятие: ваши эффекты УвТВ и регенерации инвертированы.
 					Регенерация здоровья вместо получения урона-в-течении-времени.
 					Получение урона-в-течении-времени вместо регенерации здоровья.
 					Это включает в себя естественное восстановление!
@@ -1097,7 +1097,7 @@ Mods: {
 				DisplayName: Двуствольный обрез
 				Tooltip: 
 					'''
-					<right> чтобы метнуть взрывающуюся пачку динамита
+					Нажмите <right>, чтобы метнуть взрывающуюся пачку динамита
 					Выстрелите в неё, чтобы взорвать её раньше
 					'Мое дело, мои правила'
 					'''
@@ -1110,7 +1110,7 @@ Mods: {
 
 			CoughDrops: {
 				DisplayName: Леденцы от кашля
-				Tooltip: Когда дебаффы снимаются, даёт временное ускорение и увеличение урона.
+				Tooltip: Когда дебаффы снимаются, даёт временное ускорение и увеличение урона
 			}
 
 			CutlassBus: {
@@ -1199,105 +1199,105 @@ Mods: {
 			}
 
 			FryingPan: {
-				DisplayName: Frying Pan
+				DisplayName: Сковорода
 				Tooltip:
 					'''
 					Attacks in close-range melee before being thrown to ring some chrome domes
-					'Evil-looking runes are inscribed on the bottom'
+					'Зловещие руны выгравированы на дне'
 					'''
 			}
 
 			GeodeBow: {
-				DisplayName: Geode Bow
+				DisplayName: Геодезический лук
 				Tooltip:
 					'''
-					Hit enemies to create crystal growths 
-					Shoot these growths to deal massive damage
+					Попадайте по врагам, чтобы создать ростки кристаллов.
+                                        Стреляйте в эти ростки, чтобы нанести огромный урон
 					'''
 			}
 
 			GraveBuster: {
-				DisplayName: Gravebuster
+				DisplayName: Разрушитель могил
 				Tooltip:
 					'''
-					Destroys nearby graves 
-					'You like the taste of brains, we don't like zombies'
+					Разрушает близлежащие могилы
+					'Тебе нравится вкус мозгов, нам не нравятся зомби'
 					'''
 			}
 
 			Guillotine: {
-				DisplayName: Golden Guillotine
+				DisplayName: Золотая гильотина
 				Tooltip:
 					'''
-					Critical strikes gain power as your foes lose health
-					Executes normal enemies on low health
+					Критические удары становятся мощнее по мере того, как ваши противники теряют здоровье
+					Казнит обычных врагов, находящихся на низком здоровье.
 					'''
 			}
 
 			Gunchucks: {
-				DisplayName: Gunchucks
+				DisplayName: Оружечаки
 				Tooltip: ""
 			}
 
 			GunstrapBoots: {
-				DisplayName: Gunstrap Boots
+				DisplayName: Ботинки с кобурой
 				Tooltip:
 					'''
-					All double jumps now shoot out a shotgun blast of bullets below you
-					Using wings fires constant rounds of machine gun fire
-					'Smells like steak and fries'
+					Теперь все двойные прыжки выпускают дробовой залп пуль под вами
+					Использование крыльев вызывает непрерывные очереди пулеметного огня
+					'Пахнет как стейк и картофель фри'
 					'''
 			}
 
 			HermesVow: {
-				DisplayName: Hermes' Vow
+				DisplayName: Клятва Гермеса
 				Tooltip:
 					'''
-					Cursed
-					Massively increased acceleration and movement speed
-					Increased jump height and max movement speed
-					You are unable to use wings
+					Проклято
+					Сильно увеличивает ускорение и скорость передвижения
+					Повышенная высота прыжка и максимальная скорость передвижения
+					Вы не можете использовать крылья
 					'''
 			}
 
 			HolyAmulet: {
-				DisplayName: Holy Amulet
-				Tooltip: Releases bursts of homing holy energy for every 25 HP you heal
+				DisplayName: Святой амулет
+				Tooltip: Высвобождает взрывы самонаводящейся святой энергии за каждые 25 восстановленных единиц здоровья
 			}
 
 			HungryStomach: {
 				Tooltip:
 					'''
-					Restore Starlight by damaging foes
-					Melee weapons restore twice as much
-					Cursed: Disables natural Starlight regeneration
+					Восстанавливает звёздный свет, нанося урон противникам
+					Оружие ближнего боя восстанавливает в два раза больше
+					Проклятие: отключает естественное восстановление звёздного света
 					'''
-				DisplayName: Hungry Stomach
+				DisplayName: Голодный желудок
 			}
 
 			ImpactSMG: {
-				DisplayName: Impact SMG
+				DisplayName: ПП "Воздействие"
 				Tooltip:
 					'''
-					Hold <left> to rapidly fire high impact bullets, heating up over time
-					Release to boomerang the gun
-					Boomeranging while not overheated grants a stacking buff to the Impact SMG's damage
-					Boomeranging while overheated will consume all stacks for a deadly explosion
+					Удерживайте <left>, чтобы быстро стрелять высокоэффективными пулями, перегревая оружие со временем
+					Отпустите, чтобы метнуть оружие, как бумеранг
+					Возврат оружия, пока оно не перегрето, даёт накапливающийся бафф к урону ПП "Воздействие"
+					Возврат оружия, пока оно перегрето, израсходует все накопленные баффы для создания смертоносного взрыва
 					'''
 			}
 
 			ImpulseThruster: {
-				DisplayName: Impulse Thruster
+				DisplayName: Импульсный движитель
 				Tooltip:
 					'''
-					Converts all wingtime into a burst of energy
-					'At least 30 OSHA violations, in the palm of your hand'
+					Преобразует все время полета во взрыв энергии
+					'Как минимум 30 нарушений стандартов охраны труда, в вашей ладони'
 					'''
 			}
 
 			Ironheart: {
-				DisplayName: Ironheart
-				Tooltip: Melee damage generates decaying barrier and defense
+				DisplayName: Железное сердце
+				Tooltip: Урон ближнего боя создает разрушающийся барьер и защиту
 			}
 
 			JadeStopwatch: {
