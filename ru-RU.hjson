@@ -1114,7 +1114,7 @@ Mods: {
 			}
 
 			CutlassBus: {
-				DisplayName: Cutlassbus
+				DisplayName: Прекрасныйавтобус
 				Tooltip:
 					'''
 					egshels обнови это лол
@@ -1301,52 +1301,52 @@ Mods: {
 			}
 
 			JadeStopwatch: {
-				DisplayName: Jade Stopwatch
+				DisplayName: Нефритовый секундомер
 				Tooltip:
 					'''
-					Time moves more quickly for you
-					Time briefly moves more slowly for you after being hit
+					Время движется быстрее для вас
+					Время ненадолго замедляется для вас после получения удара
 					'''
 			}
 
 			LostCollar: {
-				DisplayName: Lost Collar
+				DisplayName: Потерянный ошейник
 				Tooltip:
 					'''
-					+40% Inoculation
-					Debuffs you inflict are inflicted on yourself
-					+5% movement and attack speed per debuff affecting you
-					Cursed : Lose all debuff immunities
+					+40% инокуляции
+					Дебаффы, которые вы наносите, применяются к вам
+					+5% скорости движения и атаки за каждый дебафф, действующий на вас
+					Проклятие : потеря всех иммунитетов к дебаффам
 					'''
 			}
 
 			Magebane: {
 				Tooltip:
 					'''
-					Cursed : You can not drink mana potions or other mana-replenishing items
-					Magic attacks have a 25% chance to leech a large portion of their damage as mana
+					Проклятие : вы не можете пить зелья маны или другие предметы, восстанавливающие ману
+					Магические атаки имеют 25% шанс вытянуть большую часть своего урона в виде маны
 					'''
-				DisplayName: Magebane
+				DisplayName: Погибель магов
 			}
 
 			MagmaGun: {
-				DisplayName: Pyroclastic Flow
-				Tooltip: Blasts a torrential stream of magma that sticks to tiles and enemies
+				DisplayName: Пирокластический поток
+				Tooltip: Создает бурный поток магмы, который прилипает к плиткам и врагам
 			}
 
 			MartialBook: {
-				DisplayName: Martial Encyclopedia
+				DisplayName: Энциклопедия восточных боевых искусств
 				Tooltip:
 					'''
-					Combined effects of Tiger, Snake, and Mantis Techniques
-					+10% melee critical damage
-					'Quit, don't quit... Noodles, don't noodles.'
+					Комбинированные эффекты техник тигра, змеи и богомола
+					+10% урона от критических атак ближнего боя
+					'Бросай, не бросай... Лапша, не лапша.'
 					'''
 			}
 
 			PandorasDagger: {
-				DisplayName: Pandora's Dagger
-				Tooltip: Grazes release Discordant Bolts, inflicting stacks of Volatile
+				DisplayName: Кинжал Пандоры
+				Tooltip: Гразы выпускают раздорные болты, которые накладывают накапливающуюся волатильность
 			}
 
 			PandorasShield: {
