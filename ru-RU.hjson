@@ -1131,7 +1131,7 @@ Mods: {
 				DisplayName: Комплект дезинфекции
 				Tooltip:
 					'''
-					Эффекты дезинфицирующих салфеток и санитайзер-спрея
+					Эффекты дезинфицирующих салфеток и дезинфицирующего спрея
 					10% увеличение шанса критического удара когда активен дебафф
 					'''
 			}
@@ -1346,72 +1346,72 @@ Mods: {
 
 			PandorasDagger: {
 				DisplayName: Кинжал Пандоры
-				Tooltip: Гразы выпускают раздорные болты, которые накладывают накапливающуюся волатильность
+				Tooltip: Царапины выпускают раздорные болты, которые накладывают накапливающуюся нестабильность
 			}
 
 			PandorasShield: {
-				DisplayName: Pandora's Shield
-				Tooltip: Grazes grant a portion of the projectiles' damage as barrier
+				DisplayName: Щит Пандоры
+				Tooltip: Царапины дают часть урона от снарядов в качестве барьера
 			}
 
 			PhilosophersMortar: {
-				DisplayName: Philosopher's Mortar
-				Tooltip: Life hearts decrease duration of Potion Sickness by 10 seconds, but heal half as much
+				DisplayName: Мортира алхимика
+				Tooltip: Сердца жизни уменьшают продолжительность послезельевой болезни на 10 секунд, но исцеляют вдвое меньше
 			}
 
 			PowerCell: {
-				DisplayName: Power Cell
-				Tooltip: NaN
+				DisplayName: Энергетическая ячейка
+				Tooltip: Не число
 			}
 
 			PulseBoots: {
-				DisplayName: Pulse Boots
-				Tooltip: Grants a directionally boosted double jump
+				DisplayName: Импульсные сапоги
+				Tooltip: Дают направленный усиленный двойной прыжок
 			}
 
 			RhythmicResonator: {
-				DisplayName: Rhythmic Resonator
+				DisplayName: Ритмический резонатор
 				Tooltip:
 					'''
-					Attack in rhythm with your weapon to gradually increase damage and knockback
-					Disables autoswing
+					Атакуйте в ритме со своим оружием для постепенного увеличения урона и отдачи
+					Отключает автоатаку
 					'''
 			}
 
 			SanitizerSpray: {
-				DisplayName: Sanitizer Spray
-				Tooltip: Critical strikes have a 25% chance to transfer parts of your debuffs to nearby enemies
+				DisplayName: Дезинфицирующий спрей
+				Tooltip: Критические удары с вероятностью 25% переносят часть ваших дебаффов на ближайших противников
 			}
 
 			ShockAbsorber: {
-				DisplayName: Shock Absorber
+				DisplayName: Амортизатор
 				Tooltip:
 					'''
-					Dropping from great heights creates a shockwave
-					Nullifies fall damage
+					При падении с большой высоты создаёт ударную волну
+					Убирает урон при падении
 					'''
 			}
 
 			Sling: {
 				Tooltip:
 					'''
-					Sling seeds, stones, and mushrooms at your enemies
-					Seeds have increased velocity
-					Stones have less velocity but deal more damage and knockback
-					Mushrooms deal less damage but inflict Poisoned
-					75% chance to not consume ammo
+					Бросайте семена, камни и грибы в ваших врагов
+					Семена обладают повышенной скоростью
+					Камни обладают меньшей скоростью, но имеют больше урона и отбрасывания
+					Грибы наносят меньше урона, но вызывают отравление
+					75% шанс не расходовать боеприпасы
 					'''
-				DisplayName: Sling
+				DisplayName: Рогатка
 			}
 
 			Soilgun: {
-				DisplayName: Soilgun
+				DisplayName: Почвенная пушка
 				Tooltip:
 					'''
-					Hold <left> to charge up a volley of soil
-					Release to fire the soil at high velocities
-					Can use many different types of soils
-					'Soiled it! SOILED IT!'
+					Удерживайте <left>, чтобы зарядить залп почвы
+					Отпустите, чтобы выстрелить почвой с высокой скоростью.
+					Можно использовать множество различных типов почвы
+					'Испачкал! ИСПАЧКАЛ!'
 					'''
 			}
 
