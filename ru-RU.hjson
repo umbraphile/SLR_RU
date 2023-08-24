@@ -1512,31 +1512,31 @@ Mods: {
 			}
 
 			CrescentQuarterstaff: {
-				DisplayName: Crescent Quarterstaff
+				DisplayName: Клюка полумесяца
 				Tooltip:
 					'''
-					Striking enemies charges the staff with lunar energy
-					Condenses collected energy into a lunar orb when the final slam hits the ground
+					Удар по врагам заряжает посох лунной энергией
+					Собранная энергия конденсируется в лунный шар при последнем ударе о землю
 					'''
 			}
 
 			Datsuzei: {
-				DisplayName: Datsuzei
-				Tooltip: Unleash the moon
+				DisplayName: Дацузэй
+				Tooltip: Освободите луну
 			}
 
 			DianesPendant: {
-				DisplayName: Diane's Pendant
+				DisplayName: Подвеска Дианы
 				Tooltip:
 					'''
-					Consuming mana charges a Crescent Guardian, blitzing nearby enemies when fully charged
-					+20 barrier
+					Потребление маны заряжает хранителя полумесяца, который поражает ближайших врагов при полном заряде
+					+20 барьера
 					'''
 			}
 
 			Moonfury: {
-				DisplayName: Moonfury
-				Tooltip: Call down a shard of moonstone, inflicting Dreamfire on struck enemies
+				DisplayName: Лунная ярость
+				Tooltip: Призывает осколок лунного камня, вызывающий огонь сновидений у пораженных врагов
 			}
 
 			MoonstoneArrow: {
