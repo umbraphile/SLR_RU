@@ -1416,88 +1416,89 @@ Mods: {
 			}
 
 			SojournersScarf: {
-				DisplayName: Sojourner's Scarf
+				DisplayName: Шарф странника
 				Tooltip:
 					'''
-					20% increased movement speed
-					50% decreased life regeneration while stationary
+					Увеличение скорости передвижения на 20%
+					Cнижение регенерации жизни в неподвижном состоянии на 20%
 					'''
 			}
 
 			Sorcerwrench: {
-				DisplayName: Sorcerwrench
+				DisplayName: Гаечный ключ колдуна
 				Tooltip:
 					'''
-					Select an area of blocks to be broken
-					Consumes 2 mana per block broken
+					Выберите область блоков, которые будут разбиты
+					Расходует 2 маны за каждый разрушенный блок
 					'''
 			}
 
 			SoulOfFrog: {
-				DisplayName: Soul Of Frog
+				DisplayName: Душа лягушки
 				Tooltip:
 					'''
-					Frogs are resurrected on death, growing stronger with each return from the brink.
-					Killing other critters has a chance to reveal them as actually being a frog the whole time
-					They will then be resurrected as if they were a frog the whole time, because they wereI'm telling you, don't fuck with the frogs, please, they are stronger than you know
+					Лягушки воскресают после смерти, становясь сильнее с каждым возвращением с грани.
+					Убивая других животных, есть шанс раскрыть, что они всё это время были лягушками
+					Затем они воскрешаются, как если бы они всё это время были лягушками, потому что так оно и было
+                                        Я говорю вам, не шутите с лягушками, пожалуйста, они сильнее, чем вы думаете
 					'''
 			}
 
 			SpearBook: {
-				DisplayName: Snake Technique
+				DisplayName: Техника змеи
 				Tooltip:
 					'''
-					Teaches you the Art of the Spear, granting all normal spear weapons a new combo attack
-					The last strike in the combo deals increased damage and knockback
-					<right> to deter enemies with a flurry of stabs
+					Обучает искусству копья, давая всем обычным видам копья новую комбо-атаку
+					Последний удар в комбо имеет повышенные урон и отбрасывание
+					<right>, чтобы отпугивать врагов шквалом ударов
 					'''
 			}
 
 			SpikedMail: {
-				DisplayName: Spiked Mail
+				DisplayName: Шипастая кольчуга
 				Tooltip:
 					'''
-					Barrier damage is applied to attackers as thorns 
-					+20 barrier
+					Урон по барьеру наносится атакующим как шипы
+					+20 барьера
 					'''
 			}
 
 			StaminaGel: {
-				DisplayName: Starlight Gel
+				DisplayName: Гель звёздного сияния
 				Tooltip: ""
 			}
 
 			StaminaRing: {
-				DisplayName: Band of Starlight
-				Tooltip: Slightly increases Starlight regeneration
+				DisplayName: Браслет звёздного сияния
+				Tooltip: Слегка увеличивает восстановление звёздного cияния
 			}
 
 			SwordBook: {
-				DisplayName: Mantis Technique
+				DisplayName: Техника богомола
 				Tooltip:
 					'''
-					Teaches you the Art of the Sword, granting all sword weapons a new combo attack
-					<right> to parry, reflecting projectiles
+					Обучает искусству меча, давая всем видам мечей новую комбо-атаку
+					<right>, чтобы парировать, отражая снаряды
 					'''
 			}
 
 			TaintedGreataxe: {
 				Tooltip:
 					'''
-					Cursed : Landing a Critical Strike will inflict Focused on a new, different enemy
-					<right> on the Greataxe whilst it is Embedded to release it
+					Проклятие : при нанесении критического удара будет наложена фокусировка на нового, другого врага
+					Нажмите <right> на секиру в то время, когда она вставлена, чтобы освободить её
 					'''
-				DisplayName: Tainted Greataxe
+				DisplayName: Порченная секира
 			}
 
 			TarnishedRing: {
-				DisplayName: Tarnished Ring
-				Tooltip: "'Ancient and heavily tarnished, but still solid. You could sculpt this into something useful..."
+				DisplayName: Потускневшее кольцо
+				Tooltip: "'Древнее и сильно потускневшее, но все ещё прочное. Из него можно сделать что-то полезное...'"
 			}
 
 			TinCoil: {
-				DisplayName: Tin Coil
-				Tooltip: Strikes nearby enemies with static electricity
+				DisplayName: Оловянная катушка
+				Tooltip: Поражает ближайших врагов статическим электричеством
 			}
 
 			Ultrapills: {
