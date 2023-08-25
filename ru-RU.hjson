@@ -1646,115 +1646,115 @@ Mods: {
 			}
 
 			OverflowingUrn: {
-				DisplayName: Overflowing Urn
+				DisplayName: Переполненная урна
 				Tooltip:
 					'''
-					Unleashes a torrent of chilling winds
-					Prolonged use will cause it to go out of control
+					Вызывает поток ледяных ветров
+					При длительном использовании они выходят из-под контроля
 					'''
 			}
 
 			SquidBossBag: {
-				DisplayName: Treasure Bag (Auroracle)
+				DisplayName: Мешок с сокровищами (Авроракл)
 				Tooltip: ""
 			}
 
 			SquidBossSpawn: {
 				DisplayName: Подозрительно выглядящее подношение
-				Tooltip: Drop in prismatic waters to summon the one the Squiddites worship
+				Tooltip: Бросьте в призматические воды, чтобы призвать того, кому поклоняются кальмарриты
 			}
 
 			SquidBossSpawnEndless: {
-				DisplayName: Gilded Suspicious Looking Offering
+				DisplayName: Позолоченное подозрительно выглядящее подношение
 				Tooltip:
 					'''
-					Drop in prismatic waters to summon the one the Squiddites worship
-					Infinite uses
+					Бросьте в призматические воды, чтобы призвать того, кому поклоняются кальмарриты
+					Бесконечное использование
 					'''
 			}
 
 			SquidFins: {
-				DisplayName: Squid Fins
-				Tooltip: Allows you to swim like a jellysquid
+				DisplayName: Плавники кальмара
+				Tooltip: Позволяет вам плавать как медузокальмар
 			}
 
 			TentacleHook: {
-				DisplayName: Tentacle Hook
-				Tooltip: Move your mouse to hook around objects
+				DisplayName: Крюк-щупальце 
+				Tooltip: Передвигайте мышь, чтобы цеплятся у объектам
 			}
 
 			Tentalance: {
 				Tooltip:
 					'''
-					Launches a shimmering tentacle lance
-					Charge to fire up to 4 more lances at once
+					Выпускает мерцающее копье-щупальце
+					Зарядите, чтобы выпустить до 4 дополнительных копий одновременно.
 					'''
-				DisplayName: Tentalance
+				DisplayName: Тентакля
 			}
 
 			WaterStaff: {
-				DisplayName: Staff of the Waves
+				DisplayName: Посох Волн
 				Tooltip:
 					'''
-					Places and removes aurora water
-					<left> to place
-					<right> to remove
+					Размещает и удаляет воду авроры
+					<left> для размещения
+					<right> для удаления
 					'''
 			}
 
 			GreaterBarrierPotion: {
-				DisplayName: Greater Barrier Potion
+				DisplayName:  Большее зелье барьера
 				Tooltip:
 					'''
-					Grants 120 barrier
-					Greatly reduces overcharge barrier loss for 5 seconds
+					Даёт 120 барьера
+					Значительно снижает потерю барьера от перегрузки на 5 секунд
 					'''
 			}
 
 			InoculationPotion: {
-				DisplayName: Inoculation Potion
-				Tooltip: +30% Inoculation
+				DisplayName: Зелье инокуляции
+				Tooltip: +30% инокуляции
 			}
 
 			LesserBarrierPotion: {
-				DisplayName: Lesser Barrier Potion
+				DisplayName: Меньшее зелье барьера
 				Tooltip:
 					'''
-					Grants 40 barrier
-					Greatly reduces overcharge barrier loss for 3 seconds
+					Даёт 40 барьера
+					Значительно снижает потерю барьера от перегрузки на 3 секунды
 					'''
 			}
 
 			RegularBarrierPotion: {
-				DisplayName: " Barrier Potion"
+				DisplayName: "Зелье барьера"
 				Tooltip:
 					'''
-					Grants 80 barrier
-					Greatly reduces overcharge barrier loss for 4 seconds
+					Даёт 80 барьера
+					У меньшает потерю перегруженного барьера на 4 секунды 
 					'''
 			}
 
 			BloodCrystal: {
-				DisplayName: Blood Crystal
+				DisplayName: Кровавый кристалл
 				Tooltip:
 					'''
-					Cursed : Debuffs you inflict are also inflicted onto you 
-					All debuffs you inflict stack and last longer
+					Проклятый: дебаффы, которые вы накладываете, накладываются также и на вас 
+					Все наложенные вами дебаффы складываются и действуют дольше
 					'''
 			}
 
 			AquamarinePendant: {
-				DisplayName: Aquamarine Pendant
+				DisplayName: Кулон с аквамарином
 				Tooltip:
 					'''
-					+15 Barrier 
-					Losing all of your barrier releases ice shards
+					+15 барьера
+					Потеря всего вашего барьера создаёт осколки льда
 					'''
 			}
 
 			MeadHorn: {
-				DisplayName: Mead Horn
-				Tooltip: Potions last 50% longer
+				DisplayName: Рог медовухи
+				Tooltip: Зелья действуют на 50% дольше
 			}
 
 			Astroscrap: {
