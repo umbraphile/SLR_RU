@@ -1512,10 +1512,10 @@ Mods: {
 			}
 
 			CrescentQuarterstaff: {
-				DisplayName: Клюка полумесяца
+				DisplayName: Трость полумесяца
 				Tooltip:
 					'''
-					Удар по врагам заряжает посох лунной энергией
+					Удар по врагам заряжает трость лунной энергией
 					Собранная энергия конденсируется в лунный шар при последнем ударе о землю
 					'''
 			}
@@ -1526,7 +1526,7 @@ Mods: {
 			}
 
 			DianesPendant: {
-				DisplayName: Подвеска Дианы
+				DisplayName: Кулон Дианы
 				Tooltip:
 					'''
 					Потребление маны заряжает хранителя полумесяца, который поражает ближайших врагов при полном заряде
@@ -1540,66 +1540,66 @@ Mods: {
 			}
 
 			MoonstoneArrow: {
-				DisplayName: Moonlit Arrow
-				Tooltip: Gains speed and power as it travels
+				DisplayName: Стрела лунного света
+				Tooltip: Набирает скорость и мощность по мере движения
 			}
 
 			MoonstoneBarItem: {
-				DisplayName: Moonstone Bar
-				Tooltip: "'Shimmering with twisted starlight'"
+				DisplayName: Слиток лунного камня
+				Tooltip: "'Мерцающий искажённым звёздным сиянием'"
 			}
 
 			MoonstoneChest: {
-				DisplayName: Moonstone Chestpiece
-				Tooltip: +35 Barrier
+				DisplayName: Нагрудник из лунного камня
+				Tooltip: +35 барьера
 			}
 
 			MoonstoneHamaxe: {
-				Tooltip: Press <right> to charge up a slam that destroys a large area of walls
-				DisplayName: Moonstone Hamaxe
+				Tooltip: Зажмите <right>, чтобы зарядить удар, разрушающий большую область стен
+				DisplayName: Молотопор из лунного камня 
 			}
 
 			MoonstoneHead: {
-				DisplayName: Moonstone Helmet
+				DisplayName: Шлем из лунного камня
 				Tooltip:
 					'''
-					2% increased melee critical strike chance
-					+20 Barrier
+					Увеличение шанса критичекого удара в ближнем бою на 2%
+					+20 барьера
 					'''
 			}
 
 			MoonstoneLegs: {
-				DisplayName: Moonstone Greaves
+				DisplayName: Поножи из лунного камня
 				Tooltip:
 					'''
-					Improved acceleration
-					 +25 Barrier
+					Улучшенное ускорение
+					+25 барьера
 					'''
 			}
 
 			MoonstoneOreItem: {
-				DisplayName: Moonstone
+				DisplayName: Лунный камень
 				Tooltip: ""
 			}
 
 			StarlightShuriken: {
-				DisplayName: Starlight Shuriken
+				DisplayName: Cюрикен звёздного света
 				Tooltip:
 					'''
-					Toss a volley of magical shurikens
-					Landing every shuriken decreases the amount thrown by 1
-					Throw a powerful glaive when you would throw only 1 shuriken
+					Бросает залп магических сюрикенов
+					Приземление каждого сюрикена уменьшает количество брошенных на 1
+					Бросайте мощную глефу, когда вы должны были бы бросить только 1 сюрикен
 					'''
 			}
 
 			Shaker: {
-				DisplayName: The Shaker
+				DisplayName: Шейкер
 				Tooltip: ""
 			}
 
 			PalestoneNail: {
-				DisplayName: Palenail
-				Tooltip: Summons the Pale Knight
+				DisplayName: Бледный гвоздь
+				Tooltip: Призывает бледного рыцаря
 			}
 
 			AuroraBell: {
