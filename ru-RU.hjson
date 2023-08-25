@@ -1603,46 +1603,46 @@ Mods: {
 			}
 
 			AuroraBell: {
-				DisplayName: Aurora Bell
+				DisplayName: Колокольчик авроры
 				Tooltip:
 					'''
-					Summons a bell sentry
-					Hit the bell with a whip to ring it
+					Призывает сторожевой колокол
+					Ударьте по колоколу хлыстом, чтобы он зазвонил
 					'''
 			}
 
 			AuroraThroneMountItem: {
-				DisplayName: Aurora Crown
+				DisplayName: Корона авроры
 				Tooltip:
 					'''
-					Combat Mount: Summons an Aurora Throne
-					Lashes out with whip-like appendages
-					<right> to summon explosive Auroralings
+					Боевой ездовой питомец: призывает трон авроры
+					Хлестает кнутоподобными придатками
+					<right>, чтобы призвать взрывных авроралингов
 					'''
 			}
 
 			BookOfFrost: {
-				DisplayName: Book Of Frost
-				Tooltip: Melee critical strikes cause an icy explosion
+				DisplayName: Книга Мороза
+				Tooltip: Критические удары ближнего боя вызывают ледяной взрыв
 			}
 
 			Frostball: {
-				DisplayName: Frostball
+				DisplayName: Морозный шар
 				Tooltip:
 					'''
-					Strike enemies to build aurora power
-					Heals players near the yoyo based on aurora power
-					Gives you regeneration when retrieved based on aurora power
+					Поражайте врагов, чтобы накапливать энергию авроры
+					Лечит игроков, находящихся рядом с йо-йо, в зависимости от энергии авроры
+					Даёт вам регенерацию при возвращении, в зависимости от энергии авроры
 					'''
 			}
 
 			Octogun: {
 				Tooltip:
 					'''
-					Converts Musket Balls into Aurora Ink
-					Critical hits and kills cause Tentapistols to sprout from your back
+					Превращает мушкетные пули в чернила авроры
+					При критических попаданиях и убийствах из вашей спины вырастают тентапистолеты
 					'''
-				DisplayName: Octogun
+				DisplayName: Октопушка
 			}
 
 			OverflowingUrn: {
