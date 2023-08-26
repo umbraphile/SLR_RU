@@ -1084,7 +1084,7 @@ Mods: {
 			}
 
 			Cheapskates: {
-				DisplayName: Дешёвые скейтборды
+				DisplayName: Скряги
 				Tooltip:
 					'''
 					Максимальная скорость передвижения удвоена
@@ -1109,7 +1109,7 @@ Mods: {
 			}
 
 			CoughDrops: {
-				DisplayName: Леденцы от кашля
+				DisplayName: Пилюли от кашля
 				Tooltip: Когда дебаффы снимаются, даёт временное ускорение и увеличение урона
 			}
 
@@ -1152,7 +1152,7 @@ Mods: {
 
 			DullBlade: {
 				DisplayName: Тупое лезвие
-				Tooltip: Древний и сильно изношенный, но всё ещё прочный. Вы могли бы выковать из него что-то полезное...
+				Tooltip: Древнее и сильно изношенное, но всё ещё прочное. Вы могли бы выковать из него что-то полезное...
 			}
 
 			Earthduster: {
@@ -1160,7 +1160,7 @@ Mods: {
 					'''
 					Удерживайте <left>, чтобы выстрелить быстрый поток земли
 					Можно использовать много различных блоков в качестве боеприпасов, каждый с уникальными эффектами
-					33% шанс не расходовать боеприпасы
+					33% шанс не использовать боеприпасы
 					'''
 				DisplayName: Земле-пыльник
 			}
@@ -1287,7 +1287,7 @@ Mods: {
 			}
 
 			ImpulseThruster: {
-				DisplayName: Импульсный движитель
+				DisplayName: Импульсный двигатель
 				Tooltip:
 					'''
 					Преобразует все время полета во взрыв энергии
@@ -1296,7 +1296,7 @@ Mods: {
 			}
 
 			Ironheart: {
-				DisplayName: Железное сердце
+				DisplayName: Стальное сердце
 				Tooltip: Урон ближнего боя создает разрушающийся барьер и защиту
 			}
 
@@ -1726,7 +1726,7 @@ Mods: {
 			}
 
 			RegularBarrierPotion: {
-				DisplayName: "Зелье барьера"
+				DisplayName: Зелье барьера
 				Tooltip:
 					'''
 					Даёт 80 барьера
@@ -1763,37 +1763,37 @@ Mods: {
 			}
 
 			StarwoodBoomerang: {
-				DisplayName: Бумеранг звёздного леса
-				Tooltip: Hold <left> to channel the boomerang, causing it to release an explosion
+				DisplayName: Бумеранг из звездодревесины
+				Tooltip: Удерживайте <left> чтобы направить бумеранг, позволяя ему выпускать взрывы
 			}
 
 			StarwoodBoots: {
-				DisplayName: Поножи звёздного леса
+				DisplayName: Поножи из звездодревесины
 				Tooltip: Шанс магического критического удара увеличен на 5%
 			}
 
 			StarwoodCharm: {
-				DisplayName: Starwood Charm
+				DisplayName: Амулет звездодревесины
 				Tooltip:
 					'''
-					Critical strikes generate mana stars
-					-3% critical strike chance
-					+3% critical strike chance when empowered by Starwood Armor
+					Критические удары призывают звёзды маны
+					-3% шанса критического удара
+					+3% шанса критического удара, если усилен Бронёй из звездодревесины 
 					'''
 			}
 
 			StarwoodChest: {
-				DisplayName: Мантия звёздного леса
+				DisplayName: Мантия из звездодревесины
 				Tooltip: Увеличивает максимальную ману на 20
 			}
 
 			StarwoodHat: {
-				DisplayName: Шляпа звёздного леса
+				DisplayName: Шляпа из звездодревесины
 				Tooltip: Магический урон увеличен на 5%
 			}
 
 			StarwoodSlingshot: {
-				DisplayName: Рогатка звёздного леса
+				DisplayName: Рогатка из звездодревесины
 				Tooltip:
 					'''
 					Сплетает упавшие звёзды
@@ -1802,209 +1802,209 @@ Mods: {
 			}
 
 			StarwoodStaff: {
-				DisplayName: Посох звёздного леса
+				DisplayName: Посох из звездодревесины
 				Tooltip:
 					'''
 					Создает взрыв мелких звёзд
-					Если поразить противника каждой звездой, на него упадет более крупная звезда
+					Если поразить противника каждой из этих звезд, на него упадет более крупная звезда
 					'''
 			}
 
 			AncientGear: {
-				DisplayName: Ancient Gear
+				DisplayName: Древнее снаряжение
 				Tooltip: ""
 			}
 
 			Buzzsaw: {
-				DisplayName: Steamsaw
+				DisplayName: Паровая пила
 				Tooltip:
 					'''
-					Strike enemies to build up pressure
-					Release to vent the pressure, launching the sawblade
-					'The right tool for the wrong job'
+					Бейте врагов чтобы накапливать давление
+					Отпустите, чтобы выпустить все давление, выстрельнув паровой пилой
+					'Правильный инструмент для неправильной работы'
 					'''
 			}
 
 			CogAmmoItem: {
-				DisplayName: Cogshot
+				DisplayName: Шестернестрел
 				Tooltip:
 					'''
-					Bounces between enemies up to five times
-					Halves damage with each bounce
+					Отскакивает от врагов до 5 раз
+					С каждым отскоком урон уменьшается на половину
 					'''
 			}
 
 			Cogwheel: {
-				DisplayName: Cogwheel
-				Tooltip: Summons a ridable Cogwheel mount
+				DisplayName: Шестерня-колесо
+				Tooltip: Призывает ездового питомца Шестерню-колесо
 			}
 
 			Jetwelder: {
-				DisplayName: Jetwelder
+				DisplayName: Реактивный сварочный аппарат
 				Tooltip:
 					'''
-					Collect scrap from damaging enemies 
-					<right> to use the scrap in order to build robots
+					Собирайте металлолом при нанесении урона врагам
+					Нажмите <right>, чтобы потратить металлолом и собрать роботов
 					'''
 			}
 
 			JetwelderScrap1: {
-				DisplayName: Scrap
-				Tooltip: You shouldn't see this
+				DisplayName: Металлолом
+				Tooltip: Ты не должен был увидеть это
 			}
 
 			JetwelderScrap2: {
-				DisplayName: Scrap
-				Tooltip: You shouldn't see this
+				DisplayName: Металлолом
+				Tooltip: Ты не должен был увидеть это
 			}
 
 			JetwelderScrap3: {
-				DisplayName: Scrap
-				Tooltip: You shouldn't see this
+				DisplayName: Металлолом
+				Tooltip: Ты не должен был увидеть это
 			}
 
 			JetwelderScrap4: {
-				DisplayName: Scrap
-				Tooltip: You shouldn't see this
+				DisplayName: Металлолом
+				Tooltip: Ты не должен был увидеть это
 			}
 
 			RebarLauncher: {
-				DisplayName: Rebar Launcher
+				DisplayName: Арматурная пусковая установка 
 				Tooltip:
 					'''
-					Impales enemies 
-					Shoot impaled rebar to drive it even deeper into enemies
+					Пронзает врагов
+					Стреляйте по воткнутой арматуре, чтобы загнать её еще глубже во врага.
 					'''
 			}
 
 			RuneStaff: {
-				DisplayName: Shine Staff
+				DisplayName: Посох блеска
 				Tooltip:
 					'''
-					Hold <left> to search for treasure
-					Release to fire stars toward the cursor
+					Удерживайте <left>, чтобы искать сокровища
+					Отпустите, чтобы выстрелить звёздами в сторону курсора
 					'''
 			}
 
 			TempleLens: {
-				DisplayName: Ancient Lens
+				DisplayName: Древняя линза
 				Tooltip:
 					'''
-					Critical strikes cause enemies around the struck enemy to glow, revealing other enemies
-					+3% critical strike chance 
-					+10% critical strike damage
+					Критические удары заставляют всех окружающих поражённую цель светиться
+					+3% шанса критического удара
+					+10% урона критического удара
 					'''
 			}
 
 			TempleLensUpgrade: {
-				DisplayName: Truestrike Lens
+				DisplayName: Линза истинного удара
 				Tooltip:
 					'''
-					Critical strikes expose enemies near the struck enemy
-					Exposed enemies have 20% increased Exposure on first hit
-					+4% critical strike chance
-					+10% critical strike damage
+					Критические удары помечают всех окружающих поражённую цель
+					У помеченных врагов на 20% увеличена Уязвимость к следующему удару
+					+4% шанса критического удара
+					+10% урона критического удара
 					'''
 			}
 
 			TemplePick: {
-				DisplayName: Whirlwind Pickaxe
-				Tooltip: Hold right click to charge up a spinning pickaxe dash, breaking anything in your way
+				DisplayName: Вихревая кирка
+				Tooltip: Удерживайте ПКМ, чтобы зарядить бросок крутящейся кирки, ломающий всё на своём пути
 			}
 
 			TempleRune: {
-				DisplayName: Rune of Warding
-				Tooltip: +20 maximum barrier
+				DisplayName: Руна защиты
+				Tooltip: +20 максимального барьера
 			}
 
 			TempleSpear: {
-				DisplayName: Point of Light
+				DisplayName: Точка света
 				Tooltip:
 					'''
-					Hold <left> to charge a powerful spear
-					Fires a laser when fully charged
+					Удерживайте <left>, чтобы зарядить мощное копьё
+					Стреляет лазером при полной зарядке
 					'''
 			}
 
 			ArmorBag: {
-				DisplayName: Armor Bag
+				DisplayName: Мешок брони
 				Tooltip:
 					'''
-					Stores armor for quick use
-					Contains:
+					Хранит в себе броню для быстрого использования
+					Содержит:
 					'''
 			}
 
 			ChefBag: {
-				DisplayName: Chef's Bag
-				Tooltip: Stores lots of every food ingredient
+				DisplayName: Мешок шефа
+				Tooltip: Содержит каждый ингридиент для еды в больших количествах
 			}
 
 			CurseRemover: {
-				DisplayName: Scroll of Undoing
+				DisplayName: Свиток отмены
 				Tooltip:
 					'''
-					Place over an equipped Cursed item to destroy it
-					'There's no turning back, most of the time'
+					Положите на надетый проклятый предмет, чтобы его уничтожить
+					'Пути назад уже нет, наверное'
 					'''
 			}
 
 			AncientStarwoodBoots: {
-				DisplayName: Ancient Starwood Leggings
+				DisplayName: Древние поножи из звездодревесины
 				Tooltip: ""
 			}
 
 			AncientStarwoodChest: {
-				DisplayName: Ancient Starwood Robes
+				DisplayName: Древняя мантия из звездодревесины
 				Tooltip: ""
 			}
 
 			AncientStarwoodHat: {
-				DisplayName: Ancient Starwood Hat
+				DisplayName: Древняя шляпа из звездодревесины
 				Tooltip: ""
 			}
 
 			MechaChest: {
-				DisplayName: Mecha Chest
+				DisplayName: Меха нагрудник
 				Tooltip: ""
 			}
 
 			MechaHead: {
-				DisplayName: Mecha Helmet
+				DisplayName: Меха шлем
 				Tooltip: ""
 			}
 
 			MechaLegs: {
-				DisplayName: Mecha Legs
+				DisplayName: Меха ноги
 				Tooltip: ""
 			}
 
 			WardenHat: {
-				DisplayName: Warden Hat
+				DisplayName: Шляпа смотрителя
 				Tooltip: "[c/198E12:???]"
 			}
 
 			WardenRobe: {
-				DisplayName: Warden Robe
+				DisplayName: Мантия смотрителя
 				Tooltip: "[c/198E12:???]"
 			}
 
 			CoachGunUpgrade: {
-				DisplayName: Magmatic Coach Gun
+				DisplayName: Магматический двуствольный обрез
 				Tooltip:
 					'''
-					Press <right> to throw out crystal bombs, which explode in chain reactions 
-					Firing at a bomb detonates it prematurely for more violent results
+					Нажмите <right>, чтобы бросить кристальные бомбы, которые взрываются по цепной реакции
+					Выстрел по бомбе взрывает её заранее, приводя к более жестоким результатам
 					'How does he manage to corenuke like that?'
 					'''
 			}
 
 			Coalescence: {
-				DisplayName: Coalescence
+				DisplayName: Коалесценция
 				Tooltip:
 					'''
-					Charge for a volley of brilliant magic
-					Fully charged shots leech mana where their arrows meet
+					Зарядите, чтобы выпустить залп яркой магии
+					Полностью заряженные выстрелы высасывают ману в том месте, где соприкасаются стрелы
 					'''
 			}
 
@@ -2018,65 +2018,65 @@ Mods: {
 			}
 
 			ForgeMap: {
-				DisplayName: Glassweaver's Map
+				DisplayName: Карта Стеклодува
 				Tooltip:
 					'''
-					Quite a self-explanatory exquisite piece of art isn't it?
-					Right click on the item to view the map.
+					Довольно изысканное произведение искусства, говорящее само за себя, не так ли?
+					Нажмите ПКМ по предмету, чтобы посмотреть карту.
 					'''
 			}
 
 			GlassIdol: {
-				Tooltip: Used to worship a powerful guardian.
-				DisplayName: Glass Idol
+				Tooltip: Использовался для поклонения могущественному стражу.
+				DisplayName: Стеклянный идол
 			}
 
 			GlassIdolEndless: {
-				DisplayName: Gilded Glass Idol
+				DisplayName: Позолоченный стеклянный идол
 				Tooltip:
 					'''
-					Used to worship a powerful guardian.
-					Infinite uses
+					Использовался для поклонения могущественному стражу.
+					Неограниченное количество использований
 					'''
 			}
 
 			IgnitionGauntlets: {
-				DisplayName: Ignition Gauntlets
+				DisplayName: Перчатки воспламенения
 				Tooltip:
 					'''
-					Rapidly barrages enemies with your fists while building Ignition Charge
-					Hold <right> to consume charge, propelling yourself forward at escape velocity
-					Attack while still flying to vent remaining charge in a large blast cone
-					'Heroes always arrive from the skies'
+					Быстро бьёт врагов вашими кулаками, постепенно накапливая заряд Воспламенения
+					Удерживайте <right>, чтобы потратить заряд, запустив себя вперед с космической скоростью
+					Атакуйте, пока летите, чтобы выпустить остаток заряда в виде большого взрыва
+					'Герои всегда приходят с небес'
 					'''
 			}
 
 			MagmaArrow: {
-				DisplayName: Magma Arrow
-				Tooltip: Cools down as it travels, applying less fire but dealing more damage and knockback
+				DisplayName: Стрела магмы
+				Tooltip: Охлаждается по мере своего полёта, постепенно накладывая меньше огня, но нанося больше урона и сильнее отбрасывая
 			}
 
 			MagmaCore: {
 				DisplayName: Магматическое ядро
-				Tooltip: A sample of the hot stuff.
+				Tooltip: Образец горячего материала.
 			}
 
 			MagmiteBomb: {
 				DisplayName: Магмит-бомба
 				Tooltip:
 					'''
-					A ball of cuteness turned into an instrument of destruction
-					You monster...
+					Комочек милоты, превратившийся в разрушительное оружие
+					Ты чудовище...
 					'''
 			}
 
 			MagmiteBottle: {
 				DisplayName: Магмит в банке
-				Tooltip: Why would you do this to him?!
+				Tooltip: За что ты так с ним?!
 			}
 
 			MagmiteVacpack: {
-				Tooltip: Blasts out Magmites that stick to enemies and increase summon tag damage
+				Tooltip: Выстреливает Магмитами, которые приклеиваются к врагам, повышая урон миньонов по цели
 				DisplayName: Магмитодув
 			}
 
@@ -2084,14 +2084,14 @@ Mods: {
 				DisplayName: Игольник
 				Tooltip:
 					'''
-					Stick spikes to enemies to build up heat 
-					Overheated enemies explode, dealing massive damage
+					Вонзайте иглы во врагов, чтобы накапливать тепло 
+					Перегревшиеся враги взрываются, получая огромный урон
 					'''
 			}
 
 			PhoenixStorm: {
-				DisplayName: Phoenix Storm
-				Tooltip: Summons a storm of phoenixes that periodically swoop in on enemies
+				DisplayName: Шторм фениксов
+				Tooltip: Призывает шторм фениксов, которые иногда налетают на врагов
 			}
 
 			RecursiveFocus: {
