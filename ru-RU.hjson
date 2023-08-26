@@ -3988,7 +3988,7 @@ Mods: {
 
 			GrayGooSummonBuff: {
 				DisplayName: Серая жижа
-				Description: Nanomachines, son!
+				Description: 'Наномашины, сынок!'
 			}
 
 			PalestoneSummonBuff: {
@@ -4037,13 +4037,13 @@ Mods: {
 			}
 
 			ShovelQuickFall: {
-				DisplayName: Quick fall
-				Description: You slammin
+				DisplayName: Быстрое падение
+				Description: Вы пикируете носом
 			}
 
 			ShovelSlowFall: {
-				DisplayName: Slow fall
-				Description: Falling Speed Reduced
+				DisplayName: Медленное падение
+				Description: Скорость падения уменьшена
 			}
 
 			SoulSuck: {
@@ -4052,8 +4052,8 @@ Mods: {
 			}
 
 			CorpseflowerBuff: {
-				DisplayName: Corpseflowered
-				Description: You have been cursed by the corpseflower
+				DisplayName: Трупноцветение
+				Description: Вы были прокляты Трупным цветком
 			}
 
 			BarbedKnifeBleed: {
@@ -4092,8 +4092,8 @@ Mods: {
 			}
 
 			PlexusChaliceBuff: {
-				DisplayName: Plexus Resistance
-				Description: +30% Inoculation
+				DisplayName: Сопротивление Плексуса
+				Description: +30% Инокуляции
 			}
 
 			MoonfuryDebuff: {
@@ -4107,13 +4107,13 @@ Mods: {
 			}
 
 			UrnFreeze: {
-				DisplayName: Urn Freeze
-				Description: The pot is out of control!
+				DisplayName: Заморозка Урны
+				Description: Этот горшок вышел из под контроля!
 			}
 
 			InoculationPotionBuff: {
-				DisplayName: Inoculated
-				Description: +30% Inoculation
+				DisplayName: Инокулирован
+				Description: +30% Инокуляции
 			}
 
 			NoShieldPot: {
@@ -4127,7 +4127,7 @@ Mods: {
 			}
 
 			CogwheelBuff: {
-				DisplayName: Cogwheel
+				DisplayName: Шестеренка
 				Description: They see me rollin'
 			}
 
@@ -4137,8 +4137,8 @@ Mods: {
 			}
 
 			MagmaBurn: {
-				DisplayName: Magma burn
-				Description: Liquid glass melts away at you!
+				DisplayName: Магмовый ожог
+				Description: Жидкое стекло плавит вас изнутри!
 			}
 
 			PhoenixStormSummonBuff: {
@@ -4172,20 +4172,20 @@ Mods: {
 		}
 
 		Prefixes: {
-			DefensivePrefix.DisplayName: Defensive
-			DoTResistPrefix1.DisplayName: Healthy
-			DoTResistPrefix2.DisplayName: Protected
-			DoTResistPrefix3.DisplayName: Blessed
-			LayeredPrefix.DisplayName: Layered
-			PlatedPrefix.DisplayName: Plated
-			ReinforcedPrefix.DisplayName: Reinforced
-			StaminaPrefix1.DisplayName: Sparkling
-			StaminaPrefix2.DisplayName: Shining
-			StaminaPrefix3.DisplayName: Glowing
-			StaminaPrefix4.DisplayName: Radiant
-			Feral.DisplayName: Feral
-			Jumpy.DisplayName: Jumpy
-			Tanklike.DisplayName: Tanklike
+			DefensivePrefix.DisplayName: Оборонительный
+			DoTResistPrefix1.DisplayName: Здоровый
+			DoTResistPrefix2.DisplayName: Защищенный
+			DoTResistPrefix3.DisplayName: Благославленный
+			LayeredPrefix.DisplayName: Многослойный
+			PlatedPrefix.DisplayName: Крытый
+			ReinforcedPrefix.DisplayName: Усиленный
+			StaminaPrefix1.DisplayName: Искрящийся
+			StaminaPrefix2.DisplayName: Сияющий
+			StaminaPrefix3.DisplayName: Светящийся
+			StaminaPrefix4.DisplayName: Ослепительный
+			Feral.DisplayName: Чудовищный
+			Jumpy.DisplayName: Прыгучий
+			Tanklike.DisplayName: Танкоподобный
 		}
 
 		Compat: {
