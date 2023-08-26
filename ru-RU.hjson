@@ -3937,8 +3937,8 @@ Mods: {
 			}
 
 			HotspringHeal: {
-				DisplayName: Refreshing Dip
-				Description: The hot springs restore your body and mind
+				DisplayName: Освежающее погружение
+				Description: Горячие источники восстановливают ваше тело и разум
 			}
 
 			Illuminant: {
@@ -3957,83 +3957,83 @@ Mods: {
 			}
 
 			PrismaticDrown: {
-				DisplayName: Prismatic Drown
-				Description: You are drowning in prismatic waters!
+				DisplayName: Призматическое утопление
+				Description: Вы тонете в призматических водах
 			}
 
 			ProtectiveShard: {
-				DisplayName: Protective Shards
-				Description: Incoming Damage reduced by 25%
+				DisplayName: Защитные осколки
+				Description: Получаемый урон снижен на 25%
 			}
 
 			Rage: {
-				DisplayName: Rage
-				Description: Increased damage and greatly increased knockback
+				DisplayName: Ярость
+				Description: Увеличен урон и значительно повышено отбрасывание
 			}
 
 			Slimed: {
-				DisplayName: Slimed
-				Description: eww
+				DisplayName: В слизи
+				Description: Фууу
 			}
 
 			Squash: {
-				DisplayName: Pancaked
-				Description: You're flat now.
+				DisplayName: Расплющены в блинчик
+				Description: Теперь вы плоский.
 			}
 
 			StaticShock: {
-				DisplayName: Static Shock
-				Description: Lowered Defense
+				DisplayName: Статический шок
+				Description: Понижена защита
 			}
 
 			GrayGooSummonBuff: {
-				DisplayName: Gray Goo
+				DisplayName: Серая жижа
 				Description: Nanomachines, son!
 			}
 
 			PalestoneSummonBuff: {
-				DisplayName: Pale Knight
-				Description: The Pale Knight Will Protect You!
+				DisplayName: Бледный рыцарь
+				Description: Бледный рыцарь защитит вас!
 			}
 
 			SupplyBeaconDamage: {
-				DisplayName: Supply Beacon
-				Description: Damage increased
+				DisplayName: Аварийный маячок
+				Description: Урон увеличен
 			}
 
 			SupplyBeaconDefense: {
-				DisplayName: Supply Beacon
-				Description: Defense increased
+				DisplayName: Аварийный маячок
+				Description: Защита увеличена
 			}
 
 			SupplyBeaconHeal: {
-				DisplayName: Supply Beacon
-				Description: Regeneration increased
+				DisplayName: Аварийный маячок
+				Description: Регенерация увеличена
 			}
 
 			ArchaeologistsBuff: {
-				DisplayName: Treasure buff
-				Description: Your minions do more damage
+				DisplayName: Бафф сокровища
+				Description: Ваши миньоны наносят больше урона
 			}
 
 			PerfectlyGenericPetBuff: {
-				DisplayName: Perfectly Generic Pet
-				Description: Made of grist
+				DisplayName: Абсолютно непримечательный питомец
+				Description: Сделан из шрота
 			}
 
 			WolfBleeding: {
-				DisplayName: Gored
-				Description: Gored by a wolf
+				DisplayName: Растерзан
+				Description: Растерзан волком
 			}
 
 			FleshApparationBuff: {
-				DisplayName: Flesh apparation
-				Description: A chunk of your flesh is following you!
+				DisplayName: Трансгрессия плоти
+				Description: Кусок вашей плоти следует за вами!
 			}
 
 			RadculasRapierCooldown: {
-				DisplayName: Radcula's Teleport Cooldown
-				Description: The rapier's energy seems deminished
+				DisplayName: Перезарядка телепорта Радкулы
+				Description: Энергия рапиры ослабилась
 			}
 
 			ShovelQuickFall: {
@@ -4047,8 +4047,8 @@ Mods: {
 			}
 
 			SoulSuck: {
-				DisplayName: Soul Suck
-				Description: You getting sucked
+				DisplayName: Высасывание души
+				Description: Вас сосут
 			}
 
 			CorpseflowerBuff: {
@@ -4057,18 +4057,18 @@ Mods: {
 			}
 
 			BarbedKnifeBleed: {
-				DisplayName: Deep gash
-				Description: You're bleeding out!
+				DisplayName: Глубокий порез
+				Description: Из вас хлещет кровь!
 			}
 
 			BizarrePotionPoisonDebuff: {
-				DisplayName: Bizarre Poison
-				Description: You poisoned
+				DisplayName: Странное зелье
+				Description: Вы отравились
 			}
 
 			BrokenGlassesBuff: {
-				DisplayName: Broken Glasses
-				Description: You cant see, loser!
+				DisplayName: Сломанные очки
+				Description: Теперь ты видеть не можешь, неудачник!
 			}
 
 			CoachDebuff: {
@@ -4077,18 +4077,18 @@ Mods: {
 			}
 
 			FiletFrenzyBuff: {
-				DisplayName: Blood Frenzy
-				Description: Increased melee speed, but decreased crit rate on Filet Knife
+				DisplayName: Кровавое буйство
+				Description: Повышена скорость атаки, но снижена вероятность критического удара Филейного ножа
 			}
 
 			ImpactSMGBuff: {
-				DisplayName: Heated Up!
-				Description: ""
+				DisplayName: Разогрет!
+				Description: "ПП наносит на 10% больше урона"
 			}
 
 			IronheartBuff: {
-				DisplayName: Ironheart
-				Description: you have decaying extra barrier and defense
+				DisplayName: Стальное сердце
+				Description: У вас есть постепенно распадающийся барьер и защита
 			}
 
 			PlexusChaliceBuff: {
@@ -4102,8 +4102,8 @@ Mods: {
 			}
 
 			AuroraThroneMountMinionDebuff: {
-				DisplayName: Inked
-				Description: You take increased damage
+				DisplayName: В чернилах
+				Description: Вы получаете больше урона
 			}
 
 			UrnFreeze: {
@@ -4117,13 +4117,13 @@ Mods: {
 			}
 
 			NoShieldPot: {
-				DisplayName: Barrier Sickness
-				Description: Cannot consume more barrier potions
+				DisplayName: Барьерная болезнь
+				Description: Использование зелий барьера невозможно
 			}
 
 			ShieldDegenReduction: {
-				DisplayName: Barrier Affinity
-				Description: Barrier sticks to you better
+				DisplayName: Барьерное родство
+				Description: Барьер лучше держится на вас
 			}
 
 			CogwheelBuff: {
@@ -4132,8 +4132,8 @@ Mods: {
 			}
 
 			Exposed: {
-				DisplayName: Exposed
-				Description: Taking extra damage!
+				DisplayName: Уязвим
+				Description: Получаете больше урона!
 			}
 
 			MagmaBurn: {
@@ -4142,18 +4142,18 @@ Mods: {
 			}
 
 			PhoenixStormSummonBuff: {
-				DisplayName: Phoenix Minion
-				Description: A fiery bird follows you
+				DisplayName: Феникс-прислужник
+				Description: Пламенная птица следует за вами
 			}
 
 			RefractiveBladeBuff: {
-				DisplayName: Melting
-				Description: Taking additional melee damage!
+				DisplayName: Плавление
+				Description: Получаете больше урона в ближнем бою!
 			}
 
 			SwelteredDeBuff: {
-				DisplayName: Sweltered
-				Description: Damage taken increased by 35%
+				DisplayName: Изнурен
+				Description: Получаемый урон увеличен на 35%
 			}
 
 			Fogbinded: {
@@ -4162,11 +4162,11 @@ Mods: {
 			}
 
 			TouchstoneWispBuff: {
-				DisplayName: Aurora Curiosity
+				DisplayName: Любопытность авроры
 				Description:
 					'''
-					What lies below?
-					Increased mining speed
+					Что находится там, внизу?
+					Скорость копания повышена
 					'''
 			}
 		}
