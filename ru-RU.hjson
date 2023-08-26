@@ -3547,7 +3547,7 @@ Mods: {
 			GauntletSpawner.DisplayName: Gauntlet Spawner
 			SpawnEgg.DisplayName: Spawn Egg
 			SandscriptBook.DisplayName: Sandscript Book
-			RecursiveFocusLaser.DisplayName: Infernal Laser
+			RecursiveFocusLaser.DisplayName: Адский лазер
 		}
 
 		Tiles: {
@@ -3556,74 +3556,74 @@ Mods: {
 			FaeflamePickupTile.MapEntry: ""
 			ForbiddenWindsPickupTile.MapEntry: ""
 			StaminaShardTile.MapEntry: ""
-			CookStation.MapEntry: Cooking Station
-			Infuser.MapEntry: Infuser
-			CrashPod.MapEntry: Crashed Pod
-			AnkhChest.MapEntry: Ankh Chest
+			CookStation.MapEntry: Станция готовки
+			Infuser.MapEntry: Насос
+			CrashPod.MapEntry: Сломанный горшок
+			AnkhChest.MapEntry: Сундук Анкх
 			DesertMonolith.MapEntry: ""
 			DesertMonolithFlipped.MapEntry: ""
-			TwistSwordTile.MapEntry: Twisted Greatsword
+			TwistSwordTile.MapEntry: Кручёный двуручный меч
 			PinkSeaSalt.MapEntry: ""
 			TableSalt.MapEntry: ""
 			ForestBerryBush.MapEntry: ""
-			MonkSpear.MapEntry: Monk's Spade
+			MonkSpear.MapEntry: Копье Монаха
 			SlimeberryBush.MapEntry: ""
-			ThickTree.MapEntry: Large Tree
+			ThickTree.MapEntry: Большое дерево
 			ThickTreeBase.MapEntry: ""
-			TallAncientFruit.MapEntry: Ancient Fruit
-			TallGoldenRice.MapEntry: Golden Rice
-			TallRice.MapEntry: Rice
-			GreenhouseGlass.MapEntry: Greenhouse Glass
+			TallAncientFruit.MapEntry: Древний плод
+			TallGoldenRice.MapEntry: Золотой рис
+			TallRice.MapEntry: Рис
+			GreenhouseGlass.MapEntry: Стекло оранжереи
 			Bouncer.MapEntry: ""
 			StaminaGem.MapEntry: ""
-			DisplayCase.MapEntry: Relic Case
-			DisplayCaseFriendly.MapEntry: Relic Case
+			DisplayCase.MapEntry: Чехол для реликвий
+			DisplayCaseFriendly.MapEntry: Чехол для реликвий
 			PatreonPlaque.MapEntry: ""
-			RatTent.MapEntry: Strange Tent
-			MoonstoneBar.MapEntry: Metal Bar
-			MoonstoneOre.MapEntry: Moonstone Ore
-			JellyShroom.MapEntry: Jelly Shroom
+			RatTent.MapEntry: Странная палатка
+			MoonstoneBar.MapEntry: Слиток
+			MoonstoneOre.MapEntry: Руда лунного камян
+			JellyShroom.MapEntry: Желейный гриб
 			Lumishroom.MapEntry: ""
 			Vibeshroom.MapEntry: ""
 			BlueTorchOvergrow.MapEntry: ""
-			OvergrowthLivingWoodTile.MapEntry: Overgrown Living Wood
-			Overgrow.MapEntry: Music Box
+			OvergrowthLivingWoodTile.MapEntry: Заросшее живое дерево
+			Overgrow.MapEntry: Музыкальная шкатулка
 			Rock2x2.MapEntry: ""
 			SetpieceAltar.MapEntry: ""
-			SkeletonBrickTile.MapEntry: Skeleton Brick
+			SkeletonBrickTile.MapEntry: Скелетный кирпич
 			TorchOvergrow.MapEntry: ""
 			WindowSmall.MapEntry: ""
 			WispAltarL.MapEntry: ""
 			WispAltarR.MapEntry: ""
-			AuroraclePainting.MapEntry: Painting
-			EggCodexPainting.MapEntry: Painting
-			EndOfTimePainting.MapEntry: Painting
-			RatKingPainting.MapEntry: Painting
+			AuroraclePainting.MapEntry: Картина
+			EggCodexPainting.MapEntry: Картина
+			EndOfTimePainting.MapEntry: Картина
+			RatKingPainting.MapEntry: Картина
 			AuroraBrick.MapEntry: ""
 			AuroraBrickDoor.MapEntry: ""
 			AuroraIce.MapEntry: ""
 			BossGate.MapEntry: ""
 			DoorBombShooter.MapEntry: ""
 			PermafrostIce.MapEntry: ""
-			Touchstone.MapEntry: Touchstone
+			Touchstone.MapEntry: Пробный камень
 			TouchstoneLootbox.MapEntry: ""
-			AuroracleTrophy.MapEntry: Trophy
-			Auroracle.MapEntry: Music Box
-			CeirosTrophy.MapEntry: Trophy
-			CombatShrine.MapEntry: Mysterious Shrine
-			EvasionShrine.MapEntry: Mysterious Shrine
+			AuroracleTrophy.MapEntry: Трофей
+			Auroracle.MapEntry: Музыкальная шкатулка
+			CeirosTrophy.MapEntry: Трофей
+			CombatShrine.MapEntry: Загадочная сокровищница
+			EvasionShrine.MapEntry: Загадочная сокровищница
 			HotspringFountain.MapEntry: ""
-			MagmiteShrine.MapEntry: The Boi
-			WitShrine.MapEntry: Mysterious Shrine
+			MagmiteShrine.MapEntry: Пацан
+			WitShrine.MapEntry: Загадочная сокровищница
 			DashBarrier.MapEntry: ""
-			JarTall.MapEntry: Stamina Jar
+			JarTall.MapEntry: Банка стамины
 			TempleChestSimple.MapEntry: ""
 			TempleLootBubble.MapEntry: ""
 			VerletBanner.MapEntry: ""
 			DestructableGlass.MapEntry: ""
 			ForgeActor.MapEntry: ""
-			ForgeDoor.MapEntry: Forge Door
-			ForgeInnerDoor.MapEntry: Forge Door
+			ForgeDoor.MapEntry: Дверь кузни
+			ForgeInnerDoor.MapEntry: Дверь кузни
 			RedBannerShort.MapEntry: ""
 			SandstoneDoor.MapEntry: ""
 			CrystalSlimeSpawner.MapEntry: ""
@@ -3631,7 +3631,7 @@ Mods: {
 			DoorGears.MapEntry: ""
 			DoorLasers.MapEntry: ""
 			DoorVertical.MapEntry: ""
-			EntranceDoor.MapEntry: Vitric Temple Door
+			EntranceDoor.MapEntry: Дверь стеклянного храма
 			DynamicGear.MapEntry: ""
 			GearPuzzleOrigin.MapEntry: ""
 			ObjectiveGear.MapEntry: ""
@@ -3642,16 +3642,16 @@ Mods: {
 			LightGoal.MapEntry: ""
 			Reflector.MapEntry: ""
 			LowWindBanner.MapEntry: ""
-			MainForge.MapEntry: Vitric Forgeheart
+			MainForge.MapEntry: Сердце стеклянной кузни
 			NPCSpawner.MapEntry: ""
 			OldCeirosShrine.MapEntry: ""
 			TallWindow.MapEntry: ""
 			TallWindowCrystal.MapEntry: ""
 			TallWindowLava.MapEntry: ""
-			TempleCandle.MapEntry: Candle
-			TempleCandleCrystal.MapEntry: Candle
-			TempleCeirosFountain.MapEntry: Fountain
-			TempleWallCandle.MapEntry: Candle
+			TempleCandle.MapEntry: Свеча
+			TempleCandleCrystal.MapEntry: Свеча
+			TempleCeirosFountain.MapEntry: Фонтан
+			TempleWallCandle.MapEntry: Свеча
 			TutorialDoor1.MapEntry: ""
 			TutorialDoor2.MapEntry: ""
 			VitricPillarWall.MapEntry: ""
@@ -3661,8 +3661,8 @@ Mods: {
 			WindsRoomActor.MapEntry: ""
 			VitricBannerSmall.MapEntry: ""
 			VitricBanner.MapEntry: ""
-			VitricBossAltar.MapEntry: Ceiro's Altar
-			VitricBreakableVases.MapEntry: Pot
+			VitricBossAltar.MapEntry: Алтарь Кайроса
+			VitricBreakableVases.MapEntry: Горшок
 			VitricDecor1x1.MapEntry: ""
 			VitricDecor1x1Inverted.MapEntry: ""
 			VitricDecor1x2.MapEntry: ""
@@ -3675,8 +3675,8 @@ Mods: {
 			// VitricLargeCrystal.MapEntry: ""
 			VitricLootBox.MapEntry: ""
 			// VitricMediumCrystal.MapEntry: ""
-			VitricOre.MapEntry: Vitric Ore
-			VitricOreFloat.MapEntry: Vitric Ore
+			VitricOre.MapEntry: Стеклянная руда
+			VitricOreFloat.MapEntry: Стеклянная руда
 			VitricRoundCactus.MapEntry: ""
 			VitricSmallCactus.MapEntry: ""
 			// VitricSmallCrystal.MapEntry: ""
@@ -3699,25 +3699,25 @@ Mods: {
 			VitricWorkbench.MapEntry: ""
 			VitricDoorClosed.MapEntry: ""
 			VitricDoorOpen.MapEntry: ""
-			TempleChair.MapEntry: Chair
-			TempleLargeVase.MapEntry: Large Vase
-			TempleLargeVaseCrystal.MapEntry: Large Vase
-			TempleWorkbench.MapEntry: Workbench
-			TempleThrone.MapEntry: Throne
-			TempleFloorWeaponRack.MapEntry: Weapon Rack
-			TempleTable.MapEntry: Table
-			TempleTableCrystal.MapEntry: Table
-			TempleWeaponRack0.MapEntry: Weapon Rack
-			TempleWeaponRack1.MapEntry: Weapon Rack
-			TempleWeaponRack2.MapEntry: Weapon Rack
-			TempleWeaponRack3.MapEntry: Weapon Rack
-			TempleThingamajig.MapEntry: Weapon Rack
+			TempleChair.MapEntry: Стул
+			TempleLargeVase.MapEntry: Большая ваза
+			TempleLargeVaseCrystal.MapEntry: Большая ваза
+			TempleWorkbench.MapEntry: Верстак
+			TempleThrone.MapEntry: Трон
+			TempleFloorWeaponRack.MapEntry: Оружейная стойка
+			TempleTable.MapEntry: Стол
+			TempleTableCrystal.MapEntry: Стол
+			TempleWeaponRack0.MapEntry: Оружейная стойка
+			TempleWeaponRack1.MapEntry: Оружейная стойка
+			TempleWeaponRack2.MapEntry: Оружейная стойка
+			TempleWeaponRack3.MapEntry: Оружейная стойка
+			TempleThingamajig.MapEntry: Оружейная стойка
 			TempleBrick.MapEntry: ""
-			VitricBoss1.MapEntry: Music Box
-			VitricBoss2.MapEntry: Music Box
-			VitricPassive.MapEntry: Music Box
-			VitricTemple.MapEntry: Music Box
-			Miniboss.MapEntry: Music Box
+			VitricBoss1.MapEntry: Музыкальная шкатулка
+			VitricBoss2.MapEntry: Музыкальная шкатулка
+			VitricPassive.MapEntry: Музыкальная шкатулка
+			VitricTemple.MapEntry: Музыкальная шкатулка
+			Miniboss.MapEntry: Музыкальная шкатулка
 			LeafOvergrow.MapEntry: ""
 			BrickOvergrow.MapEntry: ""
 			StoneOvergrow.MapEntry: ""
@@ -3732,51 +3732,51 @@ Mods: {
 			VitricSand.MapEntry: ""
 			VitricSoftSand.MapEntry: ""
 			VitricSandPlain.MapEntry: ""
-			VitricGiantCrystal.MapEntry: Vitric Giant Crystal
-			VitricLargeCrystal.MapEntry: Vitric Large Crystal
-			VitricMediumCrystal.MapEntry: Vitric Medium Crystal
-			VitricSmallCrystal.MapEntry: Vitric Small Crystal
+			VitricGiantCrystal.MapEntry: Гигантский стеклянный кристалл
+			VitricLargeCrystal.MapEntry: Большой стеклянный кристалл
+			VitricMediumCrystal.MapEntry: Средний стеклянный кристалл
+			VitricSmallCrystal.MapEntry: Малый стеклянный кристалл
 		}
 
 		Biomes: {
 			HotspringBiome: {
-				DisplayName: Hotsprings
-				TownNPCDialogueName: the Hotspring Biome
+				DisplayName: Горячие источники
+				TownNPCDialogueName: биом горячих источников
 			}
 
 			MoonstoneBiome: {
-				DisplayName: Moonstone
-				TownNPCDialogueName: the Moonstone Biome
+				DisplayName: Лунный камень
+				TownNPCDialogueName: биом лунного камня
 			}
 
 			OvergrowBiome: {
-				DisplayName: "[PH]Overgrowth"
-				TownNPCDialogueName: the Overgrow Biome
+				DisplayName: "[PH]Заросли"
+				TownNPCDialogueName: заросший биом
 			}
 
 			PermafrostTempleBiome: {
-				DisplayName: Auroracle Temple
-				TownNPCDialogueName: the Permafrost Temple Biome
+				DisplayName: Храм Авроракла
+				TownNPCDialogueName: храм в вечной мерзлоте
 			}
 
 			VitricDesertBiome: {
-				DisplayName: Vitric Desert
-				TownNPCDialogueName: the Vitric Desert Biome
+				DisplayName: Стеклянная пустыня
+				TownNPCDialogueName: биом стеклянной пустыни
 			}
 
 			VitricTempleBiome: {
-				DisplayName: Vitric Forge
-				TownNPCDialogueName: the Vitric Temple Biome
+				DisplayName: Стеклянная кузня
+				TownNPCDialogueName: стеклянный храм
 			}
 
 			CombatShrineBiome: {
-				DisplayName: Combat Shrine Biome
-				TownNPCDialogueName: the Combat Shrine Biome
+				DisplayName: Святилище битвы
+				TownNPCDialogueName: святилище битвы
 			}
 
 			EvasionShrineBiome: {
-				DisplayName: Evasion Shrine Biome
-				TownNPCDialogueName: the Evasion Shrine Biome
+				DisplayName: Святилище уклонения
+				TownNPCDialogueName: святилище уклонения
 			}
 		}
 
@@ -3859,7 +3859,7 @@ Mods: {
 			WaterCube.DisplayName: Водный куб
 
 			EnchantNPC: {
-				DisplayName: Enchant N P C
+				DisplayName: Зачарователь 
 
 				TownNPCMood: {
 					Content: Я доволен.
@@ -3874,7 +3874,7 @@ Mods: {
 			}
 
 			Voidsmith: {
-				DisplayName: Voidsmith
+				DisplayName: Кузнец пустоты
 
 				TownNPCMood: {
 					Content: Я доволен.
