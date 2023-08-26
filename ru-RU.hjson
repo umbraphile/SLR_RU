@@ -1758,18 +1758,18 @@ Mods: {
 			}
 
 			Astroscrap: {
-				DisplayName: Astroscrap
-				Tooltip: ‘Alloy salvaged from enigmatic wreckage’
+				DisplayName: Астро-лом
+				Tooltip: ‘Сплав, извлечённый из загадочного обломка’
 			}
 
 			StarwoodBoomerang: {
-				DisplayName: Starwood Boomerang
+				DisplayName: Бумеранг звёздного леса
 				Tooltip: Hold <left> to channel the boomerang, causing it to release an explosion
 			}
 
 			StarwoodBoots: {
-				DisplayName: Starwood Leggings
-				Tooltip: 5% increased magic critial strike chance
+				DisplayName: Поножи звёздного леса
+				Tooltip: Шанс магического критического удара увеличен на 5%
 			}
 
 			StarwoodCharm: {
@@ -1783,30 +1783,30 @@ Mods: {
 			}
 
 			StarwoodChest: {
-				DisplayName: Starwood Robes
-				Tooltip: Increases max mana by 20
+				DisplayName: Мантия звёздного леса
+				Tooltip: Увеличивает максимальную ману на 20
 			}
 
 			StarwoodHat: {
-				DisplayName: Starwood Hat
-				Tooltip: 5% increased magic damage
+				DisplayName: Шляпа звёздного леса
+				Tooltip: Магический урон увеличен на 5%
 			}
 
 			StarwoodSlingshot: {
-				DisplayName: Starwood Slingshot
+				DisplayName: Рогатка звёздного леса
 				Tooltip:
 					'''
-					Weaves together fallen stars 
-					Consumes ammo every 50 shots
+					Сплетает упавшие звёзды
+					Расходует патроны каждые 50 выстрелов
 					'''
 			}
 
 			StarwoodStaff: {
-				DisplayName: Starwood Staff
+				DisplayName: Посох звёздного леса
 				Tooltip:
 					'''
-					Creates a burst of small stars
-					Striking an enemy with every star causes a larger star to drop on them
+					Создает взрыв мелких звёзд
+					Если поразить противника каждой звездой, на него упадет более крупная звезда
 					'''
 			}
 
