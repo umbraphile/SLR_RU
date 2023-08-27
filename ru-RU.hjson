@@ -2848,87 +2848,87 @@ Mods: {
 			}
 
 			VitricBathtub: {
-				DisplayName: Стеклянная ванна
+				DisplayName: Стекловидная ванна
 				Tooltip: ""
 			}
 
 			VitricBed: {
-				DisplayName: Стеклянная кровать
+				DisplayName: Стекловидная кровать
 				Tooltip: ""
 			}
 
 			VitricBookcase: {
-				DisplayName: Стеклянный книжный шкаф
+				DisplayName: Стекловидный книжный шкаф
 				Tooltip: ""
 			}
 
 			VitricCandelabra: {
-				DisplayName: Стеклянный канделябр
+				DisplayName: Стекловидный канделябр
 				Tooltip: ""
 			}
 
 			VitricCandle: {
-				DisplayName: Стеклянная свеча
+				DisplayName: Стекловидная свеча
 				Tooltip: ""
 			}
 
 			VitricChair: {
-				DisplayName: Стеклянный стул
+				DisplayName: Стекловидный стул
 				Tooltip: ""
 			}
 
 			VitricChandelier: {
-				DisplayName: Стеклянная люстра
+				DisplayName: Стекловидная люстра
 				Tooltip: ""
 			}
 
 			VitricClock: {
-				DisplayName: Стеклянные часы
+				DisplayName: Стекловидные часы
 				Tooltip: ""
 			}
 
 			VitricDresser: {
-				DisplayName: Стеклянная тумбочка
+				DisplayName: Стекловидная тумбочка
 				Tooltip: ""
 			}
 
 			VitricLamp: {
-				DisplayName: Стеклянная лампа
+				DisplayName: Стекловидная лампа
 				Tooltip: ""
 			}
 
 			VitricLantern: {
-				DisplayName: Стеклянный светильник
+				DisplayName: Стекловидный светильник
 				Tooltip: ""
 			}
 
 			VitricPiano: {
-				DisplayName: Стеклянное пианино
+				DisplayName: Стекловидное пианино
 				Tooltip: ""
 			}
 
 			VitricSink: {
-				DisplayName: Стеклянная раковина
+				DisplayName: Стекловидная раковина
 				Tooltip: ""
 			}
 
 			VitricSofa: {
-				DisplayName: Стеклянный диван
+				DisplayName: Стекловидный диван
 				Tooltip: ""
 			}
 
 			VitricTable: {
-				DisplayName: Стеклянный стол
+				DisplayName: Стекловидный стол
 				Tooltip: ""
 			}
 
 			VitricWorkbench: {
-				DisplayName: Стеклянный верстак
+				DisplayName: Стекловидный верстак
 				Tooltip: ""
 			}
 
 			VitricDoorClosed: {
-				DisplayName: Стеклянная дверь
+				DisplayName: Стекловидная дверь
 				Tooltip: ""
 			}
 
@@ -3098,7 +3098,7 @@ Mods: {
 			}
 
 			VitricGlassItem: {
-				DisplayName: Стеклянное стекло
+				DisplayName: Стекловидное стекло
 				Tooltip: ""
 			}
 
