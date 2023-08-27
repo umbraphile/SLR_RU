@@ -2097,132 +2097,132 @@ Mods: {
 			RecursiveFocus: {
 				Tooltip:
 					'''
-					Summons an infernal crystal
-					The infernal crystal locks onto enemies, ramping up damage over time
-					Press <right> to cause the crystal to target multiple enemies, at the cost of causing all beams to not ramp up, dealing less damage
+					Призывает адский кристалл
+					Адский кристалл фокусируется на врагах, накапливая урон в течении времени
+					Нажмите <right>, чтобы заставить кристалл нападать на нескольких врагов сразу, но не накапливать урон на лазерах, нанося меньше урона
 					'''
-				DisplayName: Recursive Focus
+				DisplayName: Оборотный фокус
 			}
 
 			RefractiveBlade: {
-				DisplayName: Refractive Blade
+				DisplayName: Преломляющий клинок
 				Tooltip:
 					'''
-					Hold <right> to charge a laser
-					Enemies struck by the laser have 25% increased melee Exposure
+					Удерживайте <right>, чтобы зарядить лазер
+					Цели, поражённые лазером получают 25% Уязвимости к урону ближнего боя
 					'''
 			}
 
 			SandstoneChunk: {
-				DisplayName: Ancient Ceramic
+				DisplayName: Древняя керамика
 				Tooltip: ""
 			}
 
 			ShatteredAegis: {
-				DisplayName: Shattered Aegis
+				DisplayName: Расколотая эгида
 				Tooltip:
 					'''
-					Releases a burning ring when damaged
-					'Meet your foes head-on, and give them a scorching embrace'
+					Выпускает горящее кольцо при получении урона
+					'Встретьте врагов лицом к лицу, и схватите их в обжигающие обьятия'
 					'''
 			}
 
 			StaminaUp: {
-				DisplayName: Glass Starlight Vessel
-				Tooltip: Increased maximum Starlight by 1
+				DisplayName: Стеклянный сосуд звёздного сияния
+				Tooltip: Повышает максимальное количество звёздного сияния на 1
 			}
 
 			TempleEntranceKey: {
-				DisplayName: Forge Key
-				Tooltip: Opens a door to the Vitric Forge.
+				DisplayName: Ключ от кузни
+				Tooltip: Открывает дверь в Стеклянную кузню.
 			}
 
 			TempleKey: {
-				DisplayName: Small Forge Key
-				Tooltip: Opens a door inside the Vitric Forge.
+				DisplayName: Маленький ключ от кузни
+				Tooltip: Открывает дверь в Стеклянной кузне.
 			}
 
 			VitricBossBag: {
-				DisplayName: Treasure Bag (Ceiros)
+				DisplayName: Мешок сокровищ (Кайрос)
 				Tooltip: ""
 			}
 
 			VitricBow: {
-				DisplayName: Ancient Vitric Bow
-				Tooltip: Fires additional smaller arrows
+				DisplayName: Древний стеклянный лук
+				Tooltip: Выпускает несколько дополнительных стрел поменьше
 			}
 
 			VitricBulletItem: {
-				DisplayName: Vitric Bullet
+				DisplayName: Стеклянная пуля
 				Tooltip:
 					'''
-					Causes crystals to grow out of hit enemies
-					Strike crystals to shatter them, dealing damage
+					Заставляет поражённых врагов разрастаться кристаллами
+					Ударьте по кристаллам, чтобы расколоть их и нанести урон
 					'''
 			}
 
 			VitricChest: {
-				DisplayName: Vitric Chestpiece
-				Tooltip: 5% increased ranged critical strike chance
+				DisplayName: Стеклянный нагрудник
+				Tooltip: Увеличивает шанс стрелкового критического удара на 5%
 			}
 
 			VitricHamaxe: {
-				DisplayName: Vitric Hamaxe
+				DisplayName: Стеклянный молот-топор
 				Tooltip:
 					'''
-					<right> to charge heat
-					Heat increases speed
-					Heat dissipates over time
+					Зажмите <right>, чтобы накапливать жар
+					Жар увеличивает скорость
+					Жар рассеивается со временем
 					'''
 			}
 
 			VitricHead: {
-				DisplayName: Vitric Headgear
-				Tooltip: 10% increased ranged damage
+				DisplayName: Стеклянный головной убор
+				Tooltip: Увеличивает стрелковый урон на 10%
 			}
 
 			VitricLegs: {
-				DisplayName: Vitric Greaves
-				Tooltip: Slightly improved starlight regeneration
+				DisplayName: Стеклянные поножи
+				Tooltip: Немного улучшают регенерацию звездного света
 			}
 
 			VitricMagicBook: {
-				DisplayName: Vitric Book
-				Tooltip: Summons spikes to stab enemies above them
+				DisplayName: Стеклянная книжка
+				Tooltip: Призывает шипы, которые колят врагов над ними
 			}
 
 			VitricOre: {
-				DisplayName: Vitric Shard
+				DisplayName: Стеклянный осколок
 				Tooltip: ""
 			}
 
 			VitricPick: {
-				DisplayName: Vitric Pickaxe
+				DisplayName: Стеклянная кирка
 				Tooltip:
 					'''
-					Hellstone does not drop lava
-					Mining hellstone generates heat
-					 Heat increases speed
+					Адский камень не сочится лавой
+					Добыча адского камня накапливает жар
+					Жар увеличивает скорость
 					'''
 			}
 
 			VitricSword: {
-				DisplayName: Ancient Vitric Blade
+				DisplayName: Древний стеклянный клинок
 				Tooltip:
 					'''
-					Shatters into enchanted glass shards 
-					Unable to be used while shattered
+					Разбивается на зачарованные осколки стекла 
+					Нельзя использовать, пока разбит
 					'''
 			}
 
 			CoolmiteItem: {
-				DisplayName: Coolmite
-				Tooltip: Fragile! Please handle with care.
+				DisplayName: Хладмит
+				Tooltip: Хрупкий! Пожалуйста, обращайтесь с ним осторожно.
 			}
 
 			MagmitePassiveItem: {
-				DisplayName: Magmite
-				Tooltip: Release him!
+				DisplayName: Магмит
+				Tooltip: Отпусти его!
 			}
 
 			FaeflameTileItem: {
@@ -2241,8 +2241,8 @@ Mods: {
 			}
 
 			CookStationItem: {
-				DisplayName: Prep Station
-				Tooltip: <right> to prepare meals
+				DisplayName: Станция готовки
+				Tooltip: Нажмите <right>, чтобы готовить блюда
 			}
 
 			InfuserItem: {
@@ -2251,124 +2251,124 @@ Mods: {
 			}
 
 			AnkhChestItem: {
-				DisplayName: Ankh Chest
+				DisplayName: Сундук Анкх
 				Tooltip: ""
 			}
 
 			DesertMonolithFlippedItem: {
-				DisplayName: Flipped Desert Monolith
-				Tooltip: Places a section of flipped desert monolith
+				DisplayName: Перевернутый монолит пустыни
+				Tooltip: Ставит кусок перевернутого монолита пустыни
 			}
 
 			DesertMonolithItem: {
-				DisplayName: Desert Monolith
-				Tooltip: Places a section of desert monolith
+				DisplayName: Монолит пустыни
+				Tooltip: Ставит кусок монолита пустыни
 			}
 
 			ForestBerryBushItem: {
-				DisplayName: Berry Bush
-				Tooltip: Plant to grow your own berries
+				DisplayName: Ягодный куст
+				Tooltip: Посадите, чтобы выращивать свои ягоды
 			}
 
 			LeafWallItem: {
-				DisplayName: Flowing leaf wall
+				DisplayName: Стена падающих листьев
 				Tooltip: ""
 			}
 
 			Slimeberry: {
-				DisplayName: Slimeberry
-				Tooltip: Ew.
+				DisplayName: Слизнеягода
+				Tooltip: Фу.
 			}
 
 			SlimeberryBushItem: {
-				DisplayName: Slimeberry Bush
-				Tooltip: Places a slimeberry bush
+				DisplayName: Слизнеягодный куст
+				Tooltip: Ставит Слизнеягодный куст
 			}
 
 			AncientFruit: {
-				DisplayName: Ancient Fruit
+				DisplayName: Древний плод
 				Tooltip: " "
 			}
 
 			GoldenRice: {
-				DisplayName: Golden Rice
+				DisplayName: Золотой рис
 				Tooltip: " "
 			}
 
 			Rice: {
-				DisplayName: Rice
+				DisplayName: Рис
 				Tooltip: " "
 			}
 
 			GreenhouseGlassItem: {
-				DisplayName: Greenhouse Glass
+				DisplayName: Тепличное стекло
 				Tooltip:
 					'''
-					Speeds up the growth of any plant below it
-					Needs a 10 blocks of clear area or transparent blocks above it
+					Ускоряет рост любого растения под собой
+					Требует свободное пространство в размере 10 блоков или любые прозрачные блоки над собой
 					'''
 			}
 
 			GreenhouseWallItem: {
-				DisplayName: Greenhouse Glass Wall
-				Tooltip: Fancy!
+				DisplayName: Стена из тепличного стекла
+				Tooltip: Роскошно!
 			}
 
 			BouncerItem: {
-				DisplayName: Vitric Bouncer
+				DisplayName: Стеклянный батут
 				Tooltip:
 					'''
-					Dash into this to go flying!
-					Resets jump accessories
+					Сделайте рывок в него, чтобы полететь!
+					Восстанавливает прыжковые аксессуары
 					'''
 			}
 
 			StaminaGemItem: {
-				DisplayName: Starlight Gem
-				Tooltip: Restores starlight when hit with an ability
+				DisplayName: Самоцвет звёздного сияния
+				Tooltip: Восстанавливает звёздное сияние, если ударить с помощью способности
 			}
 
 			StaminaOrbItem: {
-				DisplayName: Starlight Orb
+				DisplayName: Сфера звёздного сияния
 				Tooltip:
 					'''
-					Pass through this to gain starlight!
-					5 second cooldown
+					Пройдите сквозь неё чтобы получить звёздный свет!
+					5 секунд перезарядки
 					'''
 			}
 
 			DisplayCaseFriendlyItem: {
-				DisplayName: Display Case
-				Tooltip: Can hold an Item for glamorous display
+				DisplayName: Витрина
+				Tooltip: Может держать в себе предмет для эффектной демонстрации
 			}
 
 			RatTentItem: {
-				DisplayName: Strange Tent
-				Tooltip: Whats inside?...
+				DisplayName: Странная палатка
+				Tooltip: Что в ней?...
 			}
 
 			JellyShroomItem: {
-				DisplayName: Blue Jellyshroom
-				Tooltip: Boing!
+				DisplayName: Синий желегриб
+				Tooltip: Прыг!
 			}
 
 			LumishroomItem: {
-				DisplayName: Lumishroom
-				Tooltip: Glowy...
+				DisplayName: Люмигриб
+				Tooltip: Светящийся...
 			}
 
 			VibeshroomItem: {
-				DisplayName: Vibeshroom
-				Tooltip: Vibin'
+				DisplayName: Вайбогриб
+				Tooltip: Атмосферненько
 			}
 
 			BlueTorchOvergrowItem: {
-				DisplayName: Blue Faerie Torch
-				Tooltip: Sparkly! and Blue!
+				DisplayName: Факел синей феи
+				Tooltip: Сверкающий! А ещё синий!
 			}
 
 			CrusherOvergrowItem: {
-				DisplayName: Crusher Trap
+				DisplayName: Ловушка дробителя
 				Tooltip: ""
 			}
 
@@ -2378,32 +2378,32 @@ Mods: {
 			}
 
 			OvergrowthLivingWoodItem: {
-				DisplayName: Overgrown Living Wood
+				DisplayName: Заросшее живое дерево
 				Tooltip: "[PH] make this a wand and stuffs"
 			}
 
 			Rock2x2Item: {
-				DisplayName: 2x2 rock placer
-				Tooltip: It places... Rocks
+				DisplayName: Установщик камней 2x2
+				Tooltip: Он ставит... Камни
 			}
 
 			SkeletonBrickItem: {
-				DisplayName: Skeletal Brick
+				DisplayName: Скелетальный кирпич
 				Tooltip: ""
 			}
 
 			TorchOvergrowItem: {
-				DisplayName: Faerie Torch
-				Tooltip: Sparkly!
+				DisplayName: Факел феи
+				Tooltip: Сверкающий!
 			}
 
 			WallOvergrowBrickItem: {
-				DisplayName: Runic Brick Wall
+				DisplayName: Стена из рунического кирпича
 				Tooltip: ""
 			}
 
 			WallOvergrowGrassItem: {
-				DisplayName: Overgrowth Grass Wall
+				DisplayName: Стена травы зарослей
 				Tooltip: ""
 			}
 
@@ -2423,27 +2423,27 @@ Mods: {
 			}
 
 			AuroraclePaintingItem: {
-				DisplayName: Prismatic Waters
-				Tooltip: "'K. Ra'"
+				DisplayName: Призматические воды
+				Tooltip: "'К. Ра'"
 			}
 
 			EggCodexPaintingItem: {
-				DisplayName: Codex Genesis
-				Tooltip: "'K. Ra'"
+				DisplayName: Кодекс Генезис
+				Tooltip: "'К. Ра'"
 			}
 
 			EndOfTimePaintingItem: {
-				DisplayName: End of Time
-				Tooltip: "'K. Ra'"
+				DisplayName: Конец времени
+				Tooltip: "'К. Ра'"
 			}
 
 			RatKingPaintingItem: {
-				DisplayName: Majestic Hoarder
-				Tooltip: "'K. Ra'"
+				DisplayName: Величественный кладоискатель
+				Tooltip: "'К. Ра'"
 			}
 
 			PalestoneItem: {
-				DisplayName: Palestone Block
+				DisplayName: Блок бледнокамня
 				Tooltip: ""
 			}
 
@@ -2453,28 +2453,28 @@ Mods: {
 			}
 
 			AuroraBrickItem: {
-				DisplayName: Aurora Brick
-				Tooltip: Oooh... Preeetttyyy
+				DisplayName: Кирпич авроры
+				Tooltip: Ууу... Крассииввоооо
 			}
 
 			AuroraBrickWallFriendlyItem: {
-				DisplayName: Aurora Brick Wall
-				Tooltip: Oooh... Preeetttyyy
+				DisplayName: Стена из кирпича авроры
+				Tooltip: Ууу... Крассииввоооо
 			}
 
 			AuroraBrickWallItem: {
-				DisplayName: Aurora Brick Wall Dangerous
-				Tooltip: Oooh... Preeetttyyy
+				DisplayName: Небезопасный кирпич авроры
+				Tooltip: Ууу... Крассииввоооо
 			}
 
 			AuroraIceBar: {
-				DisplayName: Frozen Aurora Bar
-				Tooltip: A preserved selection of the night sky
+				DisplayName: Замороженная плитка северного сияния
+				Tooltip: Сохранённый фрагмент ночного неба
 			}
 
 			AuroraIceItem: {
-				DisplayName: Frozen Aurora Chunk
-				Tooltip: A preserved piece of the night sky
+				DisplayName: Замороженный кусок северного сияния
+				Tooltip: Сохранённый кусочек ночного неба
 			}
 
 			DoorBombShooterItem: {
@@ -2483,13 +2483,13 @@ Mods: {
 			}
 
 			PermafrostIceItem: {
-				DisplayName: Permafrost Ice
+				DisplayName: Лед вечной мерзлоты
 				Tooltip: ""
 			}
 
 			TouchstoneItem: {
 				DisplayName: Touchstone
-				Tooltip: A guiding light
+				Tooltip: Путеводный свет
 			}
 
 			TouchstoneLootboxItem: {
@@ -2503,7 +2503,7 @@ Mods: {
 			}
 
 			CeirosTrophyItem: {
-				DisplayName: Ceiros Trophy
+				DisplayName: Трофей Кайроса
 				Tooltip: ""
 			}
 
@@ -2513,13 +2513,13 @@ Mods: {
 			}
 
 			HotspringFountainItem: {
-				DisplayName: Hotspring Source
-				Tooltip: Transforms nearby water into a hotspring!
+				DisplayName: Ручеёк горячих источников
+				Tooltip: Превращает ближайшую воду в горячие источники!
 			}
 
 			MagmiteShrineItem: {
-				DisplayName: The Boi
-				Tooltip: It's him!
+				DisplayName: Пацан
+				Tooltip: Это же он!
 			}
 
 			DashBarrierItem: {
@@ -2538,12 +2538,12 @@ Mods: {
 			}
 
 			TempleWallBigItem: {
-				DisplayName: Large Ancient Temple Brick Wall
+				DisplayName: Стена из большого кирпича древнего храма
 				Tooltip: ""
 			}
 
 			TempleWallItem: {
-				DisplayName: Ancient Temple Brick Wall
+				DisplayName: Стена из кирпича древнего храма
 				Tooltip: ""
 			}
 
@@ -2558,28 +2558,28 @@ Mods: {
 			}
 
 			AncientSandstonePillarWallItem: {
-				DisplayName: Ancient Sandstone Wall
+				DisplayName: Стена из древнего песчаника
 				Tooltip: ""
 			}
 
 			AncientSandstonePlatformItem: {
-				DisplayName: Ancient Sandstone Platform
+				DisplayName: Платформа из древнего песчаника
 				Tooltip: ""
 			}
 
 			AncientSandstoneTorchItem: {
-				DisplayName: Ancient Vitric Illuminator
-				Tooltip: It has an entrancing glow
+				DisplayName: Древний стеклянный прожектор
+				Tooltip: У него завораживающее свечение
 			}
 
 			AncientSandstoneWallItem: {
-				DisplayName: Ancient Sandstone Wall
+				DisplayName: Стена из древнего песчаника
 				Tooltip: ""
 			}
 
 			DestructableGlassItem: {
-				DisplayName: Breakable vitric crystal
-				Tooltip: A chunk of vitric crystal susceptible to the force of forbidden winds
+				DisplayName: Хрупкий стеклянный кристалл
+				Tooltip: Кусок стеклянного кристалла, восприимчивый к силе запретных ветров
 			}
 
 			ForgeDoorItem: {
@@ -2608,18 +2608,18 @@ Mods: {
 			}
 
 			DoorGearsItem: {
-				DisplayName: Gear Puzzle Temple Door
-				Tooltip: Temple Door, Opens if gear puzzle is solved
+				DisplayName: Дверь от головоломки с шестеренками храма
+				Tooltip: Дверь храма, открывается, если головоломка решена
 			}
 
 			DoorLasersItem: {
-				DisplayName: Laser Puzzle Temple Door
-				Tooltip: Temple Door, Opens if laser puzzle is solved
+				DisplayName: Дверь от головоломки с лазерами храма
+				Tooltip: Дверь храма, открывается, если головоломка решена
 			}
 
 			DoorVerticalItem: {
-				DisplayName: Vertical Temple Door
-				Tooltip: Temple Door, But what if it was vertical?
+				DisplayName: Вертикальная дверь храма
+				Tooltip: Дверь храма, но теперь вертикальная?
 			}
 
 			EntranceDoorItem: {
@@ -2698,17 +2698,17 @@ Mods: {
 			}
 
 			TempleCandleItem: {
-				DisplayName: Temple Candle
+				DisplayName: Свеча храма
 				Tooltip: ""
 			}
 
 			TempleCeirosFountainItem: {
-				DisplayName: Temple Sentinel Fountain
+				DisplayName: Фонтан Стража храма
 				Tooltip: ""
 			}
 
 			TempleWallCandleItem: {
-				DisplayName: Temple Wall Candle
+				DisplayName: Настенная свеча храма
 				Tooltip: ""
 			}
 
@@ -2723,23 +2723,23 @@ Mods: {
 			}
 
 			VitricPillarWallCrystalItem: {
-				DisplayName: Crystal Vitric Forge Pillar
-				Tooltip: Sturdy
+				DisplayName: Кристальная колонна стеклянной кузни
+				Tooltip: Прочная
 			}
 
 			VitricPillarWallItem: {
-				DisplayName: Vitric Forge Pillar
-				Tooltip: Sturdy
+				DisplayName: Колонна стеклянной кузни
+				Tooltip: Прочная
 			}
 
 			VitricPillarWallLavaItem: {
-				DisplayName: Lava Vitric Forge Pillar
-				Tooltip: Sturdy
+				DisplayName: Лавовая колонна стеклянной кузни
+				Tooltip: Прочная
 			}
 
 			VitricPillarWallShortItem: {
-				DisplayName: Short Vitric Forge Pillar
-				Tooltip: Sturdy
+				DisplayName: Короткая колонна стеклянной кузни
+				Tooltip: Прочная
 			}
 
 			VitricTempleWallItem: {
@@ -2748,8 +2748,8 @@ Mods: {
 			}
 
 			VitricTempleWallSafeItem: {
-				DisplayName: Vitric Forge Brick Wall (Safe)
-				Tooltip: Sturdy
+				DisplayName: Стена из кирпича стеклянной кузни
+				Tooltip: Прочная
 			}
 
 			WindsRoomActorItem: {
@@ -2778,13 +2778,13 @@ Mods: {
 			}
 
 			VitricGiantCrystalItem: {
-				DisplayName: Vitric Giant crystal
-				Tooltip: The slot this Item is in changes the type placed
+				DisplayName: Гигантский стеклянный кристалл
+				Tooltip: Меняет тип устанавливаемого кристалла в зависимости от слота, в котором находится этот предмет
 			}
 
 			VitricLargeCrystalItem: {
-				DisplayName: Large vitric crystal
-				Tooltip: The slot this Item is in changes the type placed
+				DisplayName: Большой стеклянный кристалл
+				Tooltip: Меняет тип устанавливаемого кристалла в зависимости от слота, в котором находится этот предмет
 			}
 
 			VitricLargeFountainItem: {
@@ -2798,8 +2798,8 @@ Mods: {
 			}
 
 			VitricMediumCrystalItem: {
-				DisplayName: Medium vitric crystal
-				Tooltip: The slot this Item is in changes the type placed
+				DisplayName: Средний стеклянный кристалл
+				Tooltip: Меняет тип устанавливаемого кристалла в зависимости от слота, в котором находится этот предмет
 			}
 
 			VitricOreFloatItem: {
@@ -2813,23 +2813,23 @@ Mods: {
 			}
 
 			VitricRockItem: {
-				DisplayName: Vitric Rock
+				DisplayName: Стеклянный камень
 				Tooltip: ""
 			}
 
 			VitricSandWallItem: {
-				DisplayName: Vitric Sand Wall
+				DisplayName: Стеклянный песок
 				Tooltip: ""
 			}
 
 			VitricSmallCrystalItem: {
-				DisplayName: Small vitric crystal
-				Tooltip: The slot this Item is in changes the type placed
+				DisplayName: Малый стеклянный кристалл
+				Tooltip: Меняет тип устанавливаемого кристалла в зависимости от слота, в котором находится этот предмет
 			}
 
 			VitricSpikeItem: {
-				DisplayName: Vitric Spikes
-				Tooltip: Ouch!
+				DisplayName: Стеклянные шипы
+				Tooltip: Ай!
 			}
 
 			VitricBannerItem: {
@@ -2848,87 +2848,87 @@ Mods: {
 			}
 
 			VitricBathtub: {
-				DisplayName: Vitric Bathtub
+				DisplayName: Стеклянная ванна
 				Tooltip: ""
 			}
 
 			VitricBed: {
-				DisplayName: Vitric Bed
+				DisplayName: Стеклянная кровать
 				Tooltip: ""
 			}
 
 			VitricBookcase: {
-				DisplayName: Vitric Bookcase
+				DisplayName: Стеклянный книжный шкаф
 				Tooltip: ""
 			}
 
 			VitricCandelabra: {
-				DisplayName: Vitric Candelabra
+				DisplayName: Стеклянный канделябр
 				Tooltip: ""
 			}
 
 			VitricCandle: {
-				DisplayName: Vitric Candle
+				DisplayName: Стеклянная свеча
 				Tooltip: ""
 			}
 
 			VitricChair: {
-				DisplayName: Vitric Chair
+				DisplayName: Стеклянный стул
 				Tooltip: ""
 			}
 
 			VitricChandelier: {
-				DisplayName: Vitric Chandelier
+				DisplayName: Стеклянная люстра
 				Tooltip: ""
 			}
 
 			VitricClock: {
-				DisplayName: Vitric Clock
+				DisplayName: Стеклянные часы
 				Tooltip: ""
 			}
 
 			VitricDresser: {
-				DisplayName: Vitric Dresser
+				DisplayName: Стеклянная тумбочка
 				Tooltip: ""
 			}
 
 			VitricLamp: {
-				DisplayName: Vitric Lamp
+				DisplayName: Стеклянная лампа
 				Tooltip: ""
 			}
 
 			VitricLantern: {
-				DisplayName: Vitric Lantern
+				DisplayName: Стеклянный светильник
 				Tooltip: ""
 			}
 
 			VitricPiano: {
-				DisplayName: Vitric Piano
+				DisplayName: Стеклянное пианино
 				Tooltip: ""
 			}
 
 			VitricSink: {
-				DisplayName: Vitric Sink
+				DisplayName: Стеклянная раковина
 				Tooltip: ""
 			}
 
 			VitricSofa: {
-				DisplayName: Vitric Sofa
+				DisplayName: Стеклянный диван
 				Tooltip: ""
 			}
 
 			VitricTable: {
-				DisplayName: Vitric Table
+				DisplayName: Стеклянный стол
 				Tooltip: ""
 			}
 
 			VitricWorkbench: {
-				DisplayName: Vitric Workbench
+				DisplayName: Стеклянный верстак
 				Tooltip: ""
 			}
 
 			VitricDoorClosed: {
-				DisplayName: Vitric Door
+				DisplayName: Стеклянная дверь
 				Tooltip: ""
 			}
 
@@ -2943,42 +2943,42 @@ Mods: {
 			}
 
 			TempleChairItem: {
-				DisplayName: Temple Chair
+				DisplayName: Стул храма
 				Tooltip: ""
 			}
 
 			TempleLargeVaseItem: {
-				DisplayName: Temple Large Vase
+				DisplayName: Большая ваза храма
 				Tooltip: ""
 			}
 
 			TempleLargeVaseCrystalItem: {
-				DisplayName: Temple Large Crystal Vase
+				DisplayName: Большая кристальная ваза храма
 				Tooltip: ""
 			}
 
 			TempleWorkbenchItem: {
-				DisplayName: Temple Workbench
+				DisplayName: Верстак храма
 				Tooltip: ""
 			}
 
 			TempleThroneItem: {
-				DisplayName: Temple Throne
+				DisplayName: Трон храма
 				Tooltip: ""
 			}
 
 			TempleFloorWeaponRackItem: {
-				DisplayName: Temple Floor Weapon Rack
+				DisplayName: Напольная оружейная стойка храма
 				Tooltip: ""
 			}
 
 			TempleTableItem: {
-				DisplayName: Temple Table
+				DisplayName: Стол храма
 				Tooltip: ""
 			}
 
 			TempleTableCrystalItem: {
-				DisplayName: Temple Crystal Table
+				DisplayName: Кристальный стол храма
 				Tooltip: ""
 			}
 
@@ -3003,62 +3003,62 @@ Mods: {
 			}
 
 			TempleThingamajigItem: {
-				DisplayName: Temple Large Weapon Rack
+				DisplayName: Большая оружейная стойка храма
 				Tooltip: ""
 			}
 
 			TempleBrickItem: {
-				DisplayName: Ancient Bricks
+				DisplayName: Древние кирпичи
 				Tooltip: ""
 			}
 
 			VitricBoss1Item: {
-				DisplayName: Music Box (Ceiros P1)
+				DisplayName: Музыкальная шкатулка (Первая фаза Кайроса)
 				Tooltip: ""
 			}
 
 			VitricBoss2Item: {
-				DisplayName: Music Box (Ceiros P2)
+				DisplayName: Музыкальная шкатулка (Вторая фаза Кайроса)
 				Tooltip: ""
 			}
 
 			VitricPassiveItem: {
-				DisplayName: Music Box (Vitric Desert)
+				DisplayName: Музыкальная шкатулка (Стеклянная пустыня)
 				Tooltip: ""
 			}
 
 			VitricTempleItem: {
-				DisplayName: Music Box (Vitric Temple)
+				DisplayName: Музыкальная шкатулка (Стеклянный храм)
 				Tooltip: ""
 			}
 
 			MinibossItem: {
-				DisplayName: Music Box (Miniboss)
+				DisplayName: Музыкальная шкатулка (Стеклодув)
 				Tooltip: ""
 			}
 
 			OvergrowItem: {
-				DisplayName: Music Box (Overgrow)
+				DisplayName: Музыкальная шкатулка (Заросли)
 				Tooltip: ""
 			}
 
 			AuroracleItem: {
-				DisplayName: Music Box (Auroracle)
+				DisplayName: Музыкальная шкатулка (Авроракл)
 				Tooltip: ""
 			}
 
 			LeafOvergrowItem: {
-				DisplayName: Faerie Leaves
+				DisplayName: Листья феи
 				Tooltip: ""
 			}
 
 			BrickOvergrowItem: {
-				DisplayName: Runic Bricks
+				DisplayName: Рунические кирпичи
 				Tooltip: ""
 			}
 
 			StoneOvergrowItem: {
-				DisplayName: Runic Stone
+				DisplayName: Рунический камень
 				Tooltip: ""
 			}
 
@@ -3068,7 +3068,7 @@ Mods: {
 			}
 
 			ShrineBrazierItem: {
-				DisplayName: Mysterious Brazier
+				DisplayName: Таинственная жаровня
 				Tooltip: ""
 			}
 
@@ -3078,47 +3078,47 @@ Mods: {
 			}
 
 			AncientSandstoneItem: {
-				DisplayName: Ancient Sandstone
+				DisplayName: Древний песчаник
 				Tooltip: ""
 			}
 
 			AncientSandstoneTileItem: {
-				DisplayName: Ancient Sandstone Tile
+				DisplayName: Блок древнего песчаника
 				Tooltip: ""
 			}
 
 			VitricBrickItem: {
-				DisplayName: Vitric Bricks
+				DisplayName: Стеклянные кирпичи
 				Tooltip: ""
 			}
 
 			VitricCactusItem: {
-				DisplayName: Crystal Cactus
+				DisplayName: Кристальный кактус
 				Tooltip: ""
 			}
 
 			VitricGlassItem: {
-				DisplayName: Vitric Glass
+				DisplayName: Стеклянное стекло
 				Tooltip: ""
 			}
 
 			VitricSandItem: {
-				DisplayName: Glassy Sand
+				DisplayName: Стеклянный песок
 				Tooltip: ""
 			}
 
 			VitricSoftSandItem: {
-				DisplayName: Soft Glassy Sand
+				DisplayName: Мягкий стеклянный песок
 				Tooltip: ""
 			}
 
 			VitricSandPlainItem: {
-				DisplayName: Soft Sand
+				DisplayName: Мягкий песок
 				Tooltip: ""
 			}
 
 			BaseBarrierDye: {
-				DisplayName: Base Barrier Dye
+				DisplayName: Краситель барьера
 				Tooltip: ""
 			}
 
@@ -3163,52 +3163,52 @@ Mods: {
 			}
 
 			GlassArrowhead: {
-				DisplayName: Glass Arrowhead
+				DisplayName: Стеклянный наконечник стрелы
 				Tooltip: ""
 			}
 
 			ForestBerries: {
-				DisplayName: Forest Berries
+				DisplayName: Лесные ягоды
 				Tooltip: ""
 			}
 
 			RedLaserPointer: {
-				DisplayName: Red Laser Pointer
+				DisplayName: Красная лазерная указка
 				Tooltip: ""
 			}
 
 			OrangeLaserPointer: {
-				DisplayName: Orange Laser Pointer
+				DisplayName: Оранжевая лазерная указка
 				Tooltip: ""
 			}
 
 			YellowLaserPointer: {
-				DisplayName: Yellow Laser Pointer
+				DisplayName: Жёлтая лазерная указка
 				Tooltip: ""
 			}
 
 			GreenLaserPointer: {
-				DisplayName: Green Laser Pointer
+				DisplayName: Зелёная лазерная указка
 				Tooltip: ""
 			}
 
 			BlueLaserPointer: {
-				DisplayName: Blue Laser Pointer
+				DisplayName: Синяя лазерная указка
 				Tooltip: ""
 			}
 
 			PurpleLaserPointer: {
-				DisplayName: Purple Laser Pointer
+				DisplayName: Фиолетовая лазерная указка
 				Tooltip: ""
 			}
 
 			WhiteLaserPointer: {
-				DisplayName: White Laser Pointer
+				DisplayName: Белая лазерная указка
 				Tooltip: ""
 			}
 
 			PinkLaserPointer: {
-				DisplayName: Pink Laser Pointer
+				DisplayName: Розовая лазерная указка
 				Tooltip: ""
 			}
 		}
@@ -3545,9 +3545,9 @@ Mods: {
 			BossRushOrbGoreProjectile.DisplayName: Boss Rush Orb Gore Projectile
 			ConstructSpawner.DisplayName: Construct Spawner
 			GauntletSpawner.DisplayName: Gauntlet Spawner
-			SpawnEgg.DisplayName: Spawn Egg
+			SpawnEgg.DisplayName: Egg Spawn
 			SandscriptBook.DisplayName: Sandscript Book
-			RecursiveFocusLaser.DisplayName: Адский лазер
+			RecursiveFocusLaser.DisplayName: Infernal Laser
 		}
 
 		Tiles: {
@@ -3909,15 +3909,15 @@ Mods: {
 			}
 
 			FerrofluidDraftBuff: {
-				DisplayName: Ferrofluid Draft
-				Description: Nearby Items gravitate towards you
+				DisplayName: Тяга феррожидкости
+				Description: Ближайшие предметы притягиваются к вам
 			}
 
 			FoodBuff: {
-				DisplayName: Nourished
+				DisplayName: Подкрепились
 				Description:
 					'''
-					Nourised by rich food, granting:
+					Поели сытной пищи, даёт:
 
 					'''
 			}
@@ -3943,7 +3943,7 @@ Mods: {
 
 			Illuminant: {
 				DisplayName: Источник света
-				Description: Светитесь ярко!
+				Description: Ярко светитесь!
 			}
 
 			MossRegen: {
@@ -3968,7 +3968,7 @@ Mods: {
 
 			Rage: {
 				DisplayName: Ярость
-				Description: Увеличен урон и значительно повышено отбрасывание
+				Description: Увеличен урон и значительно усилено отбрасывание
 			}
 
 			Slimed: {
@@ -3997,17 +3997,17 @@ Mods: {
 			}
 
 			SupplyBeaconDamage: {
-				DisplayName: Аварийный маячок
+				DisplayName: Ящик с припасами
 				Description: Урон увеличен
 			}
 
 			SupplyBeaconDefense: {
-				DisplayName: Аварийный маячок
+				DisplayName: Ящик с припасами
 				Description: Защита увеличена
 			}
 
 			SupplyBeaconHeal: {
-				DisplayName: Аварийный маячок
+				DisplayName: Ящик с припасами
 				Description: Регенерация увеличена
 			}
 
