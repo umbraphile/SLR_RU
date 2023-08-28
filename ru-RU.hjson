@@ -2658,7 +2658,7 @@ Mods: {
 			}
 
 			LowWindBannerItem: {
-				DisplayName: Rectangular Flowing Banner
+				DisplayName: Прямоугольное развевающееся знамя
 				Tooltip: ""
 			}
 
@@ -2793,7 +2793,7 @@ Mods: {
 			}
 
 			VitricLootBoxItem: {
-				DisplayName: Vitric Loot Box Item
+				DisplayName: Стеклянный ящик с сокровищами
 				Tooltip: ""
 			}
 
@@ -2803,12 +2803,12 @@ Mods: {
 			}
 
 			VitricOreFloatItem: {
-				DisplayName: Floating Vitric Ore Crystal Item
+				DisplayName: Парящий кристалл стеклянной руды
 				Tooltip: ""
 			}
 
 			VitricOreItem: {
-				DisplayName: Vitric Ore Crystal Item
+				DisplayName: Кристалл стеклянной руды
 				Tooltip: ""
 			}
 
@@ -3073,7 +3073,7 @@ Mods: {
 			}
 
 			WitTileItem: {
-				DisplayName: Tile of Wit
+				DisplayName: Блок Вита
 				Tooltip: ""
 			}
 
@@ -3133,32 +3133,32 @@ Mods: {
 			}
 
 			RainbowCycleDye: {
-				DisplayName: Rainbow Cycle Dye
+				DisplayName: Радужный цикличный краситель
 				Tooltip: ""
 			}
 
 			RainbowCycleDye2: {
-				DisplayName: Rainbow Cycle Dye2
+				DisplayName: Радужный цикличный краситель
 				Tooltip: ""
 			}
 
 			FaeHover: {
-				DisplayName: Fae Hover
+				DisplayName: Ховер феи
 				Tooltip: ""
 			}
 
 			GenericHover: {
-				DisplayName: Generic Hover
+				DisplayName: Обычный ховер
 				Tooltip: ""
 			}
 
 			WindsHover: {
-				DisplayName: Winds Hover
+				DisplayName: Ховер ветров
 				Tooltip: ""
 			}
 
 			StaminaPickup: {
-				DisplayName: Stamina Pickup
+				DisplayName: Восстановление стамины
 				Tooltip: ""
 			}
 
