@@ -945,7 +945,7 @@ Mods: {
 			}
 
 			Slitherring: {
-				DisplayName: Слизерин
+				DisplayName: Кольцо Слизерин
 				Tooltip: Маленькая змея время от времени атакует вместе с вами, когда вы используете хлыст
 			}
 
@@ -1099,7 +1099,7 @@ Mods: {
 					'''
 					Нажмите <right>, чтобы метнуть взрывающуюся пачку динамита
 					Выстрелите в неё, чтобы взорвать её раньше
-					'Мое дело, мои правила'
+					'Мое дело - мои правила'
 					'''
 			}
 
@@ -2226,7 +2226,7 @@ Mods: {
 			}
 
 			FaeflameTileItem: {
-				DisplayName: Faeflame
+				DisplayName: Феепламя
 				Tooltip: Debug placer for ability pickup
 			}
 
