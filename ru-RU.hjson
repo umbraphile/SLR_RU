@@ -2488,7 +2488,7 @@ Mods: {
 			}
 
 			TouchstoneItem: {
-				DisplayName: Путевой камень
+				DisplayName: Путеводный камень
 				Tooltip: Путеводный свет
 			}
 
