@@ -1763,17 +1763,17 @@ Mods: {
 			}
 
 			StarwoodBoomerang: {
-				DisplayName: Бумеранг из звездодревесины
+				DisplayName: Бумеранг из звёздодревесины
 				Tooltip: Удерживайте <left> чтобы направить бумеранг, позволяя ему выпускать взрывы
 			}
 
 			StarwoodBoots: {
-				DisplayName: Поножи из звездодревесины
+				DisplayName: Поножи из звёздодревесины
 				Tooltip: Шанс магического критического удара увеличен на 5%
 			}
 
 			StarwoodCharm: {
-				DisplayName: Амулет звездодревесины
+				DisplayName: Амулет звёздодревесины
 				Tooltip:
 					'''
 					Критические удары призывают звёзды маны
@@ -1783,17 +1783,17 @@ Mods: {
 			}
 
 			StarwoodChest: {
-				DisplayName: Мантия из звездодревесины
+				DisplayName: Мантия из звёздодревесины
 				Tooltip: Увеличивает максимальную ману на 20
 			}
 
 			StarwoodHat: {
-				DisplayName: Шляпа из звездодревесины
+				DisplayName: Шляпа из звёздодревесины
 				Tooltip: Магический урон увеличен на 5%
 			}
 
 			StarwoodSlingshot: {
-				DisplayName: Рогатка из звездодревесины
+				DisplayName: Рогатка из звёздодревесины
 				Tooltip:
 					'''
 					Сплетает упавшие звёзды
@@ -1802,11 +1802,11 @@ Mods: {
 			}
 
 			StarwoodStaff: {
-				DisplayName: Посох из звездодревесины
+				DisplayName: Посох из звёздодревесины
 				Tooltip:
 					'''
 					Создает взрыв мелких звёзд
-					Если поразить противника каждой из этих звезд, на него упадет более крупная звезда
+					Если поразить противника каждой из этих звёзд, на него упадет более крупная звезда
 					'''
 			}
 
@@ -1819,8 +1819,8 @@ Mods: {
 				DisplayName: Паровая пила
 				Tooltip:
 					'''
-					Бейте врагов чтобы накапливать давление
-					Отпустите, чтобы выпустить все давление, выстрельнув паровой пилой
+					Бейте врагов, чтобы накапливать давление
+					Отпустите, чтобы выпустить всё давление, выстрельнув паровой пилой
 					'Правильный инструмент для неправильной работы'
 					'''
 			}
@@ -1850,22 +1850,22 @@ Mods: {
 
 			JetwelderScrap1: {
 				DisplayName: Металлолом
-				Tooltip: Ты не должен был увидеть это
+				Tooltip: Вы не должны видеть это
 			}
 
 			JetwelderScrap2: {
 				DisplayName: Металлолом
-				Tooltip: Ты не должен был увидеть это
+				Tooltip: Вы не должны видеть это
 			}
 
 			JetwelderScrap3: {
 				DisplayName: Металлолом
-				Tooltip: Ты не должен был увидеть это
+				Tooltip: Вы не должны видеть это
 			}
 
 			JetwelderScrap4: {
 				DisplayName: Металлолом
-				Tooltip: Ты не должен был увидеть это
+				Tooltip: Вы не должны видеть это
 			}
 
 			RebarLauncher: {
@@ -1873,7 +1873,7 @@ Mods: {
 				Tooltip:
 					'''
 					Пронзает врагов
-					Стреляйте по воткнутой арматуре, чтобы загнать её еще глубже во врага.
+					Стреляйте по воткнутой арматуре, чтобы загнать её ещё глубже во врага
 					'''
 			}
 
@@ -1950,27 +1950,27 @@ Mods: {
 			}
 
 			AncientStarwoodBoots: {
-				DisplayName: Древние поножи из звездодревесины
+				DisplayName: Древние поножи из звёздодревесины
 				Tooltip: ""
 			}
 
 			AncientStarwoodChest: {
-				DisplayName: Древняя мантия из звездодревесины
+				DisplayName: Древняя мантия из звёздодревесины
 				Tooltip: ""
 			}
 
 			AncientStarwoodHat: {
-				DisplayName: Древняя шляпа из звездодревесины
+				DisplayName: Древняя шляпа из звёздодревесины
 				Tooltip: ""
 			}
 
 			MechaChest: {
-				DisplayName: Меха нагрудник
+				DisplayName: Меха-нагрудник
 				Tooltip: ""
 			}
 
 			MechaHead: {
-				DisplayName: Меха шлем
+				DisplayName: Меха-шлем
 				Tooltip: ""
 			}
 
@@ -1980,12 +1980,12 @@ Mods: {
 			}
 
 			WardenHat: {
-				DisplayName: Шляпа смотрителя
+				DisplayName: Шляпа надзирателя
 				Tooltip: "[c/198E12:???]"
 			}
 
 			WardenRobe: {
-				DisplayName: Мантия смотрителя
+				DisplayName: Мантия надзирателя
 				Tooltip: "[c/198E12:???]"
 			}
 
@@ -2009,7 +2009,7 @@ Mods: {
 			}
 
 			FacetAndLattice: {
-				DisplayName: Грань и Решётка
+				DisplayName: Грань и решётка
 				Tooltip:
 					'''
 					Нажмите <right>, чтобы защищаться, блокируя тем больше урона, чем своевременнее вы нажали
@@ -2044,8 +2044,8 @@ Mods: {
 				DisplayName: Перчатки воспламенения
 				Tooltip:
 					'''
-					Быстро бьёт врагов вашими кулаками, постепенно накапливая заряд Воспламенения
-					Удерживайте <right>, чтобы потратить заряд, запустив себя вперед с космической скоростью
+					Быстро бьёт врагов вашими кулаками, постепенно накапливая заряд воспламенения
+					Удерживайте <right>, чтобы потратить заряд, запустив себя вперёд с космической скоростью
 					Атакуйте, пока летите, чтобы выпустить остаток заряда в виде большого взрыва
 					'Герои всегда приходят с небес'
 					'''
@@ -2072,11 +2072,11 @@ Mods: {
 
 			MagmiteBottle: {
 				DisplayName: Магмит в банке
-				Tooltip: За что ты так с ним?!
+				Tooltip: За что ты так с ним!?
 			}
 
 			MagmiteVacpack: {
-				Tooltip: Выстреливает Магмитами, которые приклеиваются к врагам, повышая урон миньонов по цели
+				Tooltip: Выстреливает магмитами, которые приклеиваются к врагам, повышая урон миньонов по цели
 				DisplayName: Магмитодув
 			}
 
@@ -2109,7 +2109,7 @@ Mods: {
 				Tooltip:
 					'''
 					Удерживайте <right>, чтобы зарядить лазер
-					Цели, поражённые лазером получают 25% Уязвимости к урону ближнего боя
+					Цели, поражённые лазером, получают на 25% увеличенную уязвимость к урону ближнего боя
 					'''
 			}
 
@@ -2167,7 +2167,7 @@ Mods: {
 			}
 
 			VitricHamaxe: {
-				DisplayName: Стеклянный молот-топор
+				DisplayName: Стеклянный молотопор
 				Tooltip:
 					'''
 					Зажмите <right>, чтобы накапливать жар
@@ -2183,7 +2183,7 @@ Mods: {
 
 			VitricLegs: {
 				DisplayName: Стеклянные поножи
-				Tooltip: Немного улучшают регенерацию звездного света
+				Tooltip: Немного улучшают регенерацию звёздного сияния
 			}
 
 			VitricMagicBook: {
@@ -2226,18 +2226,18 @@ Mods: {
 			}
 
 			FaeflameTileItem: {
-				DisplayName: Феепламя
-				Tooltip: Debug placer for ability pickup
+				DisplayName: Волшебное пламя
+				Tooltip: Отладочное размещение для получения способности
 			}
 
 			StaminaShardTileItem: {
-				DisplayName: Starlight Shard
-				Tooltip: Debug Item
+				DisplayName: Осколок звёздного света
+				Tooltip: Предмет отладки
 			}
 
 			WindsTileItem: {
-				DisplayName: Forbidden Winds
-				Tooltip: Debug placer for ability pickup
+				DisplayName: Запретные ветра
+				Tooltip: Отладочное размещение для получения способности
 			}
 
 			CookStationItem: {
@@ -2246,8 +2246,8 @@ Mods: {
 			}
 
 			InfuserItem: {
-				DisplayName: "[PH]Infuser"
-				Tooltip: Used to imprint infusions
+				DisplayName: "[PH]Насытитель"
+				Tooltip: Используется для наложения насыщений
 			}
 
 			AnkhChestItem: {
@@ -2256,8 +2256,8 @@ Mods: {
 			}
 
 			DesertMonolithFlippedItem: {
-				DisplayName: Перевернутый монолит пустыни
-				Tooltip: Ставит кусок перевернутого монолита пустыни
+				DisplayName: Перевёрнутый монолит пустыни
+				Tooltip: Ставит кусок перевёрнутого монолита пустыни
 			}
 
 			DesertMonolithItem: {
@@ -2373,13 +2373,13 @@ Mods: {
 			}
 
 			NoxiousNodeItem: {
-				DisplayName: Noxious Node
-				Tooltip: Debug item
+				DisplayName: Ядовитый нарост
+				Tooltip: Предмет отладки
 			}
 
 			OvergrowthLivingWoodItem: {
 				DisplayName: Заросшее живое дерево
-				Tooltip: "[PH] make this a wand and stuffs"
+				Tooltip: "[PH] сделайте это жезлами и посохами"
 			}
 
 			Rock2x2Item: {
@@ -2388,7 +2388,7 @@ Mods: {
 			}
 
 			SkeletonBrickItem: {
-				DisplayName: Скелетальный кирпич
+				DisplayName: Костяной кирпич
 				Tooltip: ""
 			}
 
@@ -2408,17 +2408,17 @@ Mods: {
 			}
 
 			WindowSmallItem: {
-				DisplayName: Smol Window
-				Tooltip: Debug Item
+				DisplayName: Маленькое окно
+				Tooltip: Предмет отладки
 			}
 
 			WispAltarLItem: {
-				DisplayName: Wisp Altar L Placer
+				DisplayName: Разместитель алтаря призраков Л
 				Tooltip: Debug Item
 			}
 
 			WispAltarRItem: {
-				DisplayName: Wisp Altar R Placer
+				DisplayName: Разместитель алтаря призраков П
 				Tooltip: Debug Item
 			}
 
@@ -2448,7 +2448,7 @@ Mods: {
 			}
 
 			AuroraBrickDoorItem: {
-				DisplayName: Debug Brick Placer
+				DisplayName: Отладочный разместитель кирпича
 				Tooltip: ""
 			}
 
@@ -2478,12 +2478,12 @@ Mods: {
 			}
 
 			DoorBombShooterItem: {
-				DisplayName: Debug Shooter Placer
+				DisplayName: Отладочное размещение стрелка
 				Tooltip: ""
 			}
 
 			PermafrostIceItem: {
-				DisplayName: Лед вечной мерзлоты
+				DisplayName: Лёд вечной мерзлоты
 				Tooltip: ""
 			}
 
@@ -2493,12 +2493,12 @@ Mods: {
 			}
 
 			TouchstoneLootboxItem: {
-				DisplayName: Установщик сундука Путевого камня
+				DisplayName: Установщик сундука путеводного камня
 				Tooltip: ""
 			}
 
 			AuroracleTrophyItem: {
-				DisplayName: Трофей Авроракула
+				DisplayName: Трофей Авроракла
 				Tooltip: ""
 			}
 
@@ -2508,8 +2508,8 @@ Mods: {
 			}
 
 			CombatShrineItem: {
-				DisplayName: Combat shrine placer
-				Tooltip: debug item
+				DisplayName: Разместитель алтаря боевых испытаний
+				Tooltip: Предмет отладки
 			}
 
 			HotspringFountainItem: {
@@ -2523,17 +2523,17 @@ Mods: {
 			}
 
 			DashBarrierItem: {
-				DisplayName: Dash Barrier
-				Tooltip: Debug Item
+				DisplayName: Барьер при рывк
+				Tooltip: Предмет отладки
 			}
 
 			JarTallItem: {
-				DisplayName: Stamina Jar Placer (Tall)
-				Tooltip: Debug Item
+				DisplayName: Разместитель кувшина выносливости (высокий)
+				Tooltip: Предмет отладки
 			}
 
 			TempleChestPlacer: {
-				DisplayName: Temple Chest Placer
+				DisplayName: Разместитель сундука храма
 				Tooltip: ""
 			}
 
@@ -2548,13 +2548,13 @@ Mods: {
 			}
 
 			TestBubble: {
-				DisplayName: Bubble
-				Tooltip: Debug Item
+				DisplayName: Пузырёк
+				Tooltip: Предмет отладки
 			}
 
 			VerletBannerItem: {
-				DisplayName: Verlet banner
-				Tooltip: Debug Item
+				DisplayName: Знамя Верле
+				Tooltip: Предмет отладки
 			}
 
 			AncientSandstonePillarWallItem: {
@@ -2583,32 +2583,32 @@ Mods: {
 			}
 
 			ForgeDoorItem: {
-				DisplayName: Forge Door
-				Tooltip: Debug Item
+				DisplayName: Дверь кузни
+				Tooltip: Предмет отладки
 			}
 
 			ForgeInnerDoorItem: {
-				DisplayName: Forge Inner Door
-				Tooltip: Debug Item
+				DisplayName: Внутренняя дверь кузни
+				Tooltip: Предмет отладки
 			}
 
 			RedBannerShortItem: {
-				DisplayName: Short Flowing Banner
-				Tooltip: Debug Item
+				DisplayName: Короткое развевающееся знамя
+				Tooltip: Предмет отладки
 			}
 
 			CrystalSlimeSpawnerItem: {
-				DisplayName: NPC Spawner
+				DisplayName: Спавнер НИПов
 				Tooltip: ""
 			}
 
 			DashableDoorItem: {
-				DisplayName: DashableDoor
-				Tooltip: Debug Item
+				DisplayName: Рывковая дверь
+				Tooltip: Предмет отладки
 			}
 
 			DoorGearsItem: {
-				DisplayName: Дверь от головоломки с шестеренками храма
+				DisplayName: Дверь от головоломки с шестерёнками храма
 				Tooltip: Дверь храма, открывается, если головоломка решена
 			}
 
@@ -2623,38 +2623,38 @@ Mods: {
 			}
 
 			EntranceDoorItem: {
-				DisplayName: EntranceDoor
-				Tooltip: Debug Item
+				DisplayName: ВходнаяДверь
+				Tooltip: Предмет отладки
 			}
 
 			GearPuzzleOriginPlacer: {
-				DisplayName: Gear puzzle origin
-				Tooltip: Debug Item
+				DisplayName: Старая головоломка с шестерёнками
+				Tooltip: Предмет отладки
 			}
 
 			GearTilePlacer: {
-				DisplayName: Gear puzzle
-				Tooltip: Debug Item
+				DisplayName: Головоломка с шестерёнками
+				Tooltip: Предмет отладки
 			}
 
 			ObjectiveGearItem: {
-				DisplayName: Gear puzzle Point
-				Tooltip: Debug Item
+				DisplayName: Пункт головоломки с механизмами
+				Tooltip: Предмет отладки
 			}
 
 			LightActorItem: {
-				DisplayName: Light actor placer
-				Tooltip: Debug item
+				DisplayName: Разместитель светового объекта
+				Tooltip: Предмет отладки
 			}
 
 			LensItem: {
-				DisplayName: Reflector Lens
-				Tooltip: Debug Item
+				DisplayName: Отражающая линза
+				Tooltip: Предмет отладки
 			}
 
 			ReflectorItem: {
-				DisplayName: Reflector
-				Tooltip: Debug Item
+				DisplayName: Отражатель
+				Tooltip: Предмет отладки
 			}
 
 			LowWindBannerItem: {
@@ -2663,33 +2663,33 @@ Mods: {
 			}
 
 			MainForgeItem: {
-				DisplayName: Main forge
-				Tooltip: Debug item
+				DisplayName: Основная кузница
+				Tooltip: Предмет отладки
 			}
 
 			NPCSpawnerItem: {
-				DisplayName: NPC Spawner
+				DisplayName: Спавнер НИПов
 				Tooltip: ""
 			}
 
 			OldCeirosShrineItem: {
-				DisplayName: Old Ceiros Shrine
-				Tooltip: Debug Item
+				DisplayName: Святилище старого Кайроса
+				Tooltip: Предмет отладки
 			}
 
 			TallWindowCrystalItem: {
-				DisplayName: Crystal Window Actor
-				Tooltip: Debug Item
+				DisplayName: Объект кристального окна
+				Tooltip: Предмет отладки
 			}
 
 			TallWindowItem: {
-				DisplayName: Window Actor
-				Tooltip: Debug Item
+				DisplayName: Объект окна
+				Tooltip: Предмет отладки
 			}
 
 			TallWindowLavaItem: {
-				DisplayName: Lava Window Actor
-				Tooltip: Debug Item
+				DisplayName: Объект лавового окна
+				Tooltip: Предмет отладки
 			}
 
 			TempleCandleCrystalItem: {
@@ -2713,13 +2713,13 @@ Mods: {
 			}
 
 			TutorialDoor1Item: {
-				DisplayName: TutorialDoor1
-				Tooltip: Debug Item
+				DisplayName: ДверьОбучения1
+				Tooltip: Предмет отладки
 			}
 
 			TutorialDoor2Item: {
-				DisplayName: TutorialDoor2
-				Tooltip: Debug Item
+				DisplayName: ДверьОбучения2
+				Tooltip: Предмет отладки
 			}
 
 			VitricPillarWallCrystalItem: {
@@ -2743,8 +2743,8 @@ Mods: {
 			}
 
 			VitricTempleWallItem: {
-				DisplayName: Vitric Forge Brick Wall (Danger)
-				Tooltip: Debug item
+				DisplayName: Кирпичная стена стеклянной кузницы (опасная)
+				Tooltip: Предмет отладки
 			}
 
 			VitricTempleWallSafeItem: {
@@ -2753,8 +2753,8 @@ Mods: {
 			}
 
 			WindsRoomActorItem: {
-				DisplayName: Winds Room Actor
-				Tooltip: Debug Item
+				DisplayName: Объект ветрянной комнаты
+				Tooltip: Предмет отладки
 			}
 
 			VitricBannerSmallItem: {
@@ -2763,18 +2763,18 @@ Mods: {
 			}
 
 			VitricBossAltarItem: {
-				DisplayName: Vitric Boss Altar Item
-				Tooltip: Debug Item
+				DisplayName: Предмет стеклянного алтаря босса
+				Tooltip: Предмет отладки
 			}
 
 			VitricBreakableVaseItem: {
-				DisplayName: Vitric Vase Placer
-				Tooltip: Debug Item
+				DisplayName: Разместитель стеклянной вазы
+				Tooltip: Предмет отладки
 			}
 
 			VitricFountainItem: {
-				DisplayName: Vitric Fountain
-				Tooltip: Debug Item
+				DisplayName: Стеклянный фонтан
+				Tooltip: Предмет отладки
 			}
 
 			VitricGiantCrystalItem: {
@@ -2788,8 +2788,8 @@ Mods: {
 			}
 
 			VitricLargeFountainItem: {
-				DisplayName: Vitric Large Fountain
-				Tooltip: Debug Item
+				DisplayName: Большой стеклянный фонтан
+				Tooltip: Предмет отладки
 			}
 
 			VitricLootBoxItem: {
