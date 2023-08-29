@@ -2379,7 +2379,7 @@ Mods: {
 
 			OvergrowthLivingWoodItem: {
 				DisplayName: Заросшее живое дерево
-				Tooltip: "[PH] сделайте это жезлами и посохами"
+				Tooltip: "[PH] сделайте это жезлом и всё такое"
 			}
 
 			Rock2x2Item: {
@@ -2753,7 +2753,7 @@ Mods: {
 			}
 
 			WindsRoomActorItem: {
-				DisplayName: Объект ветрянной комнаты
+				DisplayName: Объект комнаты ветров
 				Tooltip: Предмет отладки
 			}
 
@@ -2763,7 +2763,7 @@ Mods: {
 			}
 
 			VitricBossAltarItem: {
-				DisplayName: Предмет стеклянного алтаря босса
+				DisplayName: Предмет алтаря стеклянного босса
 				Tooltip: Предмет отладки
 			}
 
@@ -3098,7 +3098,7 @@ Mods: {
 			}
 
 			VitricGlassItem: {
-				DisplayName: Стекловидное стекло
+				DisplayName: Стекловидный блок
 				Tooltip: ""
 			}
 
