@@ -309,8 +309,8 @@ Mods: {
 			}
 
 			PerfectlyGenericArtifactItem: {
-				DisplayName: Совершенно универсальный объект
-				Tooltip: Призывает совершенно универсального питомца
+				DisplayName: Абсолютно непримечательный объект
+				Tooltip: Призывает абсолютно непримечательного питомца
 			}
 
 			PirateChestArtifactItem: {
@@ -1068,7 +1068,7 @@ Mods: {
 			}
 
 			BuffChalice: {
-				DisplayName: Чаша сплетения
+				DisplayName: Чаша Плексуса
 				Tooltip: Нанесение дебаффов временно увеличивает вашу инокуляцию
 			}
 
@@ -1109,7 +1109,7 @@ Mods: {
 			}
 
 			CoughDrops: {
-				DisplayName: Пилюли от кашля
+				DisplayName: Леденцы от кашля
 				Tooltip: Когда дебаффы снимаются, даёт временное ускорение и увеличение урона
 			}
 
@@ -1194,7 +1194,7 @@ Mods: {
 				Tooltip:
 					'''
 					Критические удары вырезают куски плоти из врагов.
-					Пожирайте куски, чтобы исцелиться и получить кровавое безумие.
+					Пожирайте куски, чтобы исцелиться и получить кровавое бешенство.
 					'''
 			}
 
@@ -1535,8 +1535,8 @@ Mods: {
 			}
 
 			Moonfury: {
-				DisplayName: Лунная ярость
-				Tooltip: Призывает осколок лунного камня, вызывающий огонь сновидений у пораженных врагов
+				DisplayName: Ярость Луны
+				Tooltip: Призывает осколок лунного камня, вызывающий пламя грёз у пораженных врагов
 			}
 
 			MoonstoneArrow: {
@@ -2413,13 +2413,13 @@ Mods: {
 			}
 
 			WispAltarLItem: {
-				DisplayName: Разместитель алтаря призраков Л
-				Tooltip: Debug Item
+				DisplayName: Разместитель алтаря духов Л
+				Tooltip: Предмет отладки
 			}
 
 			WispAltarRItem: {
-				DisplayName: Разместитель алтаря призраков П
-				Tooltip: Debug Item
+				DisplayName: Разместитель алтаря духов П
+				Tooltip: Предмет отладки
 			}
 
 			AuroraclePaintingItem: {
@@ -3788,11 +3788,11 @@ Mods: {
 
 				TownNPCMood: {
 					Content: Я доволен.
-					NoHome: Ужасно, что у меня нет дома.
+					NoHome: Я ненавижу отсутствие дома.
 					FarFromHome: Я далеко от дома.
 					LoveSpace: Мне нравится, как тут просторно.
 					DislikeCrowded: Мне не нравится, что тут людно.
-					HateCrowded: Я ненавижу, что тут людно.
+					HateCrowded: Я ненавижу толпу.
 					LikeNPC_Princess: Мне нравится {NPCName}.
 					Princess_LovesNPC: Мне нравится {NPCName}.
 				}
@@ -3828,7 +3828,7 @@ Mods: {
 			Coolmite.DisplayName: Кримит
 			CrystalPopper.DisplayName: Песчаная летучая мышь
 			CrystalSlime.DisplayName: Кристальный слизень
-			DesertWisp.DisplayName: Пустынный висп
+			DesertWisp.DisplayName: Пустынный дух
 			FlyingGruntConstruct.DisplayName: Летающий конструкт-пехотинец
 			FlyingPelterConstruct.DisplayName: Летающий конструкт-лучник
 			GruntConstruct.DisplayName: Конструкт-пехотинец
@@ -3840,19 +3840,19 @@ Mods: {
 			LesserFirebug.DisplayName: Огнемушка
 			MagmitePassive.DisplayName: Маленький магмит
 			Snake.DisplayName: Песчаный змей
-			FaeflamePickup.DisplayName: Faeflame
+			FaeflamePickup.DisplayName: Волшебное пламя
 			ForbiddenWindsPickup.DisplayName: Запретные ветра
-			InfusionSlotPickup.DisplayName: Unnerving Device
+			InfusionSlotPickup.DisplayName: Пугающее устройство
 			BerrySlime.DisplayName: Слизнеягода
 			TouchstoneWisp.DisplayName: Дух авроры
-			ArenaBlocker.DisplayName: Arena Blocker
-			Auroraborn.DisplayName: Порождение севера
+			ArenaBlocker.DisplayName: Блокировщик арены
+			Auroraborn.DisplayName: Порождение авроры
 			Auroraling.DisplayName: Аврорщик
 			Tentacle.DisplayName: Щупальце
-			TentacleHurtbox.DisplayName: Tentacle Hurtbox
-			StarlightWaterActor.DisplayName: Starlight Water Actor
-			GravityOrbTest.DisplayName: Gravity Orb Test
-			BossRushGoal.DisplayName: Boss Rush Goal
+			TentacleHurtbox.DisplayName: Область уязвимости тентаклей
+			StarlightWaterActor.DisplayName: Объект звёздной воды
+			GravityOrbTest.DisplayName: Тест гравитационного шара
+			BossRushGoal.DisplayName: Цель босс-раша
 			Dweller.DisplayName: Глубарь
 			Stalker.DisplayName: Преследователь
 			Dreambeast.DisplayName: Зверь грёз
@@ -3863,11 +3863,11 @@ Mods: {
 
 				TownNPCMood: {
 					Content: Я доволен.
-					NoHome: Ужасно, что у меня нет дома.
+					NoHome: Я ненавижу отсутствие дома.
 					FarFromHome: Я далеко от дома.
 					LoveSpace: Мне нравится, как тут просторно.
 					DislikeCrowded: Мне не нравится, что тут людно.
-					HateCrowded: Я ненавижу, что тут людно.
+					HateCrowded: Я ненавижу толпу.
 					LikeNPC_Princess: Мне нравится {NPCName}.
 					Princess_LovesNPC: Мне нравится {NPCName}.
 				}
@@ -3878,18 +3878,18 @@ Mods: {
 
 				TownNPCMood: {
 					Content: Я доволен.
-					NoHome: Ужасно, что у меня нет дома.
+					NoHome: Я ненавижу отсутствие дома.
 					FarFromHome: Я далеко от дома.
 					LoveSpace: Мне нравится, как тут просторно.
 					DislikeCrowded: Мне не нравится, что тут людно.
-					HateCrowded: Я ненавижу, что тут людно.
+					HateCrowded: Я ненавижу толпу.
 					LikeNPC_Princess: Мне нравится {NPCName}.
 					Princess_LovesNPC: Мне нравится {NPCName}.
 				}
 			}
 
-			DesertWisp2.DisplayName: Desert Wisp2
-			StaminaShardPickup.DisplayName: Stamina Shard Pickup
+			DesertWisp2.DisplayName: Пустынный дух2
+			StaminaShardPickup.DisplayName: Подбираемый осколок выносливости
 		}
 
 		Buffs: {
@@ -3904,7 +3904,7 @@ Mods: {
 			}
 
 			CoughDropsBuff: {
-				DisplayName: Пилюли от кашля
+				DisplayName: Леденцы от кашля
 				Description: Ваша скорость и урон увеличены
 			}
 
@@ -3952,7 +3952,7 @@ Mods: {
 			}
 
 			Overcharge: {
-				DisplayName: Искажение снов
+				DisplayName: Искажение грёз
 				Description: Значительно уменьшена броня
 			}
 
@@ -4073,12 +4073,12 @@ Mods: {
 
 			CoachDebuff: {
 				DisplayName: Coach Debuff
-				Description: 10% increased damage
+				Description: Урон увеличен на 10%
 			}
 
 			FiletFrenzyBuff: {
-				DisplayName: Кровавое буйство
-				Description: Повышена скорость атаки, но снижена вероятность критического удара Филейного ножа
+				DisplayName: Кровавое бешенство
+				Description: Повышена скорость атаки, но снижена вероятность критического удара филейного ножа
 			}
 
 			ImpactSMGBuff: {
@@ -4087,7 +4087,7 @@ Mods: {
 			}
 
 			IronheartBuff: {
-				DisplayName: Стальное сердце
+				DisplayName: Железное сердце
 				Description: У вас есть постепенно распадающийся барьер и защита
 			}
 
@@ -4097,8 +4097,8 @@ Mods: {
 			}
 
 			MoonfuryDebuff: {
-				DisplayName: Dreamfire
-				Description: Next Moonfury hit has increased damage
+				DisplayName: Пламя грёз
+				Description: Следующий удар яростью Луны имеет увеличенный урон
 			}
 
 			AuroraThroneMountMinionDebuff: {
@@ -4127,7 +4127,7 @@ Mods: {
 			}
 
 			CogwheelBuff: {
-				DisplayName: Шестеренка
+				DisplayName: Шестерёнка
 				Description: They see me rollin'
 			}
 
@@ -4152,7 +4152,7 @@ Mods: {
 			}
 
 			SwelteredDeBuff: {
-				DisplayName: Изнурен
+				DisplayName: Изнурён
 				Description: Получаемый урон увеличен на 35%
 			}
 
