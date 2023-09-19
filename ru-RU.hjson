@@ -2838,13 +2838,13 @@ Mods: {
 			}
 
 			VitricBossBarrierItem: {
-				DisplayName: VitricBossBarrierItem
-				Tooltip: debug item
+				DisplayName: Предмет барьера стеклянного босса
+				Tooltip: предмет отладки
 			}
 
 			GlassweaverBossBarrierItem: {
-				DisplayName: GlassweaverBossBarrierItem
-				Tooltip: debug item
+				DisplayName: Предмет барьера босса Стеклопряда
+				Tooltip: предмет отлад
 			}
 
 			VitricBathtub: {
@@ -2933,13 +2933,13 @@ Mods: {
 			}
 
 			CombatShrineBarrierItem: {
-				DisplayName: CombatShrineBarrierItem
-				Tooltip: debug item
+				DisplayName: Предмет барьера алтаря боя
+				Tooltip: предмет отладки
 			}
 
 			EvasionShrineBarrierItem: {
-				DisplayName: EvasionShrineBarrierItem
-				Tooltip: debug item
+				DisplayName: Предмет барьера алтаря уклонения
+				Tooltip: предмет отладки
 			}
 
 			TempleChairItem: {
@@ -3123,7 +3123,7 @@ Mods: {
 			}
 
 			ExampleCombatMountItem: {
-				DisplayName: Example Combat Mount Item
+				DisplayName: Предмет-образец боевого ездового питомца
 				Tooltip: ""
 			}
 
@@ -4072,7 +4072,7 @@ Mods: {
 			}
 
 			CoachDebuff: {
-				DisplayName: Coach Debuff
+				DisplayName: Двуствольный дебафф
 				Description: Урон увеличен на 10%
 			}
 
@@ -4157,8 +4157,8 @@ Mods: {
 			}
 
 			Fogbinded: {
-				DisplayName: Fogbound
-				Description: Bound to the Fogbinder
+				DisplayName: Оковы тумана
+				Description: Привязаны к повелителю тумана
 			}
 
 			TouchstoneWispBuff: {
